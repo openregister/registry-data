@@ -1,0 +1,9 @@
+register: vat-rate
+text: |
+      The Value Added Tax (VAT) rate.
+registry: hm-revenue-customs
+fields:
+- vat-rate
+- rate
+- start-date
+- end-date

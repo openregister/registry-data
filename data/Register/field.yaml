@@ -1,0 +1,10 @@
+register: field
+text: |
+      The register of field names which may appear in a register.
+registry: cabinet-office
+fields:
+- field
+- datatype
+- register
+- cardinality
+- text

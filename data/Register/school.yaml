@@ -1,0 +1,16 @@
+register: school
+text: |
+      The register of primary, secondary and special needs schools in England and Wales.
+registry: department-for-education
+fields:
+- school
+- name
+- start-date
+- end-date
+- gender
+- religious-character
+- minimum-age
+- maximum-age
+- headteacher
+- website
+- address

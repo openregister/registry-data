@@ -1,0 +1,13 @@
+register: public-body
+text: |
+      The register of UK Ministerial Departments, agencies and public bodies sponsored by the UK government.
+registry: cabinet-office
+fields:
+- public-body
+- name
+- website
+- public-body-type
+- parent-bodies
+- text
+- crest
+- official-colour

@@ -1,0 +1,9 @@
+register: food-hygiene
+text: |
+      The register of [Food Standards Agency](http://www.food.gov.uk/) hygiene inspection ratings.
+fields:
+- food-hygiene
+- rating
+- name
+- date-of-rating
+- address

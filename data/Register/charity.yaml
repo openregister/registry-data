@@ -1,0 +1,10 @@
+register: charity
+text: |
+      The register of UK charities.
+registry: charity-commission
+fields:
+- charity
+- name
+- company
+- start-date
+- end-date

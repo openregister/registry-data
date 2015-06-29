@@ -1,0 +1,13 @@
+register: products-of-animal-origin-premises
+text: |
+      The register of approved premises of establishments handling,
+      preparing or producing products of animal origin as required by
+      [Regulation (EC) 853/2004](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:139:0055:0205:en:PDF).
+      [FSA](https://www.food.gov.uk/enforcement/sectorrules)
+
+registry: food-standards-agency
+fields:
+- products-of-animal-origin-premises
+- premises
+- products-of-animal-origin-activity
+- text

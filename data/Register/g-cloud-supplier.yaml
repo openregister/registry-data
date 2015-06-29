@@ -1,0 +1,10 @@
+register: g-cloud-supplier
+text: |
+      The suppliers listed on G-Cloud
+fields:
+- g-cloud-supplier
+- g-cloud-supplier-contact
+- name
+- company
+- ccs-sourcing-id
+- clients

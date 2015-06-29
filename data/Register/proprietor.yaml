@@ -1,0 +1,9 @@
+register: proprietor
+text: |
+      The register of owners of property titles in England and Wales.
+registry: land-register
+fields:
+- proprietor
+- name
+- address
+- email

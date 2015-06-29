@@ -1,0 +1,2 @@
+datatype: digest
+text: A [SHA-1](http://en.wikipedia.org/wiki/SHA-1), or possibly longer digest of data.

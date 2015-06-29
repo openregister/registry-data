@@ -1,0 +1,10 @@
+register: property-title
+text: |
+      The register of property ownership and permissions in England and Wales.
+registry: land-registry
+fields:
+- property-title
+- extent
+- start-date
+- price-paid
+- property

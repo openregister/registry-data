@@ -1,0 +1,11 @@
+register: premises
+text: |
+      The register of trading addresses
+
+registry: health-and-safety-executive
+fields:
+- premises
+- name
+- address
+- start-date
+- end-date

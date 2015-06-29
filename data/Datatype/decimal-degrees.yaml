@@ -1,0 +1,2 @@
+datatype: decimal-degrees
+text: Latitude and longitude geographic coordinates as decimal fractions. [Decimal Degrees](http://en.wikipedia.org/wiki/Decimal_degrees)

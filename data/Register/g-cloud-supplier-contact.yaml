@@ -1,0 +1,10 @@
+register: g-cloud-supplier-contact
+text: |
+      Contact details for suppliers listed on G-Cloud
+fields:
+- g-cloud-supplier-contact
+- website
+- contact-name
+- email
+- phone-number
+- address

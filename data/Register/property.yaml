@@ -1,0 +1,8 @@
+register: property
+text: |
+    The register of properties in England and Wales.
+registry: land-registry
+fields:
+- property
+- council-tax-band
+- address

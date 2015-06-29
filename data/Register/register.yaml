@@ -1,0 +1,10 @@
+register: register
+text: |
+      The register of UK government registers.
+registry: cabinet-office
+fields:
+- register
+- text
+- registry
+- copyright
+- fields

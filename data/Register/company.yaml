@@ -1,0 +1,16 @@
+register: company
+text: |
+      The register of UK companies.
+registry: companies-house
+fields:
+- name
+- company
+- company-account-category
+- company-status
+- company-type
+- accounts-last-made-up-date
+# should have address too but won't necessarily exist in address register
+- post-town
+- postcode
+- start-date
+- end-date
