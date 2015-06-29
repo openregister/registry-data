@@ -2,22 +2,28 @@
 
 ## This repo contains data for Register register, Field register and Datatype register
 
+### Prerequisites
 
+```
+mkvirtualenv -p /path/to/python3 somename
+pip3 install -r requirements.txt
+```
 
-### Working with the register register
+### Register register
 
 ####  Install requirements
 
 `make init`
 
-#### Import data into a register
+
+#### Import data into the Register register
 
 To import data, first adjust the Makefile REGISTER_URL variable with
 * On production: http://register.openregister.org
 * On local environment: http://register.openregister.dev:9000
 
 And then:<br>
-`make`
+`make register`
 
 ## Create a new register
 
@@ -33,11 +39,24 @@ To create a new register:
 [field.register]: https://github.com/openregister/field.register
 
 
-### Working with the field register
+### Datatype register
 
-#### Add a new field
+#### Import data into the datatype register
 
-Add a line to data/Field/fields.tsv
+To import data, first adjust the Makefile DATATYPE_URL variable with
+* On production: http://datatype.openregister.org
+* On local environment: http://datatype.openregister.dev:9000
+
+And then:<br>
+`make datatype`
+
+#### Add a new datatype
+
+1. add a yaml file for the register to the data/Datatype directory in
+   this repository and run the make task above again.
+
+
+### Field register
 
 #### Import data into the field register
 
@@ -47,5 +66,9 @@ Visit:
 * On local environment: http://register.openregister.dev:9000/load
 
 and follow instructions.
+
+#### Add a new field to field register
+
+Add a line to data/Field/fields.tsv. Then load as above.
 
 
