@@ -1,6 +1,6 @@
 register: premises
 text: |
-      The register of trading addresses
+      Trading addresses in the UK
 
 registry: health-and-safety-executive
 fields:

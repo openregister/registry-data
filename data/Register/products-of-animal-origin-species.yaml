@@ -1,6 +1,6 @@
 register: products-of-animal-origin-species
 text: |
-      The register of species for which an an approved premises may handle or
+      Species that an an approved premises may handle or
       prepare.
 registry: food-standards-agency
 fields:

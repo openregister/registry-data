@@ -1,5 +1,5 @@
 REGISTER_URL=http://register.openregister.org
-DATATYPE_URL=http://register.openregister.org
+DATATYPE_URL=http://datatype.openregister.org
 
 register:
 	bin/post_to_register.py --d data/Register --r ${REGISTER_URL}
