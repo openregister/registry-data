@@ -25,6 +25,9 @@ if __name__=='__main__':
         with open(path) as reg_file:
             yaml_file = yaml.load(reg_file)
             entry_json = json.dumps(yaml_file)
-            print('posting', entry_json)
-            # res = requests.post(url, headers=headers, data=entry_json)
-            # print('response status_code', res.status_code)
+            res = requests.post(url, headers=headers, data=entry_json)
+            if res.status_code == 202:
+                print('Created, status code', res.status_code, entry_json)
+            else:
+                print('Not created, status code', res.status_code, entry_json)
+
