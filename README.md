@@ -31,7 +31,7 @@ To create a new register:
 
 1. add a yaml file for the register to the data/register directory in
    this repository.
-2. ensure you have a `~/.boto` file with credentials for setting a CNAME in route 53.
+2. ensure you have a `~/.boto` [file with credentials](http://boto.readthedocs.org/en/latest/boto_config_tut.html) for setting a CNAME in route 53.
 3. ensure you have the [field.register][] repository checked out in
    the same directory as this repo.
 4. run the command: `bin/add_register.py data/register/<new-register>.yaml <herokuapp-to-host-register> --record_description="<description of a record for the field register>"`
