@@ -44,6 +44,7 @@ mot-test	string	mot-test	1	A Mot test register
 name	string		1	Name of field
 official-name	string		1	Official name of country
 official-colour	colour		1	Official colour for a public body.
+passport-office	string	passport-office	1	A passport office.
 parent-bodies	string		n	Parent bodies.
 phone-number	string		1	A UK telephone number
 post-town	string	post-town	1	A required part of postal addresses in the UK encompassing one or more postal districts.
