@@ -1,4 +1,4 @@
-register: product-of-animal-origin-section
+register: products-of-animal-origin-section
 text: |
       Categories of product of animal origin for which a premises has been
       approved, such as meat or dairy products. As required by
@@ -7,5 +7,5 @@ text: |
 
 registry: food-standards-agency
 fields:
-- product-of-animal-origin-section
+- products-of-animal-origin-section
 - name
