@@ -1,0 +1,11 @@
+register: product-of-animal-origin-premises-section
+text: |
+      Categories of product of animal origin for which a premises has been
+      approved, such as meat or dairy products. As required by
+      [Regulation (EC) 853/2004](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:139:0055:0205:en:PDF).
+      [FSA](https://www.food.gov.uk/enforcement/sectorrules)
+
+registry: food-standards-agency
+fields:
+- product-of-animal-origin-premises-section
+- name
