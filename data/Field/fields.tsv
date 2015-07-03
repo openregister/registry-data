@@ -80,4 +80,4 @@ products-of-animal-origin-activity	string		1	Handling and processing activities 
 products-of-animal-origin-section	string		1	A product of animal origin sector for which a products-of-animal-origin-premises is approved, for example Meat or Dairy.
 products-of-animal-origin-species	string	products-of-animal-origin-species	1	Species which for which an products-of-animal-origin-premises is approved to handle or prepare.
 legislation	string	legislation	1	Legislation or EU regulation.
-products-of-animal-origin-activities	string-set		n	List of food handling or processing activities.
+products-of-animal-origin-activities	string		n	List of food handling or processing activities.
