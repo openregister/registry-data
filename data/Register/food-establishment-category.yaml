@@ -1,0 +1,12 @@
+register: food-establishment-category
+text: |
+      Category of establishment processing food products of animal origin.
+      This register records the [food section](http://products-of-animal-origin-section.openregister.org/)
+      and [activity](http://products-of-animal-origin-activity.openregister.org/) that is approved for an establishment.
+      [More information](http://ec.europa.eu/food/food/biosafety/establishments/techspecs_en.pdf)
+
+registry: food-standards-agency
+fields:
+- food-establishment-category
+- products-of-animal-origin-activity
+- products-of-animal-origin-section

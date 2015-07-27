@@ -9,5 +9,5 @@ registry: food-standards-agency
 fields:
 - products-of-animal-origin-premises
 - premises
-- products-of-animal-origin-activities
+- food-establishment-categories
 - text
