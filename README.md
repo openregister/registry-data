@@ -1,6 +1,6 @@
-# alpha-registers-data
+## Registers
 
-## This repo contains data for Register register, Field register and Datatype register
+## Register register, Field register and Datatype register data
 
 ### Prerequisites
 
