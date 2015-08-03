@@ -33,9 +33,9 @@ headteacher	string		1	Headteacher of school.
 holder	curie		1	A person or an organisation holding an interest.
 hospital	string	hospital	1	A hospital.
 inspection-date	date-time		1	date when inspection is done.
-latitude	decimal-degrees		1	Latitude expressed as decimal degrees.
+latitude	decimal-degrees		1	Latitude of a place.
 locality	string		1	The area within a post town.
-longitude	decimal-degrees		1	Longitude expressed as decimal degrees.
+longitude	decimal-degrees		1	Longitude of a place.
 make	string		1	A vehicle make.
 maximum-age	integer		1	Maximum intake age for pupils at a school.
 minimum-age	integer		1	Minimum intake age for pupils at a school.
