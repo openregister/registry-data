@@ -2,6 +2,7 @@ field	datatype	register	cardinality	text
 accounts-last-made-up-date	string		1	The date a company last made up its accounts to.
 address	string	address	1	A place in the UK with a postal address.
 area	string		1	The administrative area of an address.
+boundary	polygon		n	A geographic boundary.
 cardinality	string		1	Number of elements of the set (1 or n).
 ccs-sourcing-id	string		1	A Crown Commercial Service sourcing id.
 charity	string	charity	1	A UK charity company.
