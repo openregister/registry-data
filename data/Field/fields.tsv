@@ -2,6 +2,7 @@ field	datatype	register	cardinality	text
 accounts-last-made-up-date	string		1	The date a company last made up its accounts to.
 address	string	address	1	A place in the UK with a postal address.
 area	string		1	The administrative area of an address.
+boundary	polygon		n	A geographic boundary.
 cardinality	string		1	Number of elements of the set (1 or n).
 ccs-sourcing-id	string		1	A Crown Commercial Service sourcing id.
 charity	string	charity	1	A UK charity company.
@@ -33,9 +34,9 @@ headteacher	string		1	Headteacher of school.
 holder	curie		1	A person or an organisation holding an interest.
 hospital	string	hospital	1	A hospital.
 inspection-date	date-time		1	date when inspection is done.
-latitude	decimal-degrees		1	Latitude expressed as decimal degrees.
+latitude	decimal-degrees		1	Latitude of a place.
 locality	string		1	The area within a post town.
-longitude	decimal-degrees		1	Longitude expressed as decimal degrees.
+longitude	decimal-degrees		1	Longitude of a place.
 make	string		1	A vehicle make.
 maximum-age	integer		1	Maximum intake age for pupils at a school.
 minimum-age	integer		1	Minimum intake age for pupils at a school.
