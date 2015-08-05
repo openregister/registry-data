@@ -1,0 +1,12 @@
+register: registration-district
+text: |
+      Registration districts in England and Wales which exist for the
+      purpose of civil registration of births, marriages, and deaths
+      and civil partnerships. Registration district data is maintained by
+      the General Register Office of HM Passport Office.
+registry: hm-passport-office
+fields:
+- registration-district
+- name
+- start-date
+- end-date
