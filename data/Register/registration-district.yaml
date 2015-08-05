@@ -10,3 +10,4 @@ fields:
 - name
 - start-date
 - end-date
+- boundary
