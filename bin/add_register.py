@@ -20,7 +20,7 @@ import boto.route53
 import requests
 
 
-FIELD_DATA_TSV_FILENAME=os.path.realpath(os.path.dirname(__file__) + '/../../field.register/data/Field/fields.tsv')
+FIELD_DATA_TSV_FILENAME=os.path.realpath(os.path.dirname(__file__) + '/../data/Field/fields.tsv')
 
 
 def verify_all_fields_exist(register_dict):
