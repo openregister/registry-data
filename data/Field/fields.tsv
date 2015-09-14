@@ -84,3 +84,5 @@ legislation	string	legislation	1	Legislation or EU regulation.
 food-establishment-category	string	food-establishment-category	1	A combination of product of animal origin section and activity that desribes the type of food establishment that is subject of approval.
 food-establishment-categories	string		n	List of food establishment types.
 registration-district	string	registration-district	1	A registration district
+government-domain	string	government-domain	1	A domain
+owner	string		1	An owner of government domain
