@@ -3,9 +3,9 @@ text: |
       The register of places in the UK with a postal address. Some addresses have a geographical location.
 registry: ordnance-survey
 copyright: |
-    Contains Ordnance Survey data &copy; Crown copyright & database right 2015  
-    Contains National Statistics data &copy; Crown copyright & database right 2015  
-    Contains Royal Mail data &copy; Royal Mail copyright & database right 2015  
+    Contains Ordnance Survey data © Crown copyright & database right 2015
+    Contains National Statistics data © Crown copyright & database right 2015
+    Contains Royal Mail data © Royal Mail copyright & database right 2015
 fields:
 - address
 - property
