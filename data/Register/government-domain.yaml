@@ -1,6 +1,7 @@
-register: "government-domain"
-text: "The register of UK Government domain names."
+register: government-domain
+text: |
+      The register of UK Government domain names.
 fields:
-- "government-domain"
-- "owner"
-- "end-date"
+- government-domain
+- owner
+- end-date
