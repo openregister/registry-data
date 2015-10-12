@@ -24,7 +24,7 @@ email	string		1	An email address.
 end-date	date-time		1	End datetime for the applicability of a register entry.
 extent	string		1	A polygon representing the extent of a place.
 field	string	field	1	Field name of register entry.
-fields	string		n	Set of field names.
+fields	string	field	n	Set of field names.
 food-hygiene	string	food-hygiene	1	The register of [Food Standards Agency](http://www.food.gov.uk/) hygiene inspection ratings.
 fuel-type	string		1	Fuel type for vehicle.
 g-cloud-supplier	string	g-cloud-supplier	1	A G-Cloud supplier.
