@@ -9,5 +9,5 @@
 {"text":"The register of UK Ministerial Departments, agencies and public bodies sponsored by the UK government.\n","fields":["public-body","name","website","public-body-type","parent-bodies","text","crest","official-colour"],"register":"public-body","registry":"cabinet-office"}
 {"text":"The register of UK government registers.\n","fields":["register","text","registry","copyright","fields"],"register":"register","registry":"cabinet-office"}
 {"text":"Trading addresses in the UK\n","fields":["premises","name","address","start-date","end-date","company"],"register":"premises","registry":"health-and-safety-executive"}
-{"text":"The register of UK Government domain names.\n","fields":["government-domain","owner","end-date"],"register":"government-domain"}
+{"text":"The register of UK Government domain names.\n","fields":["government-domain","owner","end-date"],"register":"government-domain","registry":"government-digital-service"}
 {"text":"The register of primary, secondary andÂ special needs schools in England and Wales.\n","fields":["school","name","start-date","end-date","gender","religious-character","minimum-age","maximum-age","headteacher","website","address"],"register":"school","registry":"department-for-education"}

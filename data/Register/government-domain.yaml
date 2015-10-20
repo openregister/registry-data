@@ -1,4 +1,5 @@
 register: government-domain
+registry: government-digital-service
 text: |
       The register of UK Government domain names.
 fields:
