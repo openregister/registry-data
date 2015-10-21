@@ -42,3 +42,6 @@ town	string		1	The town of an address.
 website	url		1	Website for register entry.
 government-domain	string	government-domain	1	A domain
 owner	string		1	An owner of government domain
+food-hygiene	string	food-hygiene	1	The register of [Food Standards Agency](http://www.food.gov.uk/) hygiene inspection ratings.
+date-of-rating	date-time		1	Date of Food Standards Agency hygiene rating.
+rating	integer		1	Food hygiene rating.
