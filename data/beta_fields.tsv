@@ -45,3 +45,19 @@ owner	string		1	An owner of government domain
 food-hygiene	string	food-hygiene	1	The register of [Food Standards Agency](http://www.food.gov.uk/) hygiene inspection ratings.
 date-of-rating	date-time		1	Date of Food Standards Agency hygiene rating.
 rating	integer		1	Food hygiene rating.
+food-premises	string	food-premises	1	A premises which sells food.
+business	curie		1	A Limited Company, School or other legal entity that trades.
+food-premises-type	string	food-premises-type	1	The type of food premises.
+food-premises-types	string	food-premises-type	n	A set of food premises types.
+food-premises-rating	integer		1	A score for the rating of a food premises.
+food-premises	string	food-premises	1	A premises which serves or processes food.
+food-premises-rating-value	integer		1	A rating of the food hygiene served at a premises, 0-5 with 5 meaning 'very good'.
+food-premises-rating-hygiene-score	integer		1	Level of compliance with food hygiene and safety procedures including food handling practices and procedures, and temperature control. Lower scores are better.
+food-premises-rating-structural-score	integer		1	Level of compliance with structural requirements including cleanliness, layout, condition of structure, lighting, ventilation, facilities etc. Lower scores are better.
+food-premises-rating-confidence-in-management-score	integer		1	Level of confidence with management. Lower scores are better.
+local-authority	string	local-authority	1	A Local Authority in England, Scotland, Wales or Northern Ireland.
+food-premises-rating-reply	text		1	An explanation by a food-premises to potential customers any actions that have taken to improve hygiene standards after a food hygiene rating has been given or to say if there were particular circumstances at the time of the inspection that might have affected the rating.
+premises	string	premises	1	A business premises.
+email	string		1	An email address for contact.
+industry	string	industry	1	Standard industrial classification.
+registered-office	string	address	1	Registered address for a company or other legal entity.
