@@ -61,3 +61,4 @@ premises	string	premises	1	A business premises.
 email	string		1	An email address for contact.
 industry	string	industry	1	Standard industrial classification.
 registered-office	string	address	1	Registered address for a company or other legal entity.
+inspector	curie		1	The organisation conducting an inspection
