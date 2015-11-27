@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: accounts-last-made-up-date
+phase: alpha
+register: ''
+text: The date a company last made up its accounts to.

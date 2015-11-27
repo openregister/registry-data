@@ -1,0 +1,11 @@
+fields:
+- food-premises
+- name
+- business
+- food-premises-type
+- start-date
+- end-date
+phase: alpha
+register: food-premises
+registry: food-standards-agency
+text: The register of food premises.

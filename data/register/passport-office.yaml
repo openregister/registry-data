@@ -1,7 +1,0 @@
-register: passport-office
-text: |
-      HM Passport office locations in the UK
-fields:
-- passport-office
-- name
-- address

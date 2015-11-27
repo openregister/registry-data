@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: headteacher
+phase: alpha
+register: ''
+text: Headteacher of school.

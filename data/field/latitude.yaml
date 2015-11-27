@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: decimal-degrees
+field: latitude
+phase: alpha
+register: ''
+text: Latitude of a place.

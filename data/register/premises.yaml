@@ -1,12 +1,9 @@
-register: premises
-text: |
-      Trading addresses in the UK
-
-registry: health-and-safety-executive
 fields:
 - premises
-- name
 - address
 - start-date
 - end-date
-- company
+phase: alpha
+register: premises
+registry: valuation-office-agency
+text: The register of business premises.

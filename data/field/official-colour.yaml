@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: colour
+field: official-colour
+phase: alpha
+register: ''
+text: Official colour for a public body.

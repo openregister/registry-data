@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: cardinality
+phase: alpha
+register: ''
+text: Number of elements of the set (1 or n).

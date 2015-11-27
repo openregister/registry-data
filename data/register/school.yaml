@@ -1,7 +1,3 @@
-register: school
-text: |
-      The register of primary, secondary and special needs schools in England and Wales.
-registry: department-for-education
 fields:
 - school
 - name
@@ -14,3 +10,8 @@ fields:
 - headteacher
 - website
 - address
+phase: alpha
+register: school
+registry: department-for-education
+text: "The register of primary, secondary and\xC2 special needs schools in England\
+  \ and Wales.\n"

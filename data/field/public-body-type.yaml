@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: public-body-type
+phase: alpha
+register: ''
+text: Type of government body.

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: registered-office
+phase: alpha
+register: address
+text: Registered address for a company or other legal entity.

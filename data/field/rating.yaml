@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: integer
+field: rating
+phase: alpha
+register: ''
+text: Food hygiene rating.

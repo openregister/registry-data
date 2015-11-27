@@ -1,7 +1,3 @@
-register: public-body
-text: |
-      The register of UK Ministerial Departments, agencies and public bodies sponsored by the UK government.
-registry: cabinet-office
 fields:
 - public-body
 - name
@@ -11,3 +7,10 @@ fields:
 - text
 - crest
 - official-colour
+phase: alpha
+register: public-body
+registry: cabinet-office
+text: 'The register of UK Ministerial Departments, agencies and public bodies sponsored
+  by the UK government.
+
+  '

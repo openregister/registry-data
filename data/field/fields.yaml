@@ -1,0 +1,6 @@
+cardinality: n
+datatype: string
+field: fields
+phase: alpha
+register: field
+text: Set of field names.

@@ -1,0 +1,7 @@
+cardinality: '1'
+datatype: string
+field: post-town
+phase: alpha
+register: post-town
+text: A required part of postal addresses in the UK encompassing one or more postal
+  districts.

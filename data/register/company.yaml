@@ -1,16 +1,14 @@
-register: company
-text: |
-      The register of UK companies.
-registry: companies-house
 fields:
-- name
 - company
-- company-account-category
+- name
 - company-status
-- company-type
-- accounts-last-made-up-date
-# should have address too but won't necessarily exist in address register
-- post-town
-- postcode
+- registered-office
+- industry
 - start-date
 - end-date
+phase: alpha
+register: company
+registry: companies-house
+text: 'The register of UK companies.
+
+  '

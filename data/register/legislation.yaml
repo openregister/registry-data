@@ -1,8 +1,0 @@
-register: legislation
-text: |
-      Register of legislation.
-registry:
-fields:
-- legislation
-- section
-- chapter

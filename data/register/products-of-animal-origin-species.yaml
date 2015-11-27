@@ -1,8 +1,0 @@
-register: products-of-animal-origin-species
-text: |
-      Species that an an approved premises may handle or
-      prepare.
-registry: food-standards-agency
-fields:
-- products-of-animal-origin-species
-- text

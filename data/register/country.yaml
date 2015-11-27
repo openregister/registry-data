@@ -1,7 +1,3 @@
-register: country
-text: |
-      The register of [Foreign & Commonwealth Office](https://www.gov.uk/government/organisations/foreign-commonwealth-office) list of approved British English-language names and descriptive terms for [countries](http://country.openregister.org) and territories of the world and their citizens.
-registry: foreign-commonwealth-office
 fields:
 - country
 - name
@@ -10,3 +6,11 @@ fields:
 - start-date
 - end-date
 - text
+phase: alpha
+register: country
+registry: foreign-commonwealth-office
+text: 'The register of [Foreign & Commonwealth Office](https://www.gov.uk/government/organisations/foreign-commonwealth-office)
+  list of approved British English-language names and descriptive terms for [countries](http://country.openregister.org)
+  and territories of the world and their citizens.
+
+  '

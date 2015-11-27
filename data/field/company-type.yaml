@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: company-type
+phase: alpha
+register: ''
+text: The type of a UK company.

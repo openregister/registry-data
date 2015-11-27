@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: registry
+phase: alpha
+register: public-body
+text: Organisation responsible for the data in the register.

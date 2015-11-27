@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: public-body
+phase: alpha
+register: public-body
+text: A UK governmental body.

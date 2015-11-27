@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: text
+field: text
+phase: alpha
+register: ''
+text: Description of register entry.

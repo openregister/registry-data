@@ -1,9 +1,12 @@
-register: post-town
-text: |
-      The register of [Post towns](http://en.wikipedia.org/wiki/Post_town) which may appear in postal [addresses](http://address.openregister.org) in the UK.
-registry: cabinet-office
 fields:
 - post-town
 - start-date
 - end-date
 - text
+phase: alpha
+register: post-town
+registry: cabinet-office
+text: 'The register of [Post towns](http://en.wikipedia.org/wiki/Post_town) which
+  may appear in postal [addresses](http://address.openregister.org) in the UK.
+
+  '

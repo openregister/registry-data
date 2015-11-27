@@ -1,2 +1,3 @@
 datatype: string-set
+phase: alpha
 text: A set of string values.

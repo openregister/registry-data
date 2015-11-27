@@ -1,0 +1,9 @@
+fields:
+- industry
+- name
+- start-date
+- end-date
+phase: alpha
+register: industry
+registry: office-for-national-statistics
+text: Standard industry codes.

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school
+phase: alpha
+register: school
+text: A school in the UK.

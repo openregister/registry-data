@@ -1,10 +1,12 @@
-register: register
-text: |
-      The register of UK government registers.
-registry: cabinet-office
 fields:
 - register
 - text
 - registry
 - copyright
 - fields
+phase: alpha
+register: register
+registry: cabinet-office
+text: 'The register of UK government registers.
+
+  '

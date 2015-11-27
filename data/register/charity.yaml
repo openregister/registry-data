@@ -1,10 +1,12 @@
-register: charity
-text: |
-      The register of UK charities.
-registry: charity-commission
 fields:
 - charity
 - name
 - company
 - start-date
 - end-date
+phase: alpha
+register: charity
+registry: charity-commission
+text: 'The register of UK charities.
+
+  '

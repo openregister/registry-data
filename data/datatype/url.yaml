@@ -1,2 +1,5 @@
 datatype: url
-text: A [URL](http://en.wikipedia.org/wiki/Uniform_resource_locator) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it
+phase: alpha
+text: A [URL](http://en.wikipedia.org/wiki/Uniform_resource_locator) is a reference
+  to a resource that specifies the location of the resource on a computer network
+  and a mechanism for retrieving it

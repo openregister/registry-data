@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: property
+phase: alpha
+register: property
+text: A building, institution or house name in an address.

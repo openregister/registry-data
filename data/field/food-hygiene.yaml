@@ -1,0 +1,7 @@
+cardinality: '1'
+datatype: string
+field: food-hygiene
+phase: alpha
+register: food-hygiene
+text: The register of [Food Standards Agency](http://www.food.gov.uk/) hygiene inspection
+  ratings.

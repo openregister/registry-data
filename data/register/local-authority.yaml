@@ -1,0 +1,12 @@
+fields:
+- local-authority
+- name
+- website
+- email
+- address
+- start-date
+- end-date
+phase: alpha
+register: local-authority
+registry: department-for-communities-and-local-government
+text: The register of local authorities.

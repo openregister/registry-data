@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: local-authority
+phase: alpha
+register: local-authority
+text: A Local Authority in England, Scotland, Wales or Northern Ireland.

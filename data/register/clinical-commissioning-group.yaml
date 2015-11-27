@@ -1,8 +1,0 @@
-register: clinical-commissioning-group
-text: |
-      The register of clinical commissioning groups.
-registry: nhs-commissioning-board
-fields:
-- clinical-commissioning-group
-- name
-- address
