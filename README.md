@@ -1,10 +1,10 @@
-# Register, field and datatype register data
+# Register register data
 
-Register entries for the
+The data for the
 [register register](http://register.openregister.org),
 [field register](http://field.openregister.org) and
 [datatype register](http://datatype.openregister.org)
-are currently maintained as individual yaml files in the [data](data/) directory.
+is currently maintained as individual yaml files in the [data](data/) directory.
 
 # Tests
 
