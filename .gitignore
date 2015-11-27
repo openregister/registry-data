@@ -1,1 +1,11 @@
 .DS_Store
+__pycache__/
+*.py[cod]
+
+.cache
+.coverage
+build
+dist
+*.egg-info
+tmp/
+htmlcov/
