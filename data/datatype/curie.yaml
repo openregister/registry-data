@@ -1,4 +1,3 @@
 datatype: curie
 phase: alpha
-text: A [CURIE](http://en.wikipedia.org/wiki/CURIE) defines a generic abbreviated
-  syntax for expressing Uniform Resource Identifiers (URIs). e.g. [isbn:0393315703]
+text: A [CURIE](http://en.wikipedia.org/wiki/CURIE) defines a generic abbreviated syntax for expressing Uniform Resource Identifiers (URIs). e.g. [isbn:0393315703]

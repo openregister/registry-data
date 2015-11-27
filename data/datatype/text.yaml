@@ -1,4 +1,3 @@
 datatype: text
 phase: alpha
-text: A block of text containing [Markdown](http://en.wikipedia.org/wiki/Markdown)
-  formatting instructions.
+text: A block of text containing [Markdown](http://en.wikipedia.org/wiki/Markdown) formatting instructions.
