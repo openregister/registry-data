@@ -34,7 +34,7 @@ def test_register(register):
     for field in item.keys:
         assert field in fields
         assert field in registers['register'].fields
-        assert item.text == item.text.rstrip()
+        assert item.text == item.text.rstrip(' \n\r.')
 
 
 @pytest.mark.parametrize('field', fields)
@@ -44,6 +44,7 @@ def test_field(field):
     for field in item.keys:
         assert field in register_fields
         assert field in registers['field'].fields
+        assert item.text == item.text.rstrip()
 
 
 @pytest.mark.parametrize('datatype', datatypes)
@@ -52,3 +53,4 @@ def test_datatype(datatype):
     assert item.datatype == datatype
     for field in item.keys:
         assert field in registers['datatype'].fields
+        assert item.text == item.text.rstrip()
