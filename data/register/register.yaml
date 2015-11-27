@@ -1,8 +1,8 @@
 fields:
 - register
 - text
-- phase
 - registry
+- phase
 - copyright
 - fields
 phase: alpha
