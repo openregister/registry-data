@@ -1,5 +1,7 @@
 # Register register data
 
+[![Build Status](https://travis-ci.org/openregister/registers.svg?branch=master)](https://travis-ci.org/openregister/registers)
+
 The data for the
 [register register](http://register.openregister.org),
 [field register](http://field.openregister.org) and
