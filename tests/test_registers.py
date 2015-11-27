@@ -36,6 +36,9 @@ def test_register(register):
         assert field in registers['register'].fields
         assert item.text == item.text.rstrip(' \n\r.')
 
+    for field in item.fields:
+        assert field in fields
+
 
 @pytest.mark.parametrize('field', fields)
 def test_field(field):
