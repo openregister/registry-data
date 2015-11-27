@@ -2,7 +2,7 @@ fields:
 - food-premises
 - name
 - business
-- food-premises-type
+- food-premises-types
 - start-date
 - end-date
 phase: alpha
