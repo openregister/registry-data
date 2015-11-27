@@ -1,18 +1,17 @@
 #!/usr/bin/env python
 
-# one-off hack script to turn beta JSON-L/TSV back to individual yaml entries 
+# one-off hack script to turn beta JSON-L/TSV back to individual yaml entries
 
-import sys
-from openregister import item
 from openregister.representations.jsonl import reader as jsonl_reader
 from openregister.representations.tsv import reader as tsv_reader
-from openregister.representations.yaml import Writer
+
 
 def dump_item(register, item):
     item.phase = "alpha"
     f = open('data/' + register + '/' + item[register] + '.yaml', "w")
     f.write(item.yaml)
     f.close()
+
 
 for item in jsonl_reader(open('beta/register.jsonl')):
     dump_item("register", item)
