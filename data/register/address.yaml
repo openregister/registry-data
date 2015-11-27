@@ -1,6 +1,5 @@
-copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 2015\n\
-  Contains National Statistics data \xA9 Crown copyright & database right 2015\nContains\
-  \ Royal Mail data \xA9 Royal Mail copyright & database right 2015\n"
+copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 2015
+Royal Mail data \xA9 Royal Mail copyright & database right 2015"
 fields:
 - address
 - property
@@ -15,7 +14,4 @@ fields:
 phase: alpha
 register: address
 registry: ordnance-survey
-text: 'The register of places in the UK with a postal address. Some addresses have
-  a geographical location.
-
-  '
+text: 'The register of places in the UK with a postal address. Some addresses have a geographical location.'
