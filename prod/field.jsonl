@@ -1,0 +1,62 @@
+{"cardinality":"1","datatype":"string","field":"accounts-last-made-up-date","phase":"alpha","register":"","text":"The date a company last made up its accounts to."}
+{"cardinality":"1","datatype":"string","field":"address","phase":"alpha","register":"address","text":"A place in the UK with a postal address."}
+{"cardinality":"1","datatype":"string","field":"area","phase":"alpha","register":"","text":"The administrative area of an address."}
+{"cardinality":"1","datatype":"curie","field":"business","phase":"alpha","register":"","text":"A Limited Company, School or other legal entity that trades."}
+{"cardinality":"1","datatype":"string","field":"cardinality","phase":"alpha","register":"","text":"Number of elements of the set (1 or n)."}
+{"cardinality":"1","datatype":"string","field":"citizen-names","phase":"alpha","register":"","text":"Name for the citzens of a country."}
+{"cardinality":"1","datatype":"string","field":"company-account-category","phase":"alpha","register":"","text":"The category of account of a UK company."}
+{"cardinality":"1","datatype":"string","field":"company-status","phase":"alpha","register":"","text":"The status of a UK company."}
+{"cardinality":"1","datatype":"string","field":"company-type","phase":"alpha","register":"","text":"The type of a UK company."}
+{"cardinality":"1","datatype":"string","field":"company","phase":"alpha","register":"company","text":"A UK registered company."}
+{"cardinality":"1","datatype":"text","field":"copyright","phase":"alpha","register":"","text":"Copyright for the data in the register."}
+{"cardinality":"1","datatype":"string","field":"country","phase":"alpha","register":"country","text":"ISO 3166-2 two letter code for a country."}
+{"cardinality":"1","datatype":"url","field":"crest","phase":"alpha","register":"","text":"Official crest for a government body."}
+{"cardinality":"1","datatype":"string","field":"datatype","phase":"alpha","register":"datatype","text":"The data type for constraining a field value."}
+{"cardinality":"1","datatype":"date-time","field":"date-of-rating","phase":"alpha","register":"","text":"Date of Food Standards Agency hygiene rating."}
+{"cardinality":"1","datatype":"string","field":"email","phase":"alpha","register":"","text":"An email address for contact."}
+{"cardinality":"1","datatype":"date-time","field":"end-date","phase":"alpha","register":"","text":"End datetime for the applicability of a register entry."}
+{"cardinality":"1","datatype":"string","field":"field","phase":"alpha","register":"field","text":"Field name of register entry."}
+{"cardinality":"n","datatype":"string","field":"fields","phase":"alpha","register":"field","text":"Set of field names."}
+{"cardinality":"1","datatype":"string","field":"food-hygiene","phase":"alpha","register":"food-hygiene","text":"The register of [Food Standards Agency](http://www.food.gov.uk/) hygiene inspection ratings."}
+{"cardinality":"1","datatype":"integer","field":"food-premises-rating-confidence-in-management-score","phase":"alpha","register":"","text":"Level of confidence with management. Lower scores are better."}
+{"cardinality":"1","datatype":"integer","field":"food-premises-rating-hygiene-score","phase":"alpha","register":"","text":"Level of compliance with food hygiene and safety procedures including food handling practices and procedures, and temperature control. Lower scores are better."}
+{"cardinality":"1","datatype":"text","field":"food-premises-rating-reply","phase":"alpha","register":"","text":"An explanation by a food-premises to potential customers any actions that have taken to improve hygiene standards after a food hygiene rating has been given or to say if there were particular circumstances at the time of the inspection that might have affected the rating."}
+{"cardinality":"1","datatype":"integer","field":"food-premises-rating-structural-score","phase":"alpha","register":"","text":"Level of compliance with structural requirements including cleanliness, layout, condition of structure, lighting, ventilation, facilities etc. Lower scores are better."}
+{"cardinality":"1","datatype":"integer","field":"food-premises-rating-value","phase":"alpha","register":"","text":"A rating of the food hygiene served at a premises, 0-5 with 5 meaning 'very good'."}
+{"cardinality":"1","datatype":"integer","field":"food-premises-rating","phase":"alpha","register":"","text":"A score for the rating of a food premises."}
+{"cardinality":"1","datatype":"string","field":"food-premises-type","phase":"alpha","register":"food-premises-type","text":"The type of food premises."}
+{"cardinality":"n","datatype":"string","field":"food-premises-types","phase":"alpha","register":"food-premises-type","text":"A set of food premises types."}
+{"cardinality":"1","datatype":"string","field":"food-premises","phase":"alpha","register":"food-premises","text":"A premises which serves or processes food."}
+{"cardinality":"1","datatype":"string","field":"gender","phase":"alpha","register":"","text":"Gender."}
+{"cardinality":"1","datatype":"string","field":"government-domain","phase":"alpha","register":"government-domain","text":"A domain"}
+{"cardinality":"1","datatype":"string","field":"headteacher","phase":"alpha","register":"","text":"Headteacher of school."}
+{"cardinality":"1","datatype":"string","field":"industry","phase":"alpha","register":"industry","text":"Standard industrial classification."}
+{"cardinality":"1","datatype":"curie","field":"inspector","phase":"alpha","register":"","text":"The organisation conducting an inspection"}
+{"cardinality":"1","datatype":"decimal-degrees","field":"latitude","phase":"alpha","register":"","text":"Latitude of a place."}
+{"cardinality":"1","datatype":"string","field":"local-authority","phase":"alpha","register":"local-authority","text":"A Local Authority in England, Scotland, Wales or Northern Ireland."}
+{"cardinality":"1","datatype":"string","field":"locality","phase":"alpha","register":"","text":"The area within a post town."}
+{"cardinality":"1","datatype":"decimal-degrees","field":"longitude","phase":"alpha","register":"","text":"Longitude of a place."}
+{"cardinality":"1","datatype":"integer","field":"maximum-age","phase":"alpha","register":"","text":"Maximum intake age for pupils at a school."}
+{"cardinality":"1","datatype":"integer","field":"minimum-age","phase":"alpha","register":"","text":"Minimum intake age for pupils at a school."}
+{"cardinality":"1","datatype":"string","field":"name","phase":"alpha","register":"","text":"Name of field"}
+{"cardinality":"1","datatype":"colour","field":"official-colour","phase":"alpha","register":"","text":"Official colour for a public body."}
+{"cardinality":"1","datatype":"string","field":"official-name","phase":"alpha","register":"","text":"Official name of country"}
+{"cardinality":"1","datatype":"string","field":"owner","phase":"alpha","register":"","text":"An owner of government domain"}
+{"cardinality":"n","datatype":"string","field":"parent-bodies","phase":"alpha","register":"","text":"Parent bodies."}
+{"cardinality":"1","datatype":"string","field":"post-town","phase":"alpha","register":"post-town","text":"A required part of postal addresses in the UK encompassing one or more postal districts."}
+{"cardinality":"1","datatype":"string","field":"postcode","phase":"alpha","register":"postcode","text":"UK Postcodes."}
+{"cardinality":"1","datatype":"string","field":"premises","phase":"alpha","register":"premises","text":"A business premises."}
+{"cardinality":"1","datatype":"string","field":"property","phase":"alpha","register":"property","text":"A building, institution or house name in an address."}
+{"cardinality":"1","datatype":"string","field":"public-body-type","phase":"alpha","register":"","text":"Type of government body."}
+{"cardinality":"1","datatype":"string","field":"public-body","phase":"alpha","register":"public-body","text":"A UK governmental body."}
+{"cardinality":"1","datatype":"integer","field":"rating","phase":"alpha","register":"","text":"Food hygiene rating."}
+{"cardinality":"1","datatype":"string","field":"register","phase":"alpha","register":"register","text":"A register name."}
+{"cardinality":"1","datatype":"string","field":"registered-office","phase":"alpha","register":"address","text":"Registered address for a company or other legal entity."}
+{"cardinality":"1","datatype":"string","field":"registry","phase":"alpha","register":"public-body","text":"Organisation responsible for the data in the register."}
+{"cardinality":"1","datatype":"string","field":"religious-character","phase":"alpha","register":"","text":"Religious character of school as declared by the school."}
+{"cardinality":"1","datatype":"string","field":"school","phase":"alpha","register":"school","text":"A school in the UK."}
+{"cardinality":"1","datatype":"date-time","field":"start-date","phase":"alpha","register":"","text":"Start datetime for the applicability of a register entry."}
+{"cardinality":"1","datatype":"string","field":"street","phase":"alpha","register":"","text":"The number and street name of an address."}
+{"cardinality":"1","datatype":"text","field":"text","phase":"alpha","register":"","text":"Description of register entry."}
+{"cardinality":"1","datatype":"string","field":"town","phase":"alpha","register":"","text":"The town of an address."}
+{"cardinality":"1","datatype":"url","field":"website","phase":"alpha","register":"","text":"Website for register entry."}
