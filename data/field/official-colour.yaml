@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: colour
+datatype: string
 field: official-colour
 phase: alpha
 register: ''

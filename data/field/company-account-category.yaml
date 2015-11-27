@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: company-account-category
-phase: alpha
-register: ''
-text: The category of account of a UK company.

@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: date-time
-field: date-of-rating
-phase: alpha
-register: ''
-text: Date of Food Standards Agency hygiene rating.
