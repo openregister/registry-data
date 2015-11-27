@@ -1,5 +1,5 @@
 copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 2015
-Royal Mail data \xA9 Royal Mail copyright & database right 2015"
+Contains Royal Mail data \xA9 Royal Mail copyright & database right 2015"
 fields:
 - address
 - property
@@ -9,9 +9,7 @@ fields:
 - area
 - postcode
 - country
-- latitude
-- longitude
 phase: alpha
 register: address
-registry: ordnance-survey
+registry: office-for-national-statistics
 text: 'Postal addresses in the UK'
