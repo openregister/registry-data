@@ -9,7 +9,7 @@ PROD_DATA=\
 	prod/field.jsonl\
 	prod/datatype.jsonl
 
-all:	flake8 prod
+all:	flake8 test prod
 
 prod:	$(PROD_DATA)
 
@@ -24,6 +24,9 @@ prod/datatype.jsonl:	bin/register_jsonl.py
 
 flake8:
 	flake8 bin tests
+
+test:
+	py.test -v
 
 clean:
 	find . -name "*.pyc" | xargs rm -f
