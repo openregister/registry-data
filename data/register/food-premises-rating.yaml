@@ -13,4 +13,4 @@ fields:
 phase: alpha
 register: food-premises-rating
 registry: food-standards-agency
-text: The register of hygiene inspection ratings for food premises.
+text: 'Food hygiene inspection ratings'

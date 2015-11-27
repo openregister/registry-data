@@ -10,7 +10,4 @@ fields:
 phase: alpha
 register: public-body
 registry: cabinet-office
-text: 'The register of UK Ministerial Departments, agencies and public bodies sponsored
-  by the UK government.
-
-  '
+text: 'Ministerial Departments and agencies sponsored by HM Government'

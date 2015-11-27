@@ -9,4 +9,4 @@ fields:
 phase: alpha
 register: local-authority
 registry: department-for-communities-and-local-government
-text: The register of local authorities.
+text: 'Local authorities in England'

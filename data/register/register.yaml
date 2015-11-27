@@ -1,12 +1,11 @@
 fields:
 - register
 - text
+- phase
 - registry
 - copyright
 - fields
 phase: alpha
 register: register
 registry: cabinet-office
-text: 'The register of UK government registers.
-
-  '
+text: 'Registers maintained by HM Government'

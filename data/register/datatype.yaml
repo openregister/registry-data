@@ -1,10 +1,8 @@
 fields:
 - datatype
+- phase
 - text
 phase: alpha
 register: datatype
 registry: cabinet-office
-text: 'This register of datatypes constraining a field value and idenitifying ways
-  in which it may be encoded a representation.
-
-  '
+text: 'Datatypes constraining values used by register fields and idenitifying ways in which it may be encoded a representation'

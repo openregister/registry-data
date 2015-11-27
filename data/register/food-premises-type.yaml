@@ -4,4 +4,4 @@ fields:
 phase: alpha
 register: food-premises-type
 registry: food-standards-agency
-text: Types of food premises.
+text: 'Types of premises which prepare and serve food'

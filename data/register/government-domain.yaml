@@ -5,6 +5,4 @@ fields:
 phase: alpha
 register: government-domain
 registry: government-digital-service
-text: 'The register of UK Government domain names.
-
-  '
+text: 'Internet domain names used by HM Government'

@@ -8,6 +8,4 @@ fields:
 phase: alpha
 register: postcode
 registry: office-for-national-statistics
-text: 'The register of UK Postal codes which may appear in an [address](http://address.openregister.org).
-
-  '
+text: 'Postal codes which may appear in a UK address'

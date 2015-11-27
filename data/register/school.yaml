@@ -13,5 +13,4 @@ fields:
 phase: alpha
 register: school
 registry: department-for-education
-text: "The register of primary, secondary and\xC2 special needs schools in England\
-  \ and Wales.\n"
+text: 'Primary, secondary and special needs schools in England and Wales'

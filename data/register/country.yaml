@@ -9,8 +9,4 @@ fields:
 phase: alpha
 register: country
 registry: foreign-commonwealth-office
-text: 'The register of [Foreign & Commonwealth Office](https://www.gov.uk/government/organisations/foreign-commonwealth-office)
-  list of approved British English-language names and descriptive terms for [countries](http://country.openregister.org)
-  and territories of the world and their citizens.
-
-  '
+text: 'Countries of the world recognised by the UK'

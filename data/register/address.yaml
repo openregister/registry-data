@@ -14,4 +14,4 @@ fields:
 phase: alpha
 register: address
 registry: ordnance-survey
-text: 'The register of places in the UK with a postal address. Some addresses have a geographical location.'
+text: 'Postal addresses in the UK'

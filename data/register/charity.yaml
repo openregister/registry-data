@@ -7,6 +7,4 @@ fields:
 phase: alpha
 register: charity
 registry: charity-commission
-text: 'The register of UK charities.
-
-  '
+text: 'Charities in England and Wales'

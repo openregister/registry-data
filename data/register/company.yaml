@@ -9,6 +9,4 @@ fields:
 phase: alpha
 register: company
 registry: companies-house
-text: 'The register of UK companies.
-
-  '
+text: 'Companies in England and Wales'
