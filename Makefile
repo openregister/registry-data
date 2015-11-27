@@ -4,6 +4,10 @@ DATATYPE_REGISTER=http://datatype.openregister.org
 
 .PHONY: init test all clean prod
 
+REGISTERS:= $(wildcard data/register/*.yaml)
+FIELDS:= $(wildcard data/field/*.yaml)
+DATATYPES:= $(wildcard data/datatype/*.yaml)
+
 PROD_DATA=\
 	prod/register.jsonl\
 	prod/field.jsonl\
@@ -13,13 +17,13 @@ all:	flake8 test prod
 
 prod:	$(PROD_DATA)
 
-prod/register.jsonl:	bin/register_jsonl.py
+prod/register.jsonl:	bin/register_jsonl.py $(REGISTERS)
 	bin/register_jsonl.py register > $@
 
-prod/field.jsonl:	bin/register_jsonl.py
+prod/field.jsonl:	bin/register_jsonl.py $(FIELDS)
 	bin/register_jsonl.py field > $@
 
-prod/datatype.jsonl:	bin/register_jsonl.py
+prod/datatype.jsonl:	bin/register_jsonl.py $(DATATYPES)
 	bin/register_jsonl.py datatype > $@
 
 flake8:
