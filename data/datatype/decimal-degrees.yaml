@@ -1,4 +1,0 @@
-datatype: decimal-degrees
-phase: alpha
-text: Latitude and longitude geographic coordinates as [Decimal Degrees](http://en.wikipedia.org/wiki/Decimal_degrees)
-  in the [WGS84](http://spatialreference.org/ref/epsg/wgs-84/) coordinate system.

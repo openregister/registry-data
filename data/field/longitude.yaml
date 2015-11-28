@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: decimal-degrees
-field: longitude
-phase: alpha
-register: ''
-text: Longitude of a place.

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: location
+phase: alpha
+register: 'location'
+text: 'A geographic location found in government data which may be published under an open government licence'

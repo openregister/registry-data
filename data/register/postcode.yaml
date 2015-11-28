@@ -3,8 +3,7 @@ Contains Ordnance Survey data © [Crown copyright and database right 2013](http:
 Contains Royal Mail data © [Royal Mail copyright and database right 2013](http://www.dfpni.gov.uk/lps/index/copyright_licensing_publishing.htm)"
 fields:
 - postcode
-- latitude
-- longitude
+- point
 phase: alpha
 register: postcode
 registry: office-for-national-statistics
