@@ -1,6 +1,6 @@
 import pytest
 
-from data import registers, fields, phases, register_fields
+from data import registers, fields, datatypes, phases, register_fields
 
 
 @pytest.mark.parametrize('field', fields)
@@ -40,3 +40,11 @@ def test_field_phase(field):
 @pytest.mark.parametrize('field', fields)
 def test_field_is_used_in_a_register(field):
     assert field in register_fields
+
+
+@pytest.mark.parametrize('field', fields)
+def test_field_datatype_is_the_right_phase(field):
+    item = fields[field]
+    field_phase = phases.index(item.phase)
+    datatype_phase = phases.index(datatypes[item.datatype].phase)
+    assert datatype_phase >= field_phase

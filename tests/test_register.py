@@ -27,6 +27,11 @@ def test_register_text_trailing_characters(register):
 
 
 @pytest.mark.parametrize('register', registers)
+def test_register_phase(register):
+    assert registers[register].phase in phases
+
+
+@pytest.mark.parametrize('register', registers)
 def test_register_fields_are_known(register):
     item = registers[register]
     for field in item.fields:
@@ -34,5 +39,9 @@ def test_register_fields_are_known(register):
 
 
 @pytest.mark.parametrize('register', registers)
-def test_register_phase(register):
-    assert registers[register].phase in phases
+def test_register_fields_are_the_right_phase(register):
+    item = registers[register]
+    register_phase = phases.index(item.phase)
+    for field in item.fields:
+        field_phase = phases.index(fields[field].phase)
+        assert field_phase >= register_phase
