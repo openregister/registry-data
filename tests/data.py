@@ -3,20 +3,20 @@ import os
 from openregister import Item
 
 
-def load_data(name):
+def load_items(register):
     d = {}
-    dirname = os.path.join("data", name)
+    dirname = os.path.join("data", register)
     for file in os.listdir(dirname):
         if file.endswith(".yaml"):
             item = Item()
             item.yaml = open(os.path.join(dirname, file)).read()
-            d[item[name]] = item
+            d[item[register]] = item
     return d
 
 
-registers = load_data("register")
-fields = load_data("field")
-datatypes = load_data("datatype")
+registers = load_items("register")
+fields = load_items("field")
+datatypes = load_items("datatype")
 phases = ['discovery', 'alpha', 'beta', 'live']
 
 
