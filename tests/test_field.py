@@ -1,6 +1,6 @@
 import pytest
 
-from data import registers, fields, phases
+from data import registers, fields, phases, register_fields
 
 
 @pytest.mark.parametrize('field', fields)
@@ -35,15 +35,6 @@ def test_field_text_trailing_characters(field):
 @pytest.mark.parametrize('field', fields)
 def test_field_phase(field):
     assert fields[field].phase in phases
-
-
-# reference of fields used by a register
-register_fields = {}
-for register in registers:
-    for field in registers[register].fields:
-        if field not in register_fields:
-            register_fields[field] = []
-        register_fields[field].append(register)
 
 
 @pytest.mark.parametrize('field', fields)
