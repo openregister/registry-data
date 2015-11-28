@@ -1,6 +1,6 @@
 import pytest
 
-from data import registers, fields, phases
+from data import registers, fields, phases, registries
 
 
 @pytest.mark.parametrize('register', registers)
@@ -29,6 +29,11 @@ def test_register_fields_are_register_fields(register):
 def test_register_text_trailing_characters(register):
     text = registers[register].text
     assert text == text.rstrip(' \n\r.')
+
+
+@pytest.mark.parametrize('register', registers)
+def test_register_registry_is_known(register):
+    assert registers[register].registry in registries
 
 
 @pytest.mark.parametrize('register', registers)

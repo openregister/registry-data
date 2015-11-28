@@ -17,17 +17,26 @@ def load_items(register):
 registers = load_items("register")
 fields = load_items("field")
 datatypes = load_items("datatype")
+registries = load_items("registry")
+
 phases = ['discovery', 'alpha', 'beta', 'live']
 
 
-# reference of fields used by a register
+# registries referenced by a register
+registry_registers = {}
+for register in registers:
+    registry = registers[register].registry
+    registry_registers.setdefault(registry, []).append(register)
+
+
+# fields referenced in a register
 register_fields = {}
 for register in registers:
     for field in registers[register].fields:
         register_fields.setdefault(field, []).append(register)
 
 
-# reference of datatypes used in a field
+# datatypes referenced by a field
 field_datatypes = {}
 for field in fields:
     datatype = fields[field].datatype
