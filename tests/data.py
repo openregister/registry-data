@@ -5,11 +5,11 @@ from openregister import Item
 
 def load_data(name):
     d = {}
-    dirname = "data/" + name + "/"
+    dirname = os.path.join("data", name)
     for file in os.listdir(dirname):
         if file.endswith(".yaml"):
             item = Item()
-            item.yaml = open(dirname + file).read()
+            item.yaml = open(os.path.join(dirname, file)).read()
             d[item[name]] = item
     return d
 
