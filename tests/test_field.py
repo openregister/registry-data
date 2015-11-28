@@ -27,6 +27,11 @@ def test_field_fields_are_register_fields(field):
 
 
 @pytest.mark.parametrize('field', fields)
+def test_field_cardinality(field):
+    assert fields[field].cardinality in ['1', 'n']
+
+
+@pytest.mark.parametrize('field', fields)
 def test_field_text_trailing_characters(field):
     text = fields[field].text
     assert text == text.rstrip(' \n\r')
