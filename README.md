@@ -2,8 +2,10 @@
 
 The data for the
 [register register](http://register.openregister.org),
-[field register](http://field.openregister.org) and
-[datatype register](http://datatype.openregister.org)
+[field register](http://field.openregister.org),
+[datatype register](http://datatype.openregister.org),
+and
+[registry register](http://registry.openregister.org)
 is currently maintained as individual yaml files in the [data](data/) directory.
 
 # Testing
