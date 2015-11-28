@@ -1,6 +1,6 @@
 cardinality: '1'
-datatype: string
+datatype: curie
 field: registry
 phase: alpha
 register: public-body
-text: Organisation responsible for the data in the register.
+text: 'Body responsible for maintaining one or more registers'
