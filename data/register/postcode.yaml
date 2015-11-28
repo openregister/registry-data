@@ -1,6 +1,6 @@
-copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 2015\
-  \  \nContains National Statistics data \xA9 Crown copyright & database right 2015\
-  \  \nContains Royal Mail data \xA9 Royal Mail copyright & database right 2015  \n"
+copyright: "Contains National Statistics data © [Crown copyright and database right 2013](http://www.nationalarchives.gov.uk/doc/open-government-licence/),
+Contains Ordnance Survey data © [Crown copyright and database right 2013](http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf),
+Contains Royal Mail data © [Royal Mail copyright and database right 2013](http://www.dfpni.gov.uk/lps/index/copyright_licensing_publishing.htm)"
 fields:
 - postcode
 - latitude
