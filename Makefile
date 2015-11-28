@@ -18,12 +18,15 @@ all:	flake8 test prod
 prod:	$(PROD_DATA)
 
 prod/register.jsonl:	bin/register_jsonl.py $(REGISTERS)
+	@mkdir -p prod
 	bin/register_jsonl.py register > $@
 
 prod/field.jsonl:	bin/register_jsonl.py $(FIELDS)
+	@mkdir -p prod
 	bin/register_jsonl.py field > $@
 
 prod/datatype.jsonl:	bin/register_jsonl.py $(DATATYPES)
+	@mkdir -p prod
 	bin/register_jsonl.py datatype > $@
 
 flake8:

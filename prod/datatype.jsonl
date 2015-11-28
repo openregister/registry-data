@@ -1,7 +1,0 @@
-{"datatype":"curie","phase":"alpha","text":"A [CURIE](http://en.wikipedia.org/wiki/CURIE) defines a generic abbreviated syntax for expressing Uniform Resource Identifiers (URIs). e.g. [isbn:0393315703]"}
-{"datatype":"date-time","phase":"alpha","text":"A combination of a date and a time in the format `[-]CCYY-MM-DDThh:mm:ss[Z|(+|-)hh:mm]` as described in chapter 5.4 of [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) eg. `2014-12-31T21:55:49`."}
-{"datatype":"decimal-degrees","phase":"alpha","text":"Latitude and longitude geographic coordinates as [Decimal Degrees](http://en.wikipedia.org/wiki/Decimal_degrees) in the [WGS84](http://spatialreference.org/ref/epsg/wgs-84/) coordinate system."}
-{"datatype":"integer","phase":"alpha","text":"Integer number"}
-{"datatype":"string","phase":"alpha","text":"A string of [Unicode 6.2.x](http://www.unicode.org/versions/Unicode6.2.0/) characters encoded as [UTF-8](http://en.wikipedia.org/wiki/UTF-8)."}
-{"datatype":"text","phase":"alpha","text":"A block of text containing [Markdown](http://en.wikipedia.org/wiki/Markdown) formatting instructions."}
-{"datatype":"url","phase":"alpha","text":"A [URL](http://en.wikipedia.org/wiki/Uniform_resource_locator) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it"}

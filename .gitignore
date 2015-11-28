@@ -9,3 +9,4 @@ dist
 *.egg-info
 tmp/
 htmlcov/
+prod/
