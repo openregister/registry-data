@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: date-time
+datatype: datetime
 field: end-date
 phase: alpha
 register: ''
