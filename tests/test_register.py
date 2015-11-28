@@ -9,6 +9,11 @@ def test_register_key_matches_filename(register):
 
 
 @pytest.mark.parametrize('register', registers)
+def test_register_primary_key_in_fields(register):
+    assert register in registers[register].fields
+
+
+@pytest.mark.parametrize('register', registers)
 def test_register_keys_are_known_fields(register):
     for field in registers[register].keys:
         assert field in fields
