@@ -1,6 +1,10 @@
 import pytest
 
-from data import registries, registry_registers
+from data import registers, fields, registries, registry_registers
+
+
+def test_registry_is_a_known_register():
+    assert 'registry' in registers
 
 
 @pytest.mark.parametrize('registry', registries)

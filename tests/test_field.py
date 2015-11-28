@@ -3,6 +3,10 @@ import pytest
 from data import registers, fields, datatypes, phases, register_fields
 
 
+def test_field_is_a_known_register():
+    assert 'field' in registers
+
+
 @pytest.mark.parametrize('field', fields)
 def test_field_key_matches_filename(field):
     assert fields[field].field == field
