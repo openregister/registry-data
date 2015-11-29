@@ -1,3 +1,4 @@
+import re
 import pytest
 
 from data import registers, fields, datatypes, phases, register_fields
@@ -39,6 +40,12 @@ def test_field_cardinality(field):
 def test_field_text_trailing_characters(field):
     text = fields[field].text
     assert text == text.rstrip(' \n\r')
+
+
+@pytest.mark.parametrize('field', fields)
+def test_register_text_double_spaces(field):
+    text = fields[field].text
+    assert text == re.sub(' +', ' ', text)
 
 
 @pytest.mark.parametrize('field', fields)

@@ -1,3 +1,4 @@
+import re
 import pytest
 
 from data import registers, fields, datatypes, phases, field_datatypes
@@ -28,6 +29,12 @@ def test_datatype_datatypes_are_register_datatypes(datatype):
 def test_datatype_text_trailing_characters(datatype):
     text = datatypes[datatype].text
     assert text == text.rstrip(' \n\r')
+
+
+@pytest.mark.parametrize('datatype', datatypes)
+def test_register_text_double_spaces(datatype):
+    text = datatypes[datatype].text
+    assert text == re.sub(' +', ' ', text)
 
 
 @pytest.mark.parametrize('datatype', datatypes)

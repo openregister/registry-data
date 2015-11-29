@@ -1,3 +1,4 @@
+import re
 import pytest
 
 from data import registers, fields, phases, registries
@@ -33,6 +34,12 @@ def test_register_fields_are_register_fields(register):
 def test_register_text_trailing_characters(register):
     text = registers[register].text
     assert text == text.rstrip(' \n\r.')
+
+
+@pytest.mark.parametrize('register', registers)
+def test_register_text_double_spaces(register):
+    text = registers[register].text
+    assert text == re.sub(' +', ' ', text)
 
 
 @pytest.mark.parametrize('register', registers)
