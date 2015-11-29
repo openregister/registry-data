@@ -1,14 +1,12 @@
-REGISTER_REGISTER=http://register.openregister.org
-FIELD_REGISTER=http://register.openregister.org
-DATATYPE_REGISTER=http://datatype.openregister.org
-
 .PHONY: init test all clean prod
 
+REGISTRIES:= $(wildcard data/registry/*.yaml)
 REGISTERS:= $(wildcard data/register/*.yaml)
 FIELDS:= $(wildcard data/field/*.yaml)
 DATATYPES:= $(wildcard data/datatype/*.yaml)
 
 PROD_DATA=\
+	prod/registry.jsonl\
 	prod/register.jsonl\
 	prod/field.jsonl\
 	prod/datatype.jsonl
@@ -16,6 +14,10 @@ PROD_DATA=\
 all:	flake8 test prod
 
 prod:	$(PROD_DATA)
+
+prod/registry.jsonl:	bin/register_jsonl.py $(REGISTRIES)
+	@mkdir -p prod
+	bin/register_jsonl.py registry > $@
 
 prod/register.jsonl:	bin/register_jsonl.py $(REGISTERS)
 	@mkdir -p prod
