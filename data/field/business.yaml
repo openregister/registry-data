@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: curie
 field: business
 phase: alpha
-register: ''
+register: company
 text: A Limited Company, School or other legal entity that trades.
