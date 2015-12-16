@@ -3,6 +3,8 @@ fields:
 - name
 - business
 - food-premises-types
+- local-authority
+- premises
 - start-date
 - end-date
 phase: alpha
