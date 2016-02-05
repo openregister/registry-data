@@ -1,0 +1,11 @@
+fields:
+- territory
+- name
+- official-name
+- start-date
+- end-date
+- citizen-names
+phase: alpha
+register: territory
+registry: foreign-commonwealth-office
+text: 'British English-language names and descriptive terms for territories'

@@ -1,0 +1,11 @@
+fields:
+- uk
+- name
+- official-name
+- start-date
+- end-date
+- citizen-names
+phase: alpha
+register: uk
+registry: cabinet-office
+text: 'UK and Crown dependencies'
