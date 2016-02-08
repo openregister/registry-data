@@ -1,4 +1,4 @@
-cardinality: n
+cardinality: 'n'
 datatype: string
 field: parent-bodies
 phase: alpha

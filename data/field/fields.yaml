@@ -1,4 +1,4 @@
-cardinality: n
+cardinality: 'n'
 datatype: string
 field: fields
 phase: alpha
