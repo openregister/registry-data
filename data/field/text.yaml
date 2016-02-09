@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: text
 field: text
-phase: alpha
+phase: beta
 register: ''
 text: Description of register entry.

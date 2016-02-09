@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: public-body-type
-phase: alpha
+phase: beta
 register: ''
 text: Type of government body.

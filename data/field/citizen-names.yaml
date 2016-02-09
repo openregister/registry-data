@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: citizen-names
-phase: alpha
+phase: beta
 register: ''
 text: Name for the citzens of a country.
