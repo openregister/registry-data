@@ -5,7 +5,7 @@ fields:
 - register
 - cardinality
 - text
-phase: alpha
+phase: beta
 register: field
 registry: cabinet-office
 text: 'Field names which may appear in a register'

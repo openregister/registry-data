@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: official-colour
-phase: alpha
+phase: beta
 register: ''
 text: Official colour for a public body.
