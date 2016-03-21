@@ -1,5 +1,5 @@
-copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 2015
-Contains Royal Mail data \xA9 Royal Mail copyright & database right 2015"
+copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 2015\n
+Contains Royal Mail data \xA9 Royal Mail copyright & database right 2015\n"
 fields:
 - address
 - property
