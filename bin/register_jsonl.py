@@ -7,8 +7,9 @@ import os
 from openregister import Item
 from openregister.representations.jsonl import Writer
 
-register = sys.argv[1] or "register"
-dirname = os.path.join("data", register)
+env = sys.argv[1] or "alpha"
+register = sys.argv[2] or "register"
+dirname = os.path.join("data", env, register)
 
 writer = Writer(sys.stdout)
 
