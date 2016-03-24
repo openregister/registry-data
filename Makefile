@@ -1,4 +1,4 @@
-.PHONY: init test test_alpha all clean prod prod_alpha
+.PHONY: init test test_alpha test_beta all clean prod prod_alpha prod_beta
 
 ALPHA_REGISTRIES:= $(wildcard data/alpha/registry/*.yaml)
 ALPHA_REGISTERS:= $(wildcard data/alpha/register/*.yaml)
@@ -11,13 +11,28 @@ ALPHA_PROD_DATA=\
 	prod/alpha/field.jsonl\
 	prod/alpha/datatype.jsonl
 
-PROD_DATA=$(ALPHA_PROD_DATA)
+BETA_REGISTRIES:= $(wildcard data/beta/registry/*.yaml)
+BETA_REGISTERS:= $(wildcard data/beta/register/*.yaml)
+BETA_FIELDS:= $(wildcard data/beta/field/*.yaml)
+BETA_DATATYPES:= $(wildcard data/beta/datatype/*.yaml)
+
+BETA_PROD_DATA=\
+	prod/beta/registry.jsonl\
+	prod/beta/register.jsonl\
+	prod/beta/field.jsonl\
+	prod/beta/datatype.jsonl
+
+PROD_DATA=$(ALPHA_PROD_DATA) $(BETA_PROD_DATA)
 
 all:	flake8 test prod
+alpha:	flake8 test_alpha prod_alpha
+beta:	flake8 test_beta prod_beta
 
 prod_alpha:	$(ALPHA_PROD_DATA)
 
-prod:	prod_alpha
+prod_beta:	$(BETA_PROD_DATA)
+
+prod:	prod_alpha prod_beta
 
 prod/alpha/registry.jsonl:	bin/register_jsonl.py $(ALPHA_REGISTRIES)
 	@mkdir -p prod/alpha
@@ -35,13 +50,32 @@ prod/alpha/datatype.jsonl:	bin/register_jsonl.py $(ALPHA_DATATYPES)
 	@mkdir -p prod/alpha
 	bin/register_jsonl.py alpha datatype > $@
 
+prod/beta/registry.jsonl:	bin/register_jsonl.py $(BETA_REGISTRIES)
+	@mkdir -p prod/beta
+	bin/register_jsonl.py beta registry > $@
+
+prod/beta/register.jsonl:	bin/register_jsonl.py $(BETA_REGISTERS)
+	@mkdir -p prod/beta
+	bin/register_jsonl.py beta register > $@
+
+prod/beta/field.jsonl:	bin/register_jsonl.py $(BETA_FIELDS)
+	@mkdir -p prod/beta
+	bin/register_jsonl.py beta field > $@
+
+prod/beta/datatype.jsonl:	bin/register_jsonl.py $(BETA_DATATYPES)
+	@mkdir -p prod/beta
+	bin/register_jsonl.py beta datatype > $@
+
 flake8:
 	flake8 bin tests
 
 test_alpha:
 	REGISTRY_ENV=alpha py.test -v
 
-test:	test_alpha
+test_beta:
+	REGISTRY_ENV=beta py.test -v
+
+test:	test_alpha test_beta
 
 clean:
 	find . -name "*.pyc" | xargs rm -f

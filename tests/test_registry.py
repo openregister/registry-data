@@ -1,8 +1,12 @@
 import pytest
 
-from data import registers, fields, registries, registry_registers
+from data import REGISTRY_ENV, registers, fields, registries, \
+    registry_registers
 
 
+@pytest.mark.xfail(REGISTRY_ENV != 'alpha',
+                   reason="registry register only supported in alpha",
+                   strict=True)
 def test_registry_is_a_known_register():
     assert 'registry' in registers
 
@@ -23,6 +27,9 @@ def test_registry_keys_are_known_fields(registry):
         assert field in fields
 
 
+@pytest.mark.xfail(REGISTRY_ENV != 'alpha',
+                   reason="registry register only supported in alpha",
+                   strict=True)
 @pytest.mark.parametrize('registry', registries)
 def test_registry_registries_are_register_registries(registry):
     for field in registries[registry].keys:

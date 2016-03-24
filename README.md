@@ -3,10 +3,10 @@
 The data for the
 [registry register](http://registry.openregister.org),
 [register register](http://register.openregister.org),
-[field register](http://field.openregister.org)
-and
-[datatype register](http://datatype.openregister.org)
-is currently maintained as individual yaml files in the [data](data/) directory.
+[field register](http://field.openregister.org) and
+[datatype register](http://datatype.openregister.org) in each
+environment is currently maintained as individual yaml files in the
+[data](data/) directory.
 
 # Testing
 
@@ -21,4 +21,6 @@ The shape of the registers and links between the data can be tested by running `
 
     $ make
 
-A dump of each register as `JSON-L` is generated in the [prod](prod) directory.
+A dump of each register for each environment as `JSON-L` is generated
+in the [prod](prod) directory.  You can make a single environment
+using `make alpha` or `make beta`.

@@ -1,0 +1,8 @@
+fields:
+- datatype
+- phase
+- text
+phase: beta
+register: datatype
+registry: cabinet-office
+text: 'Datatypes constraining values used by register fields and idenitifying ways in which it may be encoded a representation'
