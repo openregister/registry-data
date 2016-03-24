@@ -7,7 +7,7 @@ fields:
 - text
 - crest
 - official-colour
-phase: beta
+phase: alpha
 register: public-body
 registry: cabinet-office
 text: 'Ministerial Departments and agencies sponsored by HM Government'
