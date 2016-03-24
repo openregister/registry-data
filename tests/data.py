@@ -3,9 +3,12 @@ import os
 from openregister import Item
 
 
+REGISTRY_ENV = os.getenv('REGISTRY_ENV', "alpha")
+
+
 def load_items(register):
     d = {}
-    dirname = os.path.join("data", register)
+    dirname = os.path.join("data", REGISTRY_ENV, register)
     for file in os.listdir(dirname):
         if file.endswith(".yaml"):
             item = Item()

@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: url
 field: website
-phase: beta
+phase: alpha
 register: ''
 text: Website for register entry.

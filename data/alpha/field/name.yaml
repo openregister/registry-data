@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: name
+phase: alpha
+register: ''
+text: Name of field

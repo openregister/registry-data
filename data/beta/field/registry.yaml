@@ -1,6 +1,6 @@
 cardinality: '1'
-datatype: curie
+datatype: string
 field: registry
 phase: beta
-register: public-body
+register: ''
 text: 'Body responsible for maintaining one or more registers'
