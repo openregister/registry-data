@@ -1,5 +1,5 @@
-copyright: "Contains National Statistics data © [Crown copyright and database right 2013](http://www.nationalarchives.gov.uk/doc/open-government-licence/),
-Contains Ordnance Survey data © [Crown copyright and database right 2013](http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf),
+copyright: "Contains National Statistics data © [Crown copyright and database right 2013](http://www.nationalarchives.gov.uk/doc/open-government-licence/),\n
+Contains Ordnance Survey data © [Crown copyright and database right 2013](http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf),\n
 Contains Royal Mail data © [Royal Mail copyright and database right 2013](http://www.dfpni.gov.uk/lps/index/copyright_licensing_publishing.htm)"
 fields:
 - postcode
