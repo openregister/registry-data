@@ -5,6 +5,7 @@ fields:
 - start-date
 - end-date
 - citizen-names
+- text
 phase: alpha
 register: uk
 registry: cabinet-office

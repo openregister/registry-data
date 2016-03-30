@@ -5,6 +5,7 @@ fields:
 - start-date
 - end-date
 - citizen-names
+- text
 phase: alpha
 register: territory
 registry: foreign-commonwealth-office
