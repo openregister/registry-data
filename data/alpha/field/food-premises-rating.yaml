@@ -1,6 +1,6 @@
 cardinality: '1'
-datatype: integer
+datatype: string
 field: food-premises-rating
 phase: alpha
-register: ''
-text: A score for the rating of a food premises.
+register: food-premises-rating
+text: A rating of a food premises for hygeine.
