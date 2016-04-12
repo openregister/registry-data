@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: latitude
+phase: alpha
+register: ''
+text: Latitude of a place.

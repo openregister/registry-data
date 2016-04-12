@@ -9,6 +9,8 @@ fields:
 - area
 - postcode
 - country
+- latitude
+- longitude
 phase: alpha
 register: address
 registry: office-for-national-statistics
