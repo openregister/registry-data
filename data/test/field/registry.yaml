@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: registry
+phase: beta
+register: ''
+text: 'Body responsible for maintaining one or more registers'
