@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: locality
+phase: alpha
+register: ''
+text: The area within a post town.

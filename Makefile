@@ -1,4 +1,4 @@
-.PHONY: init test test_alpha test_beta all clean prod prod_alpha prod_beta
+.PHONY: init test test_alpha test_beta test_test all clean prod prod_alpha prod_beta prod_test
 
 ALPHA_REGISTRIES:= $(wildcard data/alpha/registry/*.yaml)
 ALPHA_REGISTERS:= $(wildcard data/alpha/register/*.yaml)
@@ -22,17 +22,31 @@ BETA_PROD_DATA=\
 	prod/beta/field.jsonl\
 	prod/beta/datatype.jsonl
 
-PROD_DATA=$(ALPHA_PROD_DATA) $(BETA_PROD_DATA)
+TEST_REGISTRIES:= $(wildcard data/test/registry/*.yaml)
+TEST_REGISTERS:= $(wildcard data/test/register/*.yaml)
+TEST_FIELDS:= $(wildcard data/test/field/*.yaml)
+TEST_DATATYPES:= $(wildcard data/test/datatype/*.yaml)
+
+TEST_PROD_DATA=\
+	prod/test/registry.jsonl\
+	prod/test/register.jsonl\
+	prod/test/field.jsonl\
+	prod/test/datatype.jsonl
+
+PROD_DATA=$(ALPHA_PROD_DATA) $(BETA_PROD_DATA) $(TEST_PROD_DATA)
 
 all:	flake8 test prod
 alpha:	flake8 test_alpha prod_alpha
 beta:	flake8 test_beta prod_beta
+test:	flake8 test_test prod_test
 
 prod_alpha:	$(ALPHA_PROD_DATA)
 
 prod_beta:	$(BETA_PROD_DATA)
 
-prod:	prod_alpha prod_beta
+prod_test: 	$(TEST_PROD_DATA)
+
+prod:	prod_alpha prod_beta prod_test
 
 prod/alpha/registry.jsonl:	bin/register_jsonl.py $(ALPHA_REGISTRIES)
 	@mkdir -p prod/alpha
@@ -66,6 +80,22 @@ prod/beta/datatype.jsonl:	bin/register_jsonl.py $(BETA_DATATYPES)
 	@mkdir -p prod/beta
 	bin/register_jsonl.py beta datatype > $@
 
+prod/test/registry.jsonl:	bin/register_jsonl.py $(TEST_REGISTRIES)
+	@mkdir -p prod/test
+	bin/register_jsonl.py test registry > $@
+
+prod/test/register.jsonl:	bin/register_jsonl.py $(TEST_REGISTERS)
+	@mkdir -p prod/test
+	bin/register_jsonl.py test register > $@
+
+prod/test/field.jsonl:	bin/register_jsonl.py $(TEST_FIELDS)
+	@mkdir -p prod/test
+	bin/register_jsonl.py test field > $@
+
+prod/test/datatype.jsonl:	bin/register_jsonl.py $(TEST_DATATYPES)
+	@mkdir -p prod/test
+	bin/register_jsonl.py test datatype > $@
+
 flake8:
 	flake8 bin tests
 
@@ -75,7 +105,10 @@ test_alpha:
 test_beta:
 	REGISTRY_ENV=beta py.test -v
 
-test:	test_alpha test_beta
+test_test:
+	REGISTRY_ENV=test py.test -v
+
+test:	test_alpha test_beta test_test
 
 clean:
 	find . -name "*.pyc" | xargs rm -f

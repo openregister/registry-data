@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: town
+phase: alpha
+register: ''
+text: The town of an address.

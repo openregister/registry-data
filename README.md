@@ -23,4 +23,4 @@ The shape of the registers and links between the data can be tested by running `
 
 A dump of each register for each environment as `JSON-L` is generated
 in the [prod](prod) directory.  You can make a single environment
-using `make alpha` or `make beta`.
+using `make alpha`, `make beta` or `make test`.
