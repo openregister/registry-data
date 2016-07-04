@@ -1,0 +1,14 @@
+fields:
+- local-authority
+- parent-local-authority
+- local-authority-type
+- name
+- name-cy
+- official-name
+- website
+- start-date
+- end-date
+phase: discovery
+register: local-authority
+registry: cabinet-office
+text: 'Local government organisations in the United Kingdom'

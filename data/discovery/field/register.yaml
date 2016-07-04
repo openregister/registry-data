@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: register
+phase: beta
+register: register
+text: A register name.
