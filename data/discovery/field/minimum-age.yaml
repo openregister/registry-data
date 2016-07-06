@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: minimum-age
+phase: discovery
+register: ''
+text: Minimum age

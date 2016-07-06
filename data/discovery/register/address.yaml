@@ -1,0 +1,9 @@
+fields:
+- address
+- name
+- start-date
+- end-date
+phase: discovery
+register: address
+registry: government-digital-service
+text: 'An address in the UK'

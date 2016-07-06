@@ -1,0 +1,9 @@
+fields:
+- denomination
+- name
+- start-date
+- end-date
+phase: discovery
+register: denomination
+registry: office-for-national-statistics
+text: 'A religion or subgroup within a religion operating under a common name, tradition, and identity'

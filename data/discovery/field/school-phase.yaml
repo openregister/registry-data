@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school-phase
+phase: discovery
+register: school-phase
+text: 'Phase of a school.'

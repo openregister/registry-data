@@ -1,0 +1,9 @@
+fields:
+- school-tag
+- text
+- start-date
+- end-date
+phase: discovery
+register: school-tag
+registry: department-for-education
+text: 'Tags which may be applied to a school'

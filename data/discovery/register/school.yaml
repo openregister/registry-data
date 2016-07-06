@@ -1,0 +1,22 @@
+fields:
+- school
+- name
+- address
+- local-authority
+- minimum-age
+- maximum-age
+- headteacher
+- website
+- denomination
+- school-type
+- school-phase
+- school-admissions-policy
+- school-gender
+- school-tags
+- school-federation
+- start-date
+- end-date
+phase: discovery
+register: school
+registry: department-for-education
+text: 'Primary, secondary and special needs schools in England and Wales'

@@ -1,0 +1,10 @@
+fields:
+- school-federation
+- name
+- website
+- start-date
+- end-date
+phase: discovery
+register: school-federation
+registry: department-for-education
+text: 'A federation of schools'

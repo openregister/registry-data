@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school
+phase: discovery
+register: school
+text: 'A primary, secondary or special needs schools in England or Wales'
