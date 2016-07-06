@@ -1,14 +1,14 @@
 fields:
-- address
-- parent-address
+- street
 - name
 - name-cy
 - name-gd
-- street
-- point
+- place
+- local-authority
+- line
 - start-date
 - end-date
 phase: discovery
-register: address
+register: street
 registry: government-digital-service
-text: 'Addresses in the UK'
+text: 'Streets in the UK'
