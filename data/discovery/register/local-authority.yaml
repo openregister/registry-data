@@ -1,5 +1,6 @@
 fields:
 - local-authority
+- uk
 - parent-local-authority
 - local-authority-type
 - name
