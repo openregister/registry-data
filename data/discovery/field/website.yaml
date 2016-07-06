@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: website
+phase: discovery
+text: 'The website for an organisation.'
+register:

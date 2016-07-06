@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: text
+field: copyright
+phase: beta
+register: ''
+text: Copyright for the data in the register.

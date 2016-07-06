@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: parent-local-authority
+phase: discovery
+register: local-authority
+text: 'An upper-tier or other local government organisation having responsibilities for a local authority.'
