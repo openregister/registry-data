@@ -11,5 +11,5 @@ fields:
 - end-date
 phase: discovery
 register: local-authority
-registry: cabinet-office
+registry: government-digital-service
 text: 'Local government organisations in the United Kingdom'
