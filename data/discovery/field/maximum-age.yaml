@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: string
+datatype: integer
 field: maximum-age
 phase: discovery
 register: ''

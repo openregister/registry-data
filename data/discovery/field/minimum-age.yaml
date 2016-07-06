@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: string
+datatype: integer
 field: minimum-age
 phase: discovery
 register: ''
