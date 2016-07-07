@@ -7,7 +7,8 @@ fields:
 - maximum-age
 - headteacher
 - website
-- denomination
+- denominations
+- dioceses
 - school-type
 - school-phase
 - school-admissions-policy
