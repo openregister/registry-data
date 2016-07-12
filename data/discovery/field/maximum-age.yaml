@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: integer
+field: maximum-age
+phase: discovery
+register: ''
+text: Maximum age

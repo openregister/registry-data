@@ -1,0 +1,14 @@
+fields:
+- address
+- parent-address
+- name
+- name-cy
+- name-gd
+- street
+- point
+- start-date
+- end-date
+phase: discovery
+register: address
+registry: government-digital-service
+text: 'Addresses in the UK'
