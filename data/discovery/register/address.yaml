@@ -1,6 +1,7 @@
 fields:
 - address
 - parent-address
+- primary-address
 - name
 - name-cy
 - name-gd
