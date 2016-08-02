@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: territory
+phase: alpha
+register: territory
+text: A territory
