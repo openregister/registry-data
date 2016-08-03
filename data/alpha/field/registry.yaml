@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: curie
 field: registry
 phase: alpha
-register: public-body
+register: ''
 text: 'Body responsible for maintaining one or more registers'
