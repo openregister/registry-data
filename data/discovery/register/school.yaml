@@ -2,7 +2,7 @@ fields:
 - school
 - name
 - address
-- local-authority
+- school-authority
 - minimum-age
 - maximum-age
 - headteacher

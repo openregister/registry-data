@@ -1,0 +1,8 @@
+fields:
+- school-authority
+- name
+- organisation
+phase: discovery
+register: school-authority
+registry: department-for-education
+text: 'School authority organisation'

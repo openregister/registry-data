@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school-authority
+phase: discovery
+register: school-authority
+text: 'School authority organisation.'
