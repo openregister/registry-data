@@ -1,0 +1,9 @@
+fields:
+- local-authority-type
+- name
+- start-date
+- end-date
+phase: alpha
+register: local-authority-type
+registry: government-digital-service
+text: 'Types of local government organisations in the United Kingdom'
