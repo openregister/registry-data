@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: premises
+phase: discovery
+register: premises
+text: A business premises.

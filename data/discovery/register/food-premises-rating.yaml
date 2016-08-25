@@ -1,0 +1,16 @@
+fields:
+- food-premises-rating
+- food-premises
+- food-premises-rating-value
+- food-premises-rating-hygiene-score
+- food-premises-rating-structural-score
+- food-premises-rating-confidence-in-management-score
+- food-authority
+- food-premises-rating-reply
+- start-date
+- inspector
+- end-date
+phase: discovery
+register: food-premises-rating
+registry: food-standards-agency
+text: 'Food hygiene inspection ratings'

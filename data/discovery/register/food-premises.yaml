@@ -1,0 +1,13 @@
+fields:
+- food-premises
+- name
+- business
+- food-premises-types
+- food-authority
+- premises
+- start-date
+- end-date
+phase: discovery
+register: food-premises
+registry: food-standards-agency
+text: 'Premises which prepare and serve food'

@@ -1,0 +1,6 @@
+text: "A food authority."
+field: "food-authority"
+phase: "discovery"
+datatype: "string"
+register: "food-authority"
+cardinality: "1"

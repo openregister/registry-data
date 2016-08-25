@@ -1,0 +1,9 @@
+fields:
+- premises
+- address
+- start-date
+- end-date
+phase: discovery
+register: premises
+registry: valuation-office-agency
+text: 'Commercial properties eligable for business rates in England and Wales'

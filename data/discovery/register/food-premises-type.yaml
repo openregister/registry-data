@@ -1,0 +1,7 @@
+fields:
+- food-premises-type
+- name
+phase: discovery
+register: food-premises-type
+registry: food-standards-agency
+text: 'Types of premises which prepare and serve food'

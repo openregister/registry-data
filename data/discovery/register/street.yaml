@@ -5,6 +5,7 @@ fields:
 - name-gd
 - place
 - local-authority
+- point
 - line
 - start-date
 - end-date

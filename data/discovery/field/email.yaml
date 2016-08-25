@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: email
+phase: discovery
+register: ''
+text: An email address for contact.

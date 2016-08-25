@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: integer
+field: food-premises-rating-confidence-in-management-score
+phase: discovery
+register: ''
+text: Level of confidence with management. Lower scores are better.

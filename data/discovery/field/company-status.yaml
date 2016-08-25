@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: company-status
+phase: discovery
+register: ''
+text: The status of a UK company.

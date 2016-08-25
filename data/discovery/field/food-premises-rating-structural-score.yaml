@@ -1,0 +1,8 @@
+cardinality: '1'
+datatype: integer
+field: food-premises-rating-structural-score
+phase: discovery
+register: ''
+text: Level of compliance with structural requirements including cleanliness, layout,
+  condition of structure, lighting, ventilation, facilities etc. Lower scores are
+  better.
