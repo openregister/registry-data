@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: food-premises
+phase: discovery
+register: food-premises
+text: A premises which serves or processes food.

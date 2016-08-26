@@ -1,0 +1,9 @@
+fields:
+- industry
+- name
+- start-date
+- end-date
+phase: discovery
+register: industry
+registry: office-for-national-statistics
+text: 'Standard Industry Codes (SIC) used to classify business establishments and other standard units by the type of economic activity in which they are engaged'

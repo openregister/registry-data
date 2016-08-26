@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: food-premises-types
+phase: discovery
+register: food-premises-type
+text: A set of food premises types.

@@ -1,0 +1,13 @@
+fields:
+- "local-authority-wls"
+- "local-authority-type"
+- "name"
+- "name-cy"
+- "official-name"
+- "website"
+- "start-date"
+- "end-date"
+phase: "discovery"
+register: "local-authority-wls"
+registry: "government-digital-service"
+text: "Local authorities in Wales"

@@ -1,0 +1,12 @@
+fields:
+- "local-authority-nir"
+- "local-authority-type"
+- "name"
+- "official-name"
+- "website"
+- "start-date"
+- "end-date"
+phase: "discovery"
+register: "local-authority-nir"
+registry: "government-digital-service"
+text: "Local authorities in Northern Ireland"

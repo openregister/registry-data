@@ -1,0 +1,7 @@
+cardinality: '1'
+datatype: integer
+field: food-premises-rating-value
+phase: discovery
+register: ''
+text: A rating of the food hygiene served at a premises, 0-5 with 5 meaning 'very
+  good'.

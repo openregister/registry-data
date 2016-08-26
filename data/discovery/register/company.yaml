@@ -1,0 +1,12 @@
+fields:
+- company
+- name
+- company-status
+- address
+- industry
+- start-date
+- end-date
+phase: discovery
+register: company
+registry: companies-house
+text: 'Companies in England and Wales'

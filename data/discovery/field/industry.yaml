@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: industry
+phase: discovery
+register: industry
+text: Standard industrial classification.

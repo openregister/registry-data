@@ -1,0 +1,6 @@
+text: "A local authority in Wales."
+field: "local-authority-wls"
+phase: "discovery"
+datatype: "string"
+register: "local-authority-wls"
+cardinality: "1"

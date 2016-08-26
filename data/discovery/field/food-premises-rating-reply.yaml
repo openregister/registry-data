@@ -1,0 +1,9 @@
+cardinality: '1'
+datatype: text
+field: food-premises-rating-reply
+phase: discovery
+register: ''
+text: An explanation by a food-premises to potential customers any actions that have
+  taken to improve hygiene standards after a food hygiene rating has been given or
+  to say if there were particular circumstances at the time of the inspection that
+  might have affected the rating.

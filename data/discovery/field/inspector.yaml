@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: inspector
+phase: discovery
+register: ''
+text: The organisation conducting an inspection

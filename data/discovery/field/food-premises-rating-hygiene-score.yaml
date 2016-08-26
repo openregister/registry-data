@@ -1,0 +1,7 @@
+cardinality: '1'
+datatype: integer
+field: food-premises-rating-hygiene-score
+phase: discovery
+register: ''
+text: Level of compliance with food hygiene and safety procedures including food handling
+  practices and procedures, and temperature control. Lower scores are better.

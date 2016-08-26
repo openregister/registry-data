@@ -1,0 +1,12 @@
+fields:
+- "local-authority-eng"
+- "local-authority-type"
+- "name"
+- "official-name"
+- "website"
+- "start-date"
+- "end-date"
+phase: "alpha"
+register: "local-authority-eng"
+registry: "department-for-communities-and-local-government"
+text: "Local authorities in England"

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: business
+phase: discovery
+register: company
+text: A Limited Company, School or other legal entity that trades.
