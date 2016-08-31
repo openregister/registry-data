@@ -1,6 +1,6 @@
 cardinality: 'n'
 datatype: string
 field: fields
-phase: beta
+phase: discovery
 register: field
 text: Set of field names.
