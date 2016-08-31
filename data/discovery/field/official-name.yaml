@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: official-name
-phase: beta
+phase: discovery
 register: ''
 text: Official name for an entry

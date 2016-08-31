@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: datatype
-phase: alpha
+phase: discovery
 register: datatype
 text: The data type for constraining a field value.

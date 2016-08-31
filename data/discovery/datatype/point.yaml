@@ -1,5 +1,5 @@
 datatype: point
-phase: alpha
+phase: discovery
 text: A longitude and latitude pair of coordinates, encoded as a string
     representation of the GeoJSON point coordinates format. The values are
     [Decimal Degrees](http://en.wikipedia.org/wiki/Decimal_degrees) in the
