@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: citizen-names
-phase: discovery
-register: ''
-text: Name for the citzens of a country.

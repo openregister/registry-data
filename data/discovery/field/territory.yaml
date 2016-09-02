@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: territory
-phase: discovery
-register: territory
-text: A territory
