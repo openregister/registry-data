@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: email
-phase: alpha
-register: ''
-text: An email address for contact.

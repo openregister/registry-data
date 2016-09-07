@@ -1,7 +1,0 @@
-fields:
-- food-premises-type
-- name
-phase: alpha
-register: food-premises-type
-registry: food-standards-agency
-text: 'Types of premises which prepare and serve food'

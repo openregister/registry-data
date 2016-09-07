@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: property
-phase: alpha
-register: ''
-text: A building, institution or house name in an address.

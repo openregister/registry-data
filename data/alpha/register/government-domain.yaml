@@ -1,8 +1,0 @@
-fields:
-- government-domain
-- owner
-- end-date
-phase: alpha
-register: government-domain
-registry: government-digital-service
-text: 'Internet domain names used by HM Government'
