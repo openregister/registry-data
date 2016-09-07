@@ -1,7 +1,0 @@
-fields:
-- location
-- point
-phase: alpha
-register: location
-registry: cabinet-office
-text: 'Geographic locations of places found in government data which may be published under an open government licence'

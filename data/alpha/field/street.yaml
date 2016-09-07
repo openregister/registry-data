@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: street
-phase: alpha
-register: ''
-text: The number and street name of an address.

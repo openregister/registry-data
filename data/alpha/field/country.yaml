@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: country
-phase: alpha
-register: country
-text: ISO 3166-2 two letter code for a country.

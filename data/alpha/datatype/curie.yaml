@@ -1,6 +1,0 @@
-datatype: curie
-phase: alpha
-text: A [CURIE](http://en.wikipedia.org/wiki/CURIE) defines a generic abbreviated
-    syntax for expressing Uniform Resource Identifiers (URIs). e.g. [company:012345],
-    [public-body:cabinet-office]. Relative values link to the register identified in
-    the entry for the field in the field register.

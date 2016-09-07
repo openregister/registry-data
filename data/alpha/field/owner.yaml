@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: owner
-phase: alpha
-register: ''
-text: An owner of government domain

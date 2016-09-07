@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: integer
-field: maximum-age
-phase: alpha
-register: ''
-text: Maximum intake age for pupils at a school.

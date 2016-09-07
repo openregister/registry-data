@@ -1,6 +1,0 @@
-fields:
-- registry
-phase: alpha
-register: registry
-registry: cabinet-office
-text: 'Bodies responsible for the maintainance of one or more registers'

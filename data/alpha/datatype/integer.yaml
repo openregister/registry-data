@@ -1,5 +1,0 @@
-datatype: integer
-phase: alpha
-text: Integer number, conforming to the XML Schema 2.0
-    [xs:integer](http://www.w3.org/TR/xmlschema-2/#integer) definition,
-    represented in canonical form.
