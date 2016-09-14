@@ -1,0 +1,10 @@
+fields:
+- diocese
+- name
+- religious-character
+- start-date
+- end-date
+phase: alpha
+register: diocese
+registry: department-for-education
+text: 'Districts under the pastoral care of a bishop in the Christian Church'

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: address
+phase: alpha
+register: ''
+text: 'An address in the UK.'

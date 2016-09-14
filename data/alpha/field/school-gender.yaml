@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school-gender
+phase: alpha
+register: school-gender
+text: 'The gender of a school.'

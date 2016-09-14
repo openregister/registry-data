@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school-admissions-policy
+phase: alpha
+register: school-admissions-policy
+text: 'The admissions policy for a school.'
