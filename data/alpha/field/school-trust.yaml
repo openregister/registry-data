@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
-field: school-type
+field: school-trust
 phase: alpha
 register: school-trust
 text: 'Trust running a school.'
