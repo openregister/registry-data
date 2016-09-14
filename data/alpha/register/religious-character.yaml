@@ -1,0 +1,9 @@
+fields:
+- religious-character
+- name
+- start-date
+- end-date
+phase: alpha
+register: religious-character
+registry: department-for-education
+text: 'A religion or subgroup within a religion operating under a common name, tradition, and identity'

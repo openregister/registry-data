@@ -1,0 +1,9 @@
+fields:
+- school-gender
+- name
+- start-date
+- end-date
+phase: alpha
+register: school-gender
+registry: department-for-education
+text: 'The gender of a school'

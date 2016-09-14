@@ -1,0 +1,9 @@
+fields:
+- school-phase
+- name
+- start-date
+- end-date
+phase: alpha
+register: school-phase
+registry: department-for-education
+text: 'The phase of a school'

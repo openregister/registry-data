@@ -1,0 +1,21 @@
+fields:
+- school-eng
+- name
+- address
+- school-authority
+- minimum-age
+- maximum-age
+- religious-characters
+- dioceses
+- school-type
+- school-phase
+- school-admissions-policy
+- school-gender
+- school-tags
+- school-trust
+- start-date
+- end-date
+phase: alpha
+register: school-eng
+registry: department-for-education
+text: 'Schools in England legally registered to provide full time education to pupils of compulsory school age'

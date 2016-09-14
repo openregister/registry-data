@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school-tag
+phase: alpha
+register: school-tag
+text: 'Tag which may be applied to a school.'

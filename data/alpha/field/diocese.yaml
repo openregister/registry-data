@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: diocese
+phase: alpha
+register: diocese
+text: 'A district under the pastoral care of a bishop in the Christian Church.'

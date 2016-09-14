@@ -1,0 +1,10 @@
+fields:
+- school-trust
+- name
+- organisation
+- start-date
+- end-date
+phase: alpha
+register: school-trust
+registry: department-for-education
+text: 'Trusts running schools'

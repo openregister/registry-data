@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: religious-characters
+phase: alpha
+register: religious-character
+text: 'A list of religion or subgroup within a religion operating under a common name, tradition, and identity.'

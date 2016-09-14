@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: organisation
+phase: alpha
+register: ''
+text: A legal entity.
