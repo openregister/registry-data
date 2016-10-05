@@ -13,6 +13,7 @@ fields:
 - school-gender
 - school-tags
 - school-trust
+- school-umbrella-trust
 - start-date
 - end-date
 phase: alpha
