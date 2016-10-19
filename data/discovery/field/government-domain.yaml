@@ -1,0 +1,6 @@
+text: "A government domain"
+field: "government-domain"
+phase: "discovery"
+datatype: "string"
+register: "government-domain"
+cardinality: "1"

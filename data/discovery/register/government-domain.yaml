@@ -1,0 +1,6 @@
+fields:
+- "government-domain"
+phase: "discovery"
+register: "government-domain"
+registry: "cabinet-office"
+text: "Government domains"
