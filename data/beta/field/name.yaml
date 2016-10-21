@@ -3,4 +3,4 @@ datatype: string
 field: name
 phase: beta
 register: ''
-text: Name of field
+text: English name for an entry

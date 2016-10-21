@@ -3,4 +3,4 @@ datatype: string
 field: official-name
 phase: beta
 register: ''
-text: Official name of country
+text: Official name for an entry
