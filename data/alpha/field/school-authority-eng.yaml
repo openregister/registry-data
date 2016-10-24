@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
-field: school-authority
+field: school-authority-eng
 phase: alpha
-register: school-authority
+register: school-authority-eng
 text: 'School authority organisation.'

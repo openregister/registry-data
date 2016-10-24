@@ -1,8 +1,8 @@
 fields:
-- school-authority
+- school-authority-eng
 - name
 - organisation
 phase: alpha
-register: school-authority
+register: school-authority-eng
 registry: department-for-education
 text: 'School authority organisation'
