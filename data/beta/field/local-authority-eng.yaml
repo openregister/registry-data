@@ -1,0 +1,6 @@
+text: "A local authority in England."
+field: "local-authority-eng"
+phase: "beta"
+datatype: "string"
+register: "local-authority-eng"
+cardinality: "1"
