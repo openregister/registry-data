@@ -1,0 +1,6 @@
+text: "A job centre"
+field: "job-centre"
+phase: "discovery"
+datatype: "string"
+register: "job-centre"
+cardinality: "1"
