@@ -2,7 +2,7 @@ fields:
 - school-eng
 - name
 - address
-- school-authority
+- school-authority-eng
 - minimum-age
 - maximum-age
 - religious-characters
