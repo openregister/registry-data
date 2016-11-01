@@ -5,6 +5,7 @@ fields:
 - address
 - industry
 - start-date
+- name-change-date
 - end-date
 phase: discovery
 register: company
