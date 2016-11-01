@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: postcode
+phase: discovery
+register:
+text: UK Postcodes.
