@@ -6,4 +6,4 @@ fields:
 phase: "discovery"
 register: "jobcentre"
 registry: "department-for-work-pensions"
-text: "Job Centre Offices"
+text: "Jobcentre Offices"
