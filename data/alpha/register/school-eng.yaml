@@ -12,9 +12,6 @@ fields:
 - school-admissions-policy
 - school-gender
 - school-tags
-- school-trust
-- school-trust-join-date
-- school-umbrella-trust
 - start-date
 - end-date
 phase: alpha
