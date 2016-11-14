@@ -5,6 +5,7 @@ fields:
 - school-authority-eng
 - minimum-age
 - maximum-age
+- school-capacity
 - religious-characters
 - dioceses
 - school-type
