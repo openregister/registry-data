@@ -12,6 +12,7 @@ fields:
 - school-admissions-policy
 - school-gender
 - school-tags
+- headteacher
 - start-date
 - end-date
 phase: alpha
