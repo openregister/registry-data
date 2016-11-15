@@ -7,6 +7,7 @@ fields:
 - maximum-age
 - school-capacity
 - religious-characters
+- religious-ethos
 - dioceses
 - school-type
 - school-phases
