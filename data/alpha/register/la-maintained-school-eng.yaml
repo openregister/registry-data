@@ -1,0 +1,9 @@
+fields:
+- la-maintained-school-eng
+- school-type
+- foundation-trust
+- school-federation
+phase: alpha
+register: la-maintained-school-eng
+registry: department-for-education
+text: 'Local-authority-maintained schools in England legally registered to provide full time education to pupils of compulsory school age'
