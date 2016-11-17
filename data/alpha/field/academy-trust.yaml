@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: academy-trust
+phase: alpha
+register: ''
+text: 'Trust running an academy school.'

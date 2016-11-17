@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: datetime
+field: school-trust-join-date
+phase: alpha
+register: ''
+text: 'Date school joins school trust.'
