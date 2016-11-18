@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: academy-sponsor
+phase: alpha
+register: ''
+text: 'Academy sponsor'

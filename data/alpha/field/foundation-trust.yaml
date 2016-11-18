@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: foundation-trust
+phase: alpha
+register: ''
+text: 'Foundation trust'

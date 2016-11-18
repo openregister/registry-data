@@ -1,0 +1,10 @@
+fields:
+- academy-school-eng
+- school-type
+- academy-trust
+- school-trust-join-date
+- academy-sponsor
+phase: alpha
+register: academy-school-eng
+registry: department-for-education
+text: 'Academy schools in England legally registered to provide full time education to pupils of compulsory school age'
