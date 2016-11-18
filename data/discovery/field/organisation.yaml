@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: curie
 field: organisation
 phase: discovery
-register:
+register: ''
 text: A legal entity.

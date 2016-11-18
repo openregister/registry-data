@@ -6,6 +6,7 @@ fields:
 - name-cy
 - name-gd
 - street
+- street-custodian
 - point
 - start-date
 - end-date

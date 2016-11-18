@@ -4,9 +4,7 @@ fields:
 - name-cy
 - name-gd
 - place
-- local-authority
-- point
-- line
+- street-custodian 
 - start-date
 - end-date
 phase: discovery

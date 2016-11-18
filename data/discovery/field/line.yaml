@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: line
-field: line
-phase: discovery
-register: ''
-text: 'A geographical line'
