@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: string
+datatype: curie
 field: organisation
 phase: alpha
 register: ''
