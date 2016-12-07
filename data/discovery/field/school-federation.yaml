@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: school-federation
-phase: discovery
-register: school-federation
-text: 'A federation of schools.'

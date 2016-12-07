@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: denominations
-phase: discovery
-register: denomination
-text: 'A list of religion or subgroup within a religion operating under a common name, tradition, and identity.'
