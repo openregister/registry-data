@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: denomination
-phase: discovery
-register: denomination
-text: 'A religion or subgroup within a religion operating under a common name, tradition, and identity.'
