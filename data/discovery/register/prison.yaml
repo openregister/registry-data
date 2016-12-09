@@ -1,0 +1,12 @@
+fields:
+- prison
+- name
+- official-name
+- organisation
+- address
+- start-date
+- end-date
+phase: discovery
+register: prison
+registry: ministry-of-justice
+text: Parts of the Prison Estate in England and Wales, including public and contracted prisons, and NOMS Immigration Removal Centres
