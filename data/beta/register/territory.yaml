@@ -4,8 +4,7 @@ fields:
 - official-name
 - start-date
 - end-date
-- text
-phase: alpha
+phase: beta
 register: territory
 registry: foreign-commonwealth-office
 text: 'British English-language names and descriptive terms for political, administrative and geographical entities that aren’t recognised as countries'
