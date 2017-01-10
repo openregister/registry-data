@@ -3,4 +3,4 @@ datatype: text
 field: copyright
 phase: beta
 register: ''
-text: The owner or copyright that protects the data in a register.
+text: The copyright and licensing terms which may apply to the data held in a register.
