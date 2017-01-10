@@ -1,6 +1,6 @@
-text: "The local authority's ISO 3166-1 alpha 2 code. Subsidiary authorities are given a Standard Names and Codes (SNAC) code instead."
 field: "local-authority-eng"
+register: "local-authority-eng"
 phase: "beta"
 datatype: "string"
-register: "local-authority-eng"
 cardinality: "1"
+text: "The local authority's ISO 3166-1 alpha3 code. Unique codes have been created for local authorities that don't have an existing ISO code."
