@@ -3,4 +3,4 @@ datatype: string
 field: citizen-names
 phase: beta
 register: ''
-text: Name for the citzens of a country.
+text: "The name of a country's citizens."

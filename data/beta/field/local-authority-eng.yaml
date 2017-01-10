@@ -1,4 +1,4 @@
-text: "A local authority in England."
+text: "The local authority's ISO 3166-1 alpha 2 code. Subsidiary authorities are given a Standard Names and Codes (SNAC) code instead."
 field: "local-authority-eng"
 phase: "beta"
 datatype: "string"
