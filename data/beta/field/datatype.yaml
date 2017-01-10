@@ -3,4 +3,4 @@ datatype: string
 field: datatype
 phase: beta
 register: datatype
-text: The data type for constraining a field value.
+text: "The format of the data held in a field."

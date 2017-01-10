@@ -3,4 +3,4 @@ datatype: string
 field: country
 phase: beta
 register: country
-text: ISO 3166-2 two letter code for a country.
+text: The country's 2-letter ISO 3166-2 alpha2 code.
