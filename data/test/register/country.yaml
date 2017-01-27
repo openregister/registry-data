@@ -5,7 +5,7 @@ fields:
 - citizen-names
 - start-date
 - end-date
-phase: beta
+phase: discovery
 register: country
 registry: foreign-commonwealth-office
 text: 'British English-language names and descriptive terms for countries'

@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: area
-phase: alpha
-register: ''
-text: The administrative area of an address.

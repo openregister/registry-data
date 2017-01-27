@@ -5,7 +5,7 @@ fields:
 - phase
 - copyright
 - fields
-phase: beta
+phase: discovery
 register: register
 registry: cabinet-office
 text: 'Registers maintained by HM Government'
