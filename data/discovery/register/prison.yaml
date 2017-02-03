@@ -1,7 +1,6 @@
 fields:
 - prison
 - name
-- official-name
 - organisation
 - address
 - start-date
