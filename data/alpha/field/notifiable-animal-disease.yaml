@@ -3,4 +3,4 @@ datatype: string
 field: notifiable-animal-disease
 phase: alpha
 register: notifiable-animal-disease
-text: Notifiable animal disease Code
+text: Notifiable animal disease code.
