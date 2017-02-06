@@ -1,0 +1,8 @@
+fields:
+- notifiable-animal-disease-investigation-category
+- start-date
+- end-date
+phase: alpha
+register: notifiable-animal-disease-investigation-category
+registry: department-for-environment-food-rural-affairs
+text: 'Investigation categories for notifiable animal diseases'
