@@ -1,5 +1,6 @@
 fields:
 - notifiable-animal-disease-investigation-category
+- name
 - start-date
 - end-date
 phase: alpha
