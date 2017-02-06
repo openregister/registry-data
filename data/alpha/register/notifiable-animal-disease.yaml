@@ -1,0 +1,12 @@
+fields:
+- notifiable-animal-disease
+- name
+- notifiable-locations
+- reportable-locations
+- notifiable-animal-disease-investigation-category
+- start-date
+- end-date
+phase: alpha
+register: notifiable-animal-disease
+registry: department-for-environment-food-rural-affairs
+text: 'Notifiable animal diseases in England, Scotland and Wales under the Animal Health Act 1981'
