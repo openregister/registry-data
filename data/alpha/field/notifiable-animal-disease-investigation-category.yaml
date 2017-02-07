@@ -3,4 +3,4 @@ datatype: string
 field: notifiable-animal-disease-investigation-category
 phase: alpha
 register: notifiable-animal-disease-investigation-category
-text: VENDU investigation code.
+text: Veterinary Exotic Notifiable Disease Unit investigation category.
