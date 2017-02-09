@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: clinical-commissioning-group
+phase: discovery
+register: clinical-commissioning-group
+text: The NHS code assigned to the CCG by the Organisation Data Service (part of NHS Digital).
