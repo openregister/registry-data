@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: string
 field: internal-drainage-board
 phase: alpha
-register: ''
+register: internal-drainage-board
 text: Internal drainage board code
