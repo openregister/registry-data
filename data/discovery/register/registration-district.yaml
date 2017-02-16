@@ -6,5 +6,5 @@ fields:
 - end-date
 phase: discovery
 register: registration-district
-registry: home-office
+registry: hm-passport-office
 text: Registration districts in England and Wales, defined for the purposes of the Registration Acts
