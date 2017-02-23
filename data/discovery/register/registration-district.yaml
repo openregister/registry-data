@@ -1,6 +1,7 @@
 fields:
 - registration-district
 - name
+- name-cy
 - local-authority
 - start-date
 - end-date
