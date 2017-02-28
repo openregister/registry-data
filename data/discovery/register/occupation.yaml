@@ -7,4 +7,4 @@ fields:
 phase: discovery
 register: occupation
 registry: office-for-national-statistics
-text: 'Standard Occupation Codes (SOC) It is used in conjunction with the Coding Index for career information to labour market entrants, job matching by employment agencies and the development of government labour market policies'
+text: 'Standard Occupation Codes (SOC) are classifications of occupations in the UK used when collecting occupational data to enable comparison of occupations across data sets"
