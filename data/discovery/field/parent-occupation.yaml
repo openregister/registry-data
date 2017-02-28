@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: parent-occupation
+phase: discovery
+register: occupation
+text: Parent SOC occupation Code in the heirachy.
