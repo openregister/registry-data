@@ -3,4 +3,4 @@ datatype: string
 field: government-service
 phase: alpha
 register: government-service
-text: "The code representing a government service with a government service domain (service.gov.uk)"
+text: "The code representing a government service with a government service domain (service.gov.uk)."
