@@ -7,4 +7,4 @@ fields:
 phase: alpha
 register: government-organisation
 registry: government-digital-service
-text: 'A register of any government organisations that have a presence on gov.uk'
+text: 'Government organisations that have a presence on gov.uk'
