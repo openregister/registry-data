@@ -3,4 +3,4 @@ datatype: string
 field: name-cy
 phase: discovery
 register: ''
-text: Welsh name for an entry
+text: Welsh name for an entry.

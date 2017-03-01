@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: hostname
+phase: alpha
+register: ''
+text: The code representing a section of government service domain that identifies a service.

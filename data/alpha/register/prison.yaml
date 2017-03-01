@@ -6,7 +6,7 @@ fields:
 - change-date
 - start-date
 - end-date
-phase: discovery
+phase: alpha
 register: prison
 registry: ministry-of-justice
 text: The Prison Estate in England and Wales, including public and contracted prisons, NOMS Immigration Removal Centres operated on behalf of the Home Office and Secure Training Centre
