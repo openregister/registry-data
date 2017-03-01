@@ -1,8 +1,9 @@
 fields:
 - prison
 - name
-- organisation
+- operator
 - address
+- change-date
 - start-date
 - end-date
 phase: discovery
