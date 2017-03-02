@@ -5,5 +5,5 @@ fields:
 - end-date
 phase: beta
 register: local-authority-type
-registry: government-digital-service
+registry: department-for-communities-and-local-government
 text: 'Types of local government organisations in the United Kingdom'
