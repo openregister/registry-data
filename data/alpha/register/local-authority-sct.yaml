@@ -7,5 +7,5 @@ fields:
 - "end-date"
 phase: "alpha"
 register: "local-authority-sct"
-registry: "government-digital-service"
+registry: "the-scottish-government"
 text: "Local authorities in Scotland"
