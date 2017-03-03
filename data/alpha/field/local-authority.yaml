@@ -1,0 +1,6 @@
+text: "A local authority in the United Kingdom."
+field: "local-authority"
+phase: "alpha"
+datatype: "curie"
+register: ""
+cardinality: "1"
