@@ -1,4 +1,4 @@
-text: "A local authority in England."
+text: The local authority's ISO 3166-1 alpha3 code. Unique codes have been created for local authorities that don't have an existing ISO code.
 field: "local-authority-eng"
 phase: "discovery"
 datatype: "string"

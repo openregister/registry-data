@@ -3,4 +3,4 @@ datatype: string
 field: registry
 phase: discovery
 register: ''
-text: 'Body responsible for maintaining one or more registers'
+text: The organisation responsible for the data in a register. The custodian is usually from the registry.

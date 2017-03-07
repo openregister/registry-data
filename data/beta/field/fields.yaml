@@ -3,4 +3,4 @@ datatype: string
 field: fields
 phase: beta
 register: field
-text: The names of the fields in register.
+text: The names of the fields in a register.

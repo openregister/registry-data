@@ -3,4 +3,4 @@ datatype: datetime
 field: start-date
 phase: beta
 register: ''
-text: The date a record first became relevant to a register. For example, the date a country was first recognised by the UK.
+text: The date a record first became relevant to a register.

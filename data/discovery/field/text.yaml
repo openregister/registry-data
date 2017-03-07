@@ -3,4 +3,4 @@ datatype: text
 field: text
 phase: discovery
 register: ''
-text: Description of register entry.
+text: Any additional information about a record in a register. 

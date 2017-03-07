@@ -3,4 +3,4 @@ datatype: datetime
 field: end-date
 phase: beta
 register: ''
-text: The date a record stopped being applicable. For example, the date a school closed down.
+text: The date a record stopped being applicable.

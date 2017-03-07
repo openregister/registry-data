@@ -3,4 +3,4 @@ datatype: string
 field: name
 phase: alpha
 register: ''
-text: Name of field
+text: The commonly-used name of a record.
