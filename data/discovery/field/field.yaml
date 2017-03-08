@@ -3,4 +3,4 @@ datatype: string
 field: field
 phase: discovery
 register: field
-text: Field name of register entry.
+text: The name of a field. This field could appear in more than one register.

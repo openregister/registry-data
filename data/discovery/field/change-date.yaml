@@ -3,4 +3,4 @@ datatype: datetime
 field: change-date
 phase: discovery
 register: ''
-text: Start datetime for the applicability of a change to a field value.
+text: A character (either 1 or n) that explains if a field in a register can contain multiple values. 

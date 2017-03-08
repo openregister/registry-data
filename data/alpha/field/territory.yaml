@@ -3,4 +3,4 @@ datatype: string
 field: territory
 phase: alpha
 register: territory
-text: A territory
+text: The territory's ISO 3166-1 code. Unique codes have been created for territories that don't have an existing ISO code. 

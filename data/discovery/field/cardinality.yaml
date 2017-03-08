@@ -3,4 +3,4 @@ datatype: string
 field: cardinality
 phase: discovery
 register: ''
-text: Number of elements of the set (1 or n).
+text: A character (either 1 or n) that explains if a field in a register can contain multiple values. 

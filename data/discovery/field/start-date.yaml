@@ -3,4 +3,4 @@ datatype: datetime
 field: start-date
 phase: discovery
 register: ''
-text: Start datetime for the applicability of a register entry.
+text: The date a record first became relevant to a register.

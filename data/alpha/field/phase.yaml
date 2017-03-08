@@ -3,4 +3,4 @@ datatype: string
 field: phase
 phase: alpha
 register: ''
-text: Phase of a register or service as defined by the [digital service manual](https://www.gov.uk/service-manual).
+text: The stage of development a register is in. There are 4 phases - discovery, alpha, beta and live.

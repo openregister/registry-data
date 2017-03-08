@@ -3,4 +3,4 @@ datatype: string
 field: company-status
 phase: discovery
 register: ''
-text: The status of a UK company.
+text: A character (either 1 or n) that explains if a field in a register can contain multiple values. 

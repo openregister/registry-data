@@ -3,4 +3,4 @@ datatype: string
 field: official-name
 phase: discovery
 register: ''
-text: Official name for an entry
+text: The official or technical name of a record.

@@ -3,4 +3,4 @@ datatype: string
 field: local-authority-type
 phase: alpha
 register: local-authority-type
-text: 'The type of a local government organisation in the United Kingdom.'
+text: 'The type of a local government organisation.'

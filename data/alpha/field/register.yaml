@@ -3,4 +3,4 @@ datatype: string
 field: register
 phase: alpha
 register: register
-text: A register name.
+text: The name of a register.

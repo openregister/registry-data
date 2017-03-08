@@ -3,4 +3,4 @@ datatype: string
 field: name
 phase: discovery
 register: ''
-text: English name for an entry
+text: The commonly-used name of a record.
