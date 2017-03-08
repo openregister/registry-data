@@ -2,7 +2,6 @@ fields:
 - notifiable-animal-disease
 - name
 - notifiable-locations
-- reportable-locations
 - notifiable-animal-disease-investigation-category
 - start-date
 - end-date
