@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: reportable-locations
-phase: alpha
-register: ''
-text: Locations where a disease is reportable.
