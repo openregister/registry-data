@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: internal-drainage-board
+phase: beta
+register: internal-drainage-board
+text: Internal drainage board code.
