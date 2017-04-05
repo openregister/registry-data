@@ -1,0 +1,10 @@
+fields:
+- internal-drainage-board
+- name
+- legislation
+- start-date
+- end-date
+phase: beta
+register: internal-drainage-board
+registry: department-for-environment-food-rural-affairs
+text: 'A register of internal drainage boards in England'
