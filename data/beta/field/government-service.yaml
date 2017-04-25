@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: government-service
+phase: alpha
+register: government-service
+text: "The unique code representing a government service with a government service domain."
