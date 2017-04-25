@@ -3,7 +3,7 @@ fields:
 - name
 - company-status
 - address
-- industry
+- industrial-classification
 - start-date
 - name-change-date
 - end-date
