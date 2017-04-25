@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: url
+field: website
+phase: beta
+register: ''
+text: Website for register entry.

@@ -1,0 +1,10 @@
+fields:
+- government-organisation
+- name
+- website
+- start-date
+- end-date
+phase: beta
+register: government-organisation
+registry: government-digital-service
+text: 'Government organisations that have a presence on gov.uk'
