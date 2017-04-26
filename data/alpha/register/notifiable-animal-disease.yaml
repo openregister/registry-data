@@ -3,6 +3,7 @@ fields:
 - name
 - notifiable-locations
 - notifiable-animal-disease-investigation-category
+- notifiable-animal-disease-confirmation-category
 - start-date
 - end-date
 phase: alpha
