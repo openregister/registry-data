@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: string
 field: school-type
 phase: alpha
-register: school-type
+register: ''
 text: 'Type of a school.'

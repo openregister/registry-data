@@ -1,9 +1,0 @@
-fields:
-- school-admissions-policy
-- name
-- start-date
-- end-date
-phase: alpha
-register: school-admissions-policy
-registry: department-for-education
-text: 'School admissions policies'

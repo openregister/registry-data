@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: dioceses
-phase: alpha
-register: diocese
-text: 'A list of districts under the pastoral care of a bishop in the Christian Church.'

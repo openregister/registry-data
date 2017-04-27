@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: school-phases
-phase: alpha
-register: school-phase
-text: 'A list of phases of a school.'

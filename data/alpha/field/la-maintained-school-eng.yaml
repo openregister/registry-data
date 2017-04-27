@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: la-maintained-school-eng
-phase: alpha
-register: la-maintained-school-eng
-text: 'Local-authority-maintained school in England legally registered to provide full time education to pupils of compulsory school age.'
