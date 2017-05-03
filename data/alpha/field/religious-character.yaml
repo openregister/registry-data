@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: religious-character
-phase: alpha
-register: religious-character
-text: 'A religion or subgroup within a religion operating under a common name, tradition, and identity.'

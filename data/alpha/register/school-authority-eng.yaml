@@ -1,8 +1,0 @@
-fields:
-- school-authority-eng
-- name
-- organisation
-phase: alpha
-register: school-authority-eng
-registry: department-for-education
-text: 'School authority organisation'

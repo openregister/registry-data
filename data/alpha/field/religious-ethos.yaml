@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: religious-ethos
-phase: alpha
-register: religious-character
-text: 'A list of religion or subgroup within a religion operating under a common name, tradition, and identity.'

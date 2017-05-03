@@ -1,9 +1,0 @@
-fields:
-- school-type
-- name
-- start-date
-- end-date
-phase: alpha
-register: school-type
-registry: department-for-education
-text: 'Types of schools'
