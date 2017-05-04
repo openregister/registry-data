@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
-field: prison
+field: prison-estate
 phase: alpha
-register: prison
+register: prison-estate
 text: A part of the Prison Estate in England and Wales, including public and contracted prisons, and NOMS Immigration Removal Centres.
