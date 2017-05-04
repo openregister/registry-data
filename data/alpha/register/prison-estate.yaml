@@ -6,6 +6,6 @@ fields:
 - start-date
 - end-date
 phase: alpha
-register: prison
+register: prison-estate
 registry: ministry-of-justice
 text: 'A register of prison estates in England as defined by HM Prison and Probation Service'
