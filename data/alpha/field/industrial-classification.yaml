@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: industrial-classification
+phase: alpha
+register: industrial-classification
+text: The parent entries standard industrial classification.
