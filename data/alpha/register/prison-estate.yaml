@@ -2,7 +2,6 @@ fields:
 - prison-estate
 - name
 - operator
-- change-date
 - start-date
 - end-date
 phase: alpha
