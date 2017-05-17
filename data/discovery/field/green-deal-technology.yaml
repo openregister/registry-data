@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: green-deal-technology
+phase: discovery
+register: 
+text: The technology that a green deal organisation is approved to certify or provide.

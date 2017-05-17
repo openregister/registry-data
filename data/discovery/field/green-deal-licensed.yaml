@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: green-deal-licensed
+phase: discovery
+register: 
+text: Whether or not the certification body is green-deal licensed.

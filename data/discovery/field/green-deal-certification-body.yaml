@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: green-deal-certification-body
+phase: discovery
+register: green-deal-certification-body
+text: The unique identifier of the certification body.
