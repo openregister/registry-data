@@ -1,0 +1,11 @@
+fields:
+- "local-authority-sct"
+- "local-authority-type"
+- "name"
+- "official-name"
+- "start-date"
+- "end-date"
+phase: "beta"
+register: "local-authority-sct"
+registry: "the-scottish-government"
+text: "Local authorities in Scotland"
