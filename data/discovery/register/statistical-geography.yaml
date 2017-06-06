@@ -1,7 +1,7 @@
 fields:
 - statistical-geography
 - name
-- geographic-domain
+- area
 - organisation
 - start-date
 - end-date
