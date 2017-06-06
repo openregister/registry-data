@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: integer
+datatype: string
 field: statistical-geography
 phase: discovery
 register: statistical-geography
