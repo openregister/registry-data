@@ -1,0 +1,11 @@
+fields:
+- statistical-geography
+- name
+- area
+- organisation
+- start-date
+- end-date
+phase: discovery
+register: statistical-geography
+registry: office-for-national-statistics
+text: 'Geographies that are used for official statistics'
