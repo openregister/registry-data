@@ -3,6 +3,7 @@ fields:
 - name
 - name-cy
 - official-name
+- official-name-cy
 - start-date
 - end-date
 phase: alpha
