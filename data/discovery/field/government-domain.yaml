@@ -1,6 +1,6 @@
-text: "A government domain"
-field: "government-domain"
-phase: "discovery"
-datatype: "string"
-register: "government-domain"
-cardinality: "1"
+cardinality: '1'
+datatype: string
+field: government-domain
+phase: discovery
+register: government-domain
+text: A government domain.
