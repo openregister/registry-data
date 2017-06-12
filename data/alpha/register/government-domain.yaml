@@ -1,0 +1,9 @@
+fields:
+- government-domain
+- organisation
+- start-date
+- end-date
+phase: alpha
+register: government-domain
+registry: cabinet-office
+text: 'Government domains'
