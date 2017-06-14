@@ -3,4 +3,4 @@ datatype: string
 field: hostname
 phase: discovery
 register: ''
-text: The code representing a section of government service domain that identifies a service.
+text: The section of a URL that identifies a government domain.
