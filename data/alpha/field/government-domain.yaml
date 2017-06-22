@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: government-domain
+phase: alpha
+register: government-domain
+text: A subdomain registered by the UK government on the gov.uk domain.
