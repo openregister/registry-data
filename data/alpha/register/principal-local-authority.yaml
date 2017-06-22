@@ -8,5 +8,5 @@ fields:
 - end-date
 phase: alpha
 register: principal-local-authority
-registry: government-digital-service
+registry: welsh-government
 text: Principal local authorities in Wales
