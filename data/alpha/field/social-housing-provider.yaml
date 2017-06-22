@@ -1,0 +1,6 @@
+field: social-housing-provider
+phase: alpha
+datatype: string
+register: social-housing-provider
+cardinality: "1"
+text: The social housing providers Registered Provider code.
