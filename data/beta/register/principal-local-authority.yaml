@@ -1,0 +1,12 @@
+fields:
+- principal-local-authority
+- name
+- name-cy
+- official-name
+- official-name-cy
+- start-date
+- end-date
+phase: beta
+register: principal-local-authority
+registry: welsh-government
+text: Principal local authorities in Wales
