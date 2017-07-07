@@ -3,4 +3,4 @@ datatype: string
 field: datatype
 phase: alpha
 register: datatype
-text: The format of the data held in a field.
+text: Forms that the data in a register field can take

@@ -7,4 +7,4 @@ fields:
 phase: beta
 register: registration-district
 registry: hm-passport-office
-text: Registration districts in England and Wales, defined for the purposes of the Civil Registrations Acts
+text: Districts in England and Wales responsible for recording births, marriages, deaths or civil partnerships for the purpose of registration acts
