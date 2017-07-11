@@ -3,4 +3,4 @@ datatype: string
 field: field
 phase: alpha
 register: field
-text: The name of a field. This field could appear in more than one register.
+text: Field names which may appear in a register

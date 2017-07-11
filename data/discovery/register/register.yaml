@@ -8,4 +8,5 @@ fields:
 phase: discovery
 register: register
 registry: cabinet-office
-text: 'Registers maintained by HM Government'
+text: Registers maintained by the UK government
+
