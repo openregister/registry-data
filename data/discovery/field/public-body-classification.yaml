@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: public-body-classification
+phase: discovery
+register: public-body-classification
+text: A classification that a public sector body can have.
