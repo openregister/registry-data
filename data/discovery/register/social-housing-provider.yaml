@@ -1,9 +1,0 @@
-fields:
-- social-housing-provider
-- name
-- start-date
-- end-date
-phase: discovery
-register: social-housing-provider
-registry: homes-and-communities-agency
-text: "Social housing providers in England"

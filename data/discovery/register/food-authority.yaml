@@ -1,9 +1,0 @@
-text: "Food authorities"
-phase: "discovery"
-fields:
-- "food-authority"
-- "organisation"
-- "website"
-- "email"
-register: "food-authority"
-registry: "government-digital-service"

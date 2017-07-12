@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: prison-estate
-phase: alpha
-register: prison-estate
-text: A part of the Prison Estate in England and Wales, including public and contracted prisons, and HMPPS Immigration Removal Centres.

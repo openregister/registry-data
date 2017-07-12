@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: government-organisation
-phase: alpha
-register: government-organisation
-text: The code representing a department, agency or team within government.
