@@ -1,0 +1,9 @@
+fields:
+- public-body-classification
+- name
+- start-date
+- end-date
+phase: discovery
+register: public-body-classification
+registry: office-for-national-statistics
+text: 'A register of the classifications that current and former public body bodies can have'
