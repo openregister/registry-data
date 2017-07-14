@@ -5,8 +5,7 @@ fields:
 - phase
 - copyright
 - fields
-phase: discovery
-register: register
+phase: beta
+register: discovery
 registry: cabinet-office
 text: Registers maintained by the UK government
-
