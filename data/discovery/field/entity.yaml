@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: entity
+phase: discovery
+register: ''
+text: The principal local authority related to this entry.
