@@ -6,4 +6,4 @@ fields:
 phase: alpha
 register: school-type
 registry: department-for-education
-text: Types of schools
+text: Types of schools in the UK.
