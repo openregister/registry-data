@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: statistical-geography-unitary-authority-wls
+phase: discovery
+register: statistical-geography-unitary-authority-wls
+text: The statistical geography code related to an entity.
