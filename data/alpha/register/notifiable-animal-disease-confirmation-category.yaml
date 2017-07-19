@@ -1,9 +1,0 @@
-fields:
-- notifiable-animal-disease-confirmation-category
-- name
-- start-date
-- end-date
-phase: alpha
-register: notifiable-animal-disease-confirmation-category
-registry: department-for-environment-food-rural-affairs
-text: 'Confirmation categories for notifiable animal diseases'
