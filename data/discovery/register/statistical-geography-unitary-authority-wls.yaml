@@ -1,6 +1,6 @@
 fields:
 - statistical-geography-unitary-authority-wls
-- entity
+- principal-local-authority
 - start-date
 - end-date
 phase: discovery

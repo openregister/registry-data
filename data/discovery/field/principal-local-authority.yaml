@@ -1,0 +1,6 @@
+text: A principal local authority in Wales.
+field: principal-local-authority
+phase: discovery
+datatype: string
+register: ''
+cardinality: '1'
