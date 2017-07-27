@@ -3,4 +3,4 @@ datatype: string
 field: statistical-geography
 phase: discovery
 register: statistical-geography
-text: The code used by the Office of National Statistics for geographies that are used for official statistics.
+text: The code used by the Office for National Statistics for geographies that are used for official statistics.
