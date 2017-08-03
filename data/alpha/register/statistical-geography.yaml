@@ -1,0 +1,12 @@
+fields:
+- statistical-geography
+- name
+- area
+- organisation
+- register
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography
+registry: office-for-national-statistics
+text: Geographies that are used in compiling official statistics

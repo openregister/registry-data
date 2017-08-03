@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: statistical-geography-unitary-authority-wls
+phase: alpha
+register: statistical-geography-unitary-authority-wls
+text: The statistical geography code for a principal local authority.
