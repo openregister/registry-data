@@ -1,6 +1,9 @@
 fields:
 - social-housing-provider
 - name
+- organisation
+- social-housing-provider-designation
+- social-housing-provider-legal-entity
 - start-date
 - end-date
 phase: alpha
