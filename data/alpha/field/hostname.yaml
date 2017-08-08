@@ -1,6 +1,6 @@
-cardinality: '1'
+cardinality: 1
 datatype: string
 field: hostname
 phase: alpha
-register: ''
+register: 
 text: The section of a URL that identifies a government domain.
