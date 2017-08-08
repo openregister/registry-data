@@ -1,4 +1,4 @@
-cardinality: 1
+cardinality: '1'
 datatype: string
 field: hostname
 phase: alpha
