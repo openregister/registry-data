@@ -2,7 +2,6 @@ fields:
 - industrial-classification
 - parent-industrial-classification
 - name
-- name-cy
 - start-date
 - end-date
 phase: alpha
