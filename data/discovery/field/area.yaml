@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: area
-phase: discovery
-register: ''
-text: The geographic area that a record relates to, e.g. country/territory/uk.
