@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: public-body
+phase: discovery
+register: public-body
+text: A public body that is classified for national accounting.
