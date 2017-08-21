@@ -2,7 +2,7 @@ fields:
 - public-body
 - name
 - organisation
-- public-body-classification
+- public-body-classifications
 - start-date
 - end-date
 phase: discovery
