@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: public-body-classifications
+phase: discovery
+register:
+text: Classifications that a public body can have.

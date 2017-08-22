@@ -3,4 +3,4 @@ datatype: string
 field: public-body-classification
 phase: discovery
 register: public-body-classification
-text: A classification that a public sector body can have.
+text: A classification that a public body can have.
