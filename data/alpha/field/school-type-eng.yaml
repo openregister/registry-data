@@ -3,4 +3,4 @@ datatype: string
 field: school-type-eng
 phase: alpha
 register: school-type-eng
-text: 'Type of a school.'
+text: 'Type of a school in England.'
