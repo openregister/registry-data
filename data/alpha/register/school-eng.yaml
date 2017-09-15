@@ -2,7 +2,7 @@ fields:
 - school-eng
 - name
 - address
-- school-type
+- school-type-eng
 - minimum-age
 - maximum-age
 - school-capacity
