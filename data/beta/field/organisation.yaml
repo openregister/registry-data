@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: organisation
+phase: beta
+register: ''
+text: The entity's organisation.

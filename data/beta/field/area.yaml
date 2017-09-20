@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: area
+phase: beta
+register: ''
+text: The geographic area for an entity.
