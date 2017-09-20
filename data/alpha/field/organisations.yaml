@@ -1,4 +1,4 @@
-cardinality: '1'
+cardinality: 'n'
 datatype: curie
 field: organisations
 phase: alpha
