@@ -1,0 +1,10 @@
+fields:
+- government-domain
+- hostname
+- organisation
+- start-date
+- end-date
+phase: beta
+register: government-domain
+registry: cabinet-office
+text: Government domains that appear on GOV.UK

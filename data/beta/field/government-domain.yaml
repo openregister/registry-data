@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: government-domain
+phase: beta
+register: government-domain
+text: A government domain.
