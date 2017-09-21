@@ -1,0 +1,9 @@
+fields:
+- statistical-geography-council-area-sct
+- local-authority-sct
+- start-date
+- end-date
+phase: discovery
+register: statistical-geography-council-area-sct
+registry: office-for-national-statistics
+text: Statistical geography data for council areas in Scotland
