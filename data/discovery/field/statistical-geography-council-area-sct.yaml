@@ -3,4 +3,4 @@ datatype: string
 field: statistical-geography-council-area-sct
 phase: discovery
 register: statistical-geography-council-area-sct
-text: The statistical geography code for a council area in scotland
+text: The statistical geography code for a council area in Scotland
