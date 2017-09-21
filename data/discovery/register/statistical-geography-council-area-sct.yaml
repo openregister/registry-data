@@ -5,5 +5,5 @@ fields:
 - end-date
 phase: discovery
 register: statistical-geography-council-area-sct
-registry: office-for-national-statistics
+registry: the-scottish-government
 text: Statistical geography data for council areas in Scotland
