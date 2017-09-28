@@ -1,0 +1,6 @@
+text: The relevent legislation for a record
+field: legislation
+phase: discovery
+datatype: string
+register: ""
+cardinality: "1"

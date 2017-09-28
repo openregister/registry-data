@@ -1,6 +1,7 @@
 fields:
 - statistical-geography-council-area-sct
 - local-authority-sct
+- legislation
 - start-date
 - end-date
 phase: discovery
