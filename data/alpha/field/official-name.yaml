@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: official-name
-phase: alpha
-register: ''
-text: The official or technical name of a record.
