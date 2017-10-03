@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: statistical-geography
-phase: alpha
-register: statistical-geography
-text: The entity (record) for geographies that are used in official statistics.

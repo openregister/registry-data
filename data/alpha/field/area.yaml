@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: area
-phase: alpha
-register: ''
-text: The geographic area for an entity.
