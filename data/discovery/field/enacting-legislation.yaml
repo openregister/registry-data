@@ -1,0 +1,6 @@
+text: The legislation that created a council area in Scotland.
+field: enacting-legislation
+phase: discovery
+datatype: string
+register: ""
+cardinality: "1"
