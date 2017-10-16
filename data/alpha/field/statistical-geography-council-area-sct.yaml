@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: statistical-geography-council-area-sct
+phase: alpha
+register: statistical-geography-council-area-sct
+text: The statistical geography code for a council area in Scotland

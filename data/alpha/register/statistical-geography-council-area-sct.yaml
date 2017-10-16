@@ -1,0 +1,11 @@
+fields:
+- statistical-geography-council-area-sct
+- local-authority-sct
+- enacting-legislation
+- dissolving-legislation
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography-council-area-sct
+registry: the-scottish-government
+text: Statistical geography data for council areas in Scotland
