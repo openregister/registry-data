@@ -1,0 +1,9 @@
+fields:
+- "qualification-level"
+- "name"
+- "start-date"
+- "end-date"
+phase: "discovery"
+register: "qualification-level"
+registry: "ofqual"
+text: "Levels of qualifications regulated by Ofqual"

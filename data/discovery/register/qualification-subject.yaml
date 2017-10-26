@@ -1,0 +1,9 @@
+fields:
+- "qualification-subject"
+- "name"
+- "start-date"
+- "end-date"
+phase: "discovery"
+register: "qualification-subject"
+registry: "ofqual"
+text: "Subjects of qualifications regulated by Ofqual"
