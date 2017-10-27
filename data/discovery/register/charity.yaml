@@ -1,0 +1,12 @@
+fields:
+- charity
+- name
+- charity-classes
+- company
+- address
+- start-date
+- end-date
+phase: discovery
+register: charity
+registry: charity-commission
+text: A charity in England or Wales as defined by the Charity Commission

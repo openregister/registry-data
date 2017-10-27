@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: charity-classes
+phase: discovery
+register: charity-class
+text: The classes that a charity falls into.
