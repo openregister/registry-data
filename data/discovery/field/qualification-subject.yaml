@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: qualification-subject
+phase: discovery
+register: qualification-subject
+text: A subject of a qualification regulated by Ofqual
