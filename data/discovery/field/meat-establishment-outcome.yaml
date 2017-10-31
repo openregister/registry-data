@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: meat-establishment-outcome
+phase: discovery
+register: meat-establishment-outcome
+text: A possible outcome of an audit of a meat establishment by the Food Standards Agency

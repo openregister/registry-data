@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: datetime
+field: meat-establishment-audit-date
+phase: discovery
+register: ''
+text: The date a meat establishment was audited by the Food Standards Agency.

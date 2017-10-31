@@ -1,0 +1,9 @@
+fields:
+- meat-establishment-operation
+- name
+- start-date
+- end-date
+phase: discovery
+register: meat-establishment-operation
+registry: food-standards-agency
+text: 'Parts of the business of meat establishments that can be approved by the Food Standards Agency'
