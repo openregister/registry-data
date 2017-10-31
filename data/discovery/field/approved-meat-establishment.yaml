@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: approved-meat-establishment
+phase: discovery
+register: approved-meat-establishment
+text: A slaughter, cutting or game establishment approved by the Food Standards Agency

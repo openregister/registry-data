@@ -1,0 +1,9 @@
+fields:
+- meat-establishment-outcome
+- name
+- start-date
+- end-date
+phase: discovery
+register: meat-establishment-outcome
+registry: food-standards-agency
+text: 'Possible outcomes of audits of meat establishments by the Food Standards Agency'

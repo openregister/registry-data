@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: meat-establishment-operation
+phase: discovery
+register: meat-establishment-operation
+text:  A part of the business of meat establishments that can be approved by the Food Standards Agency

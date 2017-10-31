@@ -1,0 +1,9 @@
+fields:
+- meat-establishment-type
+- name
+- start-date
+- end-date
+phase: discovery
+register: meat-establishment-type
+registry: food-standards-agency
+text: 'Types of meat establishment approved by the Food Standards Agency'
