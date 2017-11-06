@@ -5,5 +5,5 @@ fields:
 - "end-date"
 phase: "discovery"
 register: "westminster-parliamentary-constituency"
-registry: "parliamentary-digital-service"
+registry: "the-electoral-commission"
 text: "Constituency in the Westminster parliament"
