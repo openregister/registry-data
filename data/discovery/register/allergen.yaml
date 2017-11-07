@@ -1,0 +1,10 @@
+fields:
+- allergen
+- name
+- allergen-group
+- start-date
+- end-date
+phase: discovery
+register: allergen
+registry: food-standards-agency
+text: 'Allegens referenced in Food Standards Agency food safety alerts'
