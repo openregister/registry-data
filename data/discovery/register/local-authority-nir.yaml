@@ -7,5 +7,5 @@ fields:
 - "end-date"
 phase: "discovery"
 register: "local-authority-nir"
-registry: "government-digital-service"
+registry: "department-for-communities-northern-ireland"
 text: "Local authorities in Northern Ireland"
