@@ -3,7 +3,7 @@ fields:
 - name
 - start-date
 - end-date
-phase: discovery
+phase: alpha
 register: public-body-classification
 registry: office-for-national-statistics
 text: 'A register of the classifications that current and former public bodies can have'
