@@ -5,7 +5,7 @@ fields:
 - public-body-classifications
 - start-date
 - end-date
-phase: discovery
+phase: alpha
 register: public-body
 registry: office-for-national-statistics
 text: 'A register of current and former public bodies that are classified for national accounting'
