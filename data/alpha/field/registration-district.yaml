@@ -1,0 +1,6 @@
+text: "The code for a registration district in England or Wales."
+field: "registration-district"
+phase: "alpha"
+datatype: "string"
+register: 
+cardinality: "1"

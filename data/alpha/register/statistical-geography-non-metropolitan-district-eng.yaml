@@ -1,0 +1,9 @@
+fields:
+- statistical-geography-non-metropolitan-council-eng
+- local-authority-eng
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography-non-metropolitan-council-eng
+registry: office-for-national-statistics
+text: Statistical geography data for non-metropolitan councils in England

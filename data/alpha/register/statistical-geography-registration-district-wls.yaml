@@ -1,0 +1,11 @@
+fields:
+- statistical-geography-registration-district-wls
+- registration-district
+- name
+- name-cy
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography-registration-district-wls
+registry: office-for-national-statistics
+text: Statistical geography data for registration districts in Wales

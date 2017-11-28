@@ -1,0 +1,10 @@
+fields:
+- statistical-geography-registration-district-eng
+- registration-district
+- name
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography-registration-district-eng
+registry: office-for-national-statistics
+text: Statistical geography data for registration districts in England

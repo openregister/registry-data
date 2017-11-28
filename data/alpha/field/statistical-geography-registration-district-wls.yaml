@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: statistical-geography-registration-district-wls
+phase: alpha
+register: statistical-geography-registration-district-wls
+text: The statistical geography code for a registration district in Wales.

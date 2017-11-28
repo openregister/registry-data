@@ -1,0 +1,10 @@
+fields:
+- statistical-geography-county-eng
+- local-authority-eng
+- name
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography-county-eng
+registry: office-for-national-statistics
+text: Statistical geography data for counties in England
