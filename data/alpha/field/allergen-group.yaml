@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: allergen-group
+phase: alpha
+register: allergen
+text: 'A parent allergen referenced in Food Standards Agency food safety alerts, for example almond is a type of nut.'
