@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: statistical-geography-unitary-authority-eng
+phase: alpha
+register: statistical-geography-unitary-authority-eng
+text: The statistical geography code for a unitary authority in England.

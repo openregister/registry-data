@@ -1,0 +1,10 @@
+fields:
+- statistical-geography-unitary-authority-eng
+- local-authority-eng
+- name
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography-unitary-authority-eng
+registry: office-for-national-statistics
+text: Statistical geography data for a unitary authority in England

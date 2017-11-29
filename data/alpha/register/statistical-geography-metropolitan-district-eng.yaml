@@ -1,9 +1,9 @@
 fields:
-- statistical-geography-metropolitan-council-eng
+- statistical-geography-metropolitan-district-eng
 - local-authority-eng
 - start-date
 - end-date
 phase: alpha
-register: statistical-geography-metropolitan-council-eng
+register: statistical-geography-metropolitan-district-eng
 registry: office-for-national-statistics
 text: Statistical geography data for metropolitan councils in England
