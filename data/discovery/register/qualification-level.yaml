@@ -1,7 +1,7 @@
 fields:
 - "qualification-level"
 - "name"
-- "qualification-level-eqf"
+- "european-qualification-framework-level"
 - "start-date"
 - "end-date"
 phase: "discovery"
