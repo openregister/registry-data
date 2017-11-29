@@ -1,6 +1,7 @@
 fields:
 - "qualification-level"
 - "name"
+- "qualification-level-eqf"
 - "start-date"
 - "end-date"
 phase: "discovery"
