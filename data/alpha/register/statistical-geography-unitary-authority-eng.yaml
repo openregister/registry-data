@@ -1,7 +1,6 @@
 fields:
 - statistical-geography-unitary-authority-eng
 - local-authority-eng
-- name
 - start-date
 - end-date
 phase: alpha
