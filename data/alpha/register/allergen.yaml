@@ -7,4 +7,4 @@ fields:
 phase: alpha
 register: allergen
 registry: food-standards-agency
-text: 'Allegens referenced in Food Standards Agency food safety alerts'
+text: 'Allergens referenced in Food Standards Agency food safety alerts'
