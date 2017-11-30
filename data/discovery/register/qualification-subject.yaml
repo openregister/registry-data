@@ -1,5 +1,6 @@
 fields:
 - "qualification-subject"
+- "parent-qualification-subject"
 - "name"
 - "start-date"
 - "end-date"
