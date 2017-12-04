@@ -1,6 +1,7 @@
 fields:
 - statistical-geography-non-metropolitan-district-eng
 - local-authority-eng
+- name
 - start-date
 - end-date
 phase: alpha
