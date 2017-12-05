@@ -1,9 +1,9 @@
 fields:
-- public-body-classification
+- public-body-account-classification
 - name
 - start-date
 - end-date
 phase: alpha
-register: public-body-classification
+register: public-body-account-classification
 registry: office-for-national-statistics
 text: 'A register of the classifications that current and former public bodies can have'

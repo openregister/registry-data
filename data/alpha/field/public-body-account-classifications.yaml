@@ -1,6 +1,6 @@
 cardinality: 'n'
 datatype: string
-field: public-body-classifications
+field: public-body-account-classifications
 phase: alpha
-register: public-body-classification
+register: public-body-account-classification
 text: Classifications that a public body can have.
