@@ -1,0 +1,11 @@
+fields:
+- "local-authority-nir"
+- "local-authority-type"
+- "name"
+- "website"
+- "start-date"
+- "end-date"
+phase: "beta"
+register: "local-authority-nir"
+registry: "department-for-communities-northern-ireland"
+text: "Local authorities in Northern Ireland"
