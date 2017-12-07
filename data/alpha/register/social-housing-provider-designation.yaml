@@ -1,9 +1,0 @@
-fields:
-- social-housing-provider-designation
-- name
-- start-date
-- end-date
-phase: alpha
-register: social-housing-provider-designation
-registry: homes-and-communities-agency
-text: The Designation of a social housing provider
