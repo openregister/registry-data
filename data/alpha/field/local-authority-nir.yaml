@@ -1,6 +1,0 @@
-text: "A local authority in Northern Ireland."
-field: "local-authority-nir"
-phase: "alpha"
-datatype: "string"
-register: "local-authority-nir"
-cardinality: "1"
