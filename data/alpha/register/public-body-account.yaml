@@ -1,7 +1,7 @@
 fields:
 - public-body-account
 - name
-- organisations
+- organisation
 - public-body-account-classifications
 - start-date
 - end-date
