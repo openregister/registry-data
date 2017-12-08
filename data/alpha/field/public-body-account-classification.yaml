@@ -3,4 +3,4 @@ datatype: string
 field: public-body-account-classification
 phase: alpha
 register: public-body-account-classification
-text: A classification that a public body can have.
+text: A national accounting classification that a public body can have.
