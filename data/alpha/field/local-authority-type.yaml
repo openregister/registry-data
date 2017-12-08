@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: local-authority-type
-phase: alpha
-register: local-authority-type
-text: The type of local government organisation in the United Kingdom.

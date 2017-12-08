@@ -1,9 +1,0 @@
-fields:
-- social-housing-provider-legal-entity
-- name
-- start-date
-- end-date
-phase: alpha
-register: social-housing-provider-legal-entity
-registry: homes-and-communities-agency
-text: The legal classification of the social housing provider

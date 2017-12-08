@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: legislation
-phase: alpha
-register: ''
-text: The identifier for the Statutory Instrument establishing the board's powers and duties (where known).
