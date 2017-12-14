@@ -3,7 +3,7 @@ fields:
 - local-authority-eng
 - start-date
 - end-date
-phase: alpha
+phase: beta
 register: statistical-geography-metropolitan-district-eng
 registry: office-for-national-statistics
 text: Statistical geography data for metropolitan councils in England

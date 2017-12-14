@@ -3,7 +3,7 @@ fields:
 - local-authority-eng
 - start-date
 - end-date
-phase: alpha
+phase: beta
 register: statistical-geography-unitary-authority-eng
 registry: office-for-national-statistics
 text: Statistical geography data for a unitary authority in England

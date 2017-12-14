@@ -5,7 +5,7 @@ fields:
 - name-cy
 - start-date
 - end-date
-phase: alpha
+phase: beta
 register: statistical-geography-registration-district-wls
 registry: office-for-national-statistics
 text: Statistical geography data for registration districts in Wales
