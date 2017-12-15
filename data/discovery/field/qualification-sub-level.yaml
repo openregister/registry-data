@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: qualification-sub-level
+phase: discovery
+register:
+text: A sub-level of a qualification regulated by Ofqual

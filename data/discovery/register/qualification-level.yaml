@@ -1,6 +1,7 @@
 fields:
 - "qualification-level"
 - "name"
+- "qualification-sub-level"
 - "european-qualification-framework-level"
 - "start-date"
 - "end-date"
