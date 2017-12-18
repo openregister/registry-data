@@ -1,9 +1,0 @@
-fields:
-- statistical-geography-council-area-eng
-- local-authority-eng
-- start-date
-- end-date
-phase: beta
-register: statistical-geography-council-area-eng
-registry: office-for-national-statistics
-text: Statistical geography data for council areas in England
