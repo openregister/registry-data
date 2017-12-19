@@ -1,0 +1,10 @@
+fields:
+- allergen
+- name
+- allergen-group
+- start-date
+- end-date
+phase: beta
+register: allergen
+registry: food-standards-agency
+text: 'Allergens referenced in Food Standards Agency food safety alerts'
