@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: qualification-type
+phase: alpha
+register: qualification-type
+text: A type of qualification regulated by Ofqual

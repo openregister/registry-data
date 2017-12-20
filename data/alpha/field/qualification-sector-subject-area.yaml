@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: qualification-sector-subject-area
+phase: alpha
+register: qualification-sector-subject-area
+text: A subject of a qualification regulated by Ofqual

@@ -1,0 +1,10 @@
+fields:
+- "qualification-sector-subject-area"
+- "parent-qualification-sector-subject-area"
+- "name"
+- "start-date"
+- "end-date"
+phase: "alpha"
+register: "qualification-sector-subject-area"
+registry: "ofqual"
+text: "Subjects of qualifications regulated by Ofqual"

@@ -1,0 +1,9 @@
+fields:
+- "qualification-type"
+- "name"
+- "start-date"
+- "end-date"
+phase: "alpha"
+register: "qualification-type"
+registry: "ofqual"
+text: "Types of qualification regulated by Ofqual"

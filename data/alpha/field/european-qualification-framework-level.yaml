@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: european-qualification-framework-level
+phase: alpha
+register:
+text: A level of a qualification under the European Qualifications Framework

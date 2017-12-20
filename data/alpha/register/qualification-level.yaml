@@ -1,0 +1,11 @@
+fields:
+- "qualification-level"
+- "name"
+- "qualification-sub-level"
+- "european-qualification-framework-level"
+- "start-date"
+- "end-date"
+phase: "alpha"
+register: "qualification-level"
+registry: "ofqual"
+text: "Levels of qualifications regulated by Ofqual"
