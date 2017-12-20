@@ -1,0 +1,9 @@
+fields:
+- jobcentre-group
+- name
+- start-date
+- end-date
+phase: alpha
+register: jobcentre-group
+registry: department-for-work-pensions
+text: 'Groups of jobcentre offices'

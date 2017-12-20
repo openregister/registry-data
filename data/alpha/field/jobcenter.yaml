@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: jobcentre
+phase: alpha
+register: 'jobcentre'
+text: 'A jobcentre office'
