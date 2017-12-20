@@ -1,9 +1,0 @@
-fields:
-- "jobcentre"
-- "name"
-- "address"
-- "postcode"
-phase: "discovery"
-register: "jobcentre"
-registry: "department-for-work-pensions"
-text: "Jobcentre Offices"
