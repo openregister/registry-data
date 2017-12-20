@@ -1,6 +1,0 @@
-text: "A job centre"
-field: "jobcentre"
-phase: "discovery"
-datatype: "string"
-register: "jobcentre"
-cardinality: "1"
