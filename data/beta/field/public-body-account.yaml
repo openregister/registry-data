@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: public-body-account
+phase: beta
+register: public-body-account
+text: A current or former public body that is classified for national accounting.
