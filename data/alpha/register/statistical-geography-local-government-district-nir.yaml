@@ -1,0 +1,9 @@
+fields:
+- statistical-geography-local-government-district-nir
+- local-authority-nir
+- start-date
+- end-date
+phase: alpha
+register: statistical-geography-local-government-district-nir
+registry: office-for-national-statistics
+text: Statistical geography data for local government districts in Northern Ireland

@@ -1,0 +1,8 @@
+fields:
+- "local-authority-nir"
+- "start-date"
+- "end-date"
+phase: "alpha"
+register: "local-authority-nir"
+registry: "office-for-national-statistics"
+text: "I am a placeholder to make the tests work, i am not to be loaded to a live thing"
