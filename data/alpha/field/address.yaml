@@ -3,4 +3,4 @@ datatype: string
 field: address
 phase: alpha
 register: ''
-text: 'An address in the UK.'
+text: 'The unique propery reference number (UPRN) for an address in the UK.'

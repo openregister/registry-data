@@ -3,4 +3,4 @@ datatype: string
 field: jobcentre
 phase: alpha
 register: 'jobcentre'
-text: 'A jobcentre office'
+text: 'The NOMIS code for a jobcentre office'

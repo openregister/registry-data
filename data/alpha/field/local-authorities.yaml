@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: local-authorities
-phase: alpha
-register: ''
-text: 'Local authorities in England, Scotland, Northern Ireland, or principal local authorities in Wales.'
