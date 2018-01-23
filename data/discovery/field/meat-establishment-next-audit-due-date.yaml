@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: datetime
-field: meat-establishment-next-audit-due-date
-phase: discovery
-register: ''
-text: The date a meat establishment is next due to be audited by the Food Standards Agency.

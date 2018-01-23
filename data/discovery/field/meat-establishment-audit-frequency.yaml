@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: integer
-field: meat-establishment-audit-frequency
-phase: discovery
-register: ''
-text: The number of months between audits by the Food Standards Agency of a meat establishment.

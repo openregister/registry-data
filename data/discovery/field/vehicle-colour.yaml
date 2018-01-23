@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: vehicle-colour
-phase: discovery
-register: vehicle-colour
-text: The code representing a colour used as part of the identification of a vehicle.
