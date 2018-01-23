@@ -1,6 +1,0 @@
-text: "A local authority in the UK."
-field: "local-authority"
-phase: "discovery"
-datatype: "curie"
-register:
-cardinality: "1"
