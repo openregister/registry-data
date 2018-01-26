@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: public-body-account-classification
-phase: beta
-register: public-body-account-classification
-text: A national accounting classification that a public body can be assigned.
