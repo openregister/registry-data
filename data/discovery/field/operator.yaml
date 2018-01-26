@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: operator
-phase: discovery
-register: ''
-text: An entity performing an operational role.
