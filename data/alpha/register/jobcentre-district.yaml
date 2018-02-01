@@ -1,6 +1,7 @@
 fields:
 - jobcentre-district
 - name
+- jobcentre-group
 - start-date
 - end-date
 phase: alpha
