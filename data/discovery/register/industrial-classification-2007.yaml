@@ -1,0 +1,10 @@
+fields:
+- industrial-classification-2007
+- name
+- parent-industrial-classification
+- start-date
+- end-date
+phase: discovery
+register: industrial-classification-2007
+registry: office-for-national-statistics
+text: 'Standard Industry Codes (SIC) used to classify business establishments and other standard units by the type of economic activity in which they are engaged, as defined in 2007'

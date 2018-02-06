@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: industrial-classification-correlation
+phase: discovery
+register: industrial-classification-correlation
+text: 'A correlation between different editions of Standard Industry Codes (SIC)'

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: parent-industrial-classification
+phase: discovery
+register:
+text: 'The parent code in the hierarchy of Standard Industry Codes (SIC) used to classify business establishments and other standard units by the type of economic activity in which they are engaged.'

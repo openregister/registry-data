@@ -1,0 +1,10 @@
+fields:
+- industrial-classification-correlation
+- source-industrial-classification
+- target-industrial-classification
+- start-date
+- end-date
+phase: discovery
+register: industrial-classification-correlation
+registry: office-for-national-statistics
+text: 'Correlations between different editions of Standard Industry Codes (SIC)'

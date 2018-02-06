@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: target-industrial-classification
+phase: discovery
+register:
+text: 'A corresponding Standard Industry Code (SIC) in another edition of the codes.'
