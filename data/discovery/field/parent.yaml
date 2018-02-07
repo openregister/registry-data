@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: parent
+phase: discovery
+register:
+text: 'The parent record in a hierarchy.'

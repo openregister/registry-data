@@ -1,7 +1,7 @@
 fields:
 - industrial-classification-2003
 - name
-- parent-industrial-classification
+- parent
 - start-date
 - end-date
 phase: discovery
