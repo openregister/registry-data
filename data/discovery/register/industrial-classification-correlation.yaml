@@ -1,7 +1,7 @@
 fields:
 - industrial-classification-correlation
-- source-industrial-classification
-- target-industrial-classification
+- source
+- target
 - start-date
 - end-date
 phase: discovery

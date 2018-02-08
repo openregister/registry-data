@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: source-industrial-classification
-phase: discovery
-register:
-text: 'A Standard Industry Code (SIC) used to classify business establishments and other standard units by the type of economic activity in which they are engaged, as defined in a particular edition of the codes.'

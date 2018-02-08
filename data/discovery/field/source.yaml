@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: source
+phase: discovery
+register:
+text: 'A version of something in one register that has a counterpart in another register, e.g. a code in one edition of a classification system'
