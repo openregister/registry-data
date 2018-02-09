@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: fire-and-rescue-service
+phase: discovery
+register:
+text: A local fire and rescue service in the UK
