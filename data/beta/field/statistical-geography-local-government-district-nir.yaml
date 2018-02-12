@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: statistical-geography-local-government-district-nir
-phase: alpha
+phase: beta
 register: statistical-geography-local-government-district-nir
 text: The statistical geography code for a local government district in Northern Ireland.
