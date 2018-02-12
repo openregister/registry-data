@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: jobcentre
+phase: beta
+register: 'jobcentre'
+text: 'The unique code representing a jobcentre office'

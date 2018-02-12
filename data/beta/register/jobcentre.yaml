@@ -1,0 +1,12 @@
+fields:
+- jobcentre
+- name
+- jobcentre-group
+- jobcentre-district
+- address
+- start-date
+- end-date
+phase: beta
+register: jobcentre
+registry: department-for-work-pensions
+text: 'Jobcentre offices in the UK'

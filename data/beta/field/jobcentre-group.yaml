@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: jobcentre-group
+phase: beta
+register: 'jobcentre-group'
+text: 'A grouping of jobcentre offices'

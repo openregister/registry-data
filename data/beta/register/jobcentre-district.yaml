@@ -1,0 +1,10 @@
+fields:
+- jobcentre-district
+- name
+- jobcentre-group
+- start-date
+- end-date
+phase: beta
+register: jobcentre-district
+registry: department-for-work-pensions
+text: 'Districts of jobcentre offices'

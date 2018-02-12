@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: jobcentre-district
+phase: beta
+register: 'jobcentre-district'
+text: 'A jobcentre office district'
