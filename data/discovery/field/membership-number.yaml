@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: membership-number
+phase: discovery
+register: ''
+text: membership-number.

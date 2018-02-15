@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: citizens-advice-bureau-membership-number
+phase: discovery
+register: citizens-advice-bureau-membership-number
+text: Membship Number for Citizens Advice Bureaux

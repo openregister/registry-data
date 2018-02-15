@@ -1,0 +1,9 @@
+fields:
+- citizens-advice-bureau-membership-number
+- membership-number
+- start-date
+- end-date
+phase: discovery
+register: citizens-advice-bureau-membership-number
+registry: citizens-advice
+text: Membership number given to Citizen Advice Bureaux

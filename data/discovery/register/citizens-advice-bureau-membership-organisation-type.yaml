@@ -1,0 +1,9 @@
+fields:
+- citizens-advice-bureau-membership-organisation-type
+- name
+- start-date
+- end-date
+phase: discovery
+register: citizens-advice-bureau-membership-organisation-type
+registry: citizens-advice
+text: Organisation type given to Citizen Advice Bureaux

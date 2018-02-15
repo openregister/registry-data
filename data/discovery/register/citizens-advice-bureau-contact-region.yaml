@@ -1,0 +1,9 @@
+fields:
+- citizens-advice-bureau-contact-region
+- name
+- start-date
+- end-date
+phase: discovery
+register: citizens-advice-bureau-contact-region
+registry: citizens-advice
+text: Contact region given to Citizens Advice Bureaux
