@@ -1,4 +1,4 @@
-cardinality: 'n'
+cardinality: '1'
 datatype: string
 field: membership-number
 phase: discovery
