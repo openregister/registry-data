@@ -9,5 +9,5 @@ fields:
 - end-date
 phase: discovery
 register: citizens-advice-bureau
-registry: citizens-advice
-text: A register of citizen advice bureaux in England
+registry: cabinet-office
+text: A register of Citizens Advice Bureaux in England

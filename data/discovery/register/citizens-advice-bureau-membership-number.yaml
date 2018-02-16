@@ -5,5 +5,5 @@ fields:
 - end-date
 phase: discovery
 register: citizens-advice-bureau-membership-number
-registry: citizens-advice
+registry: cabinet-office
 text: Membership number given to Citizen Advice Bureaux

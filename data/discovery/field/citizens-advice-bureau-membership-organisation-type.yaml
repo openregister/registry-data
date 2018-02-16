@@ -1,6 +1,6 @@
-cardinality: 'n'
+cardinality: '1'
 datatype: string
 field: citizens-advice-bureau-membership-organisation-type
 phase: discovery
 register: citizens-advice-bureau-membership-organisation-type
-text: Organisation type for Citizens Advice Bureaux
+text: Organisation type for Citizens Advice Bureaux.

@@ -5,5 +5,5 @@ fields:
 - end-date
 phase: discovery
 register: citizens-advice-bureau-membership-organisation-type
-registry: citizens-advice
+registry: cabinet-office
 text: Organisation type given to Citizen Advice Bureaux

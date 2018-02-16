@@ -5,5 +5,5 @@ fields:
 - end-date
 phase: discovery
 register: citizens-advice-bureau-contact-region
-registry: citizens-advice
+registry: cabinet-office
 text: Contact region given to Citizens Advice Bureaux
