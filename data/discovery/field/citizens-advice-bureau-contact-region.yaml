@@ -3,4 +3,4 @@ datatype: string
 field: citizens-advice-bureau-contact-region
 phase: discovery
 register: citizens-advice-bureau-contact-region
-text: Contact region for Citizens Advice Bureaux.
+text: Contact region of a Citizens Advice Bureau in England or Wales.
