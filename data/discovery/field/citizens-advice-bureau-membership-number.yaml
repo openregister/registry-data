@@ -3,4 +3,4 @@ datatype: string
 field: citizens-advice-bureau-membership-number
 phase: discovery
 register: citizens-advice-bureau-membership-number
-text: Membship number for Citizens Advice Bureaux.
+text: Membership number of a Citizens Advice Bureau in England or Wales.

@@ -6,4 +6,4 @@ fields:
 phase: discovery
 register: citizens-advice-bureau-membership-number
 registry: cabinet-office
-text: Membership number given to Citizen Advice Bureaux
+text: Membership numbers of Citizen Advice Bureaux in England and Wales

@@ -3,4 +3,4 @@ datatype: string
 field: citizens-advice-bureau-membership-organisation-type
 phase: discovery
 register: citizens-advice-bureau-membership-organisation-type
-text: Organisation type for Citizens Advice Bureaux.
+text: Organisation type of a Citizens Advice Bureau in England or Wales.

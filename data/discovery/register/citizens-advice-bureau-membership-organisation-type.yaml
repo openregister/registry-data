@@ -6,4 +6,4 @@ fields:
 phase: discovery
 register: citizens-advice-bureau-membership-organisation-type
 registry: cabinet-office
-text: Organisation type given to Citizen Advice Bureaux
+text: Organisation types of Citizens Advice Bureaux in England and Wales

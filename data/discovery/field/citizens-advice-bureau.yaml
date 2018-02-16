@@ -3,4 +3,4 @@ datatype: string
 field: citizens-advice-bureau
 phase: discovery
 register: citizens-advice-bureau
-text: A Citizens Advice Bureau.
+text: A Citizens Advice Bureau in England or Wales.
