@@ -1,0 +1,13 @@
+fields:
+- citizens-advice-bureau
+- name
+- address
+- citizens-advice-bureau-membership-number
+- citizens-advice-bureau-membership-organisation-type
+- citizens-advice-bureau-contact-region
+- start-date
+- end-date
+phase: discovery
+register: citizens-advice-bureau
+registry: cabinet-office
+text: A register of Citizen Advice Bureaux in England and Wales
