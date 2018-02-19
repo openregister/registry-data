@@ -7,5 +7,5 @@ fields:
 - "end-date"
 phase: "beta"
 register: "local-authority-eng"
-registry: "department-for-communities-and-local-government"
+registry: "ministry-of-housing-communities-and-local-government"
 text: "Local authorities in England"
