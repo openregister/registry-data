@@ -1,7 +1,6 @@
 fields:
 - jobcentre
 - name
-- jobcentre-group
 - jobcentre-district
 - address
 - start-date
