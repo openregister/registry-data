@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: fire-authority
+phase: alpha
+register: fire-authority
+text: A fire authority in England
