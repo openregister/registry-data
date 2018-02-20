@@ -5,5 +5,5 @@ fields:
 - end-date
 phase: beta
 register: local-authority-type
-registry: department-for-communities-and-local-government
+registry: ministry-of-housing-communities-and-local-government
 text: Types of local government organisations in the UK
