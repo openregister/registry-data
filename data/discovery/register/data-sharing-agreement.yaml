@@ -6,6 +6,8 @@ fields:
 - legislation
 - disclosed-information
 - data-sharing-method
+- supplier-name
+- supplier-organisation
 - recipient-name
 - recipient-organisation
 - retention-period

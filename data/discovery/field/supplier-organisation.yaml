@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: supplier-organisation
+phase: discovery
+register: ''
+text: Suppliers of data under a data sharing agreement.
