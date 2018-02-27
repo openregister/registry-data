@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: text
+field: data-sharing-benefits
+phase: discovery
+register: ''
+text: A description of the benefits of a data sharing agreement.

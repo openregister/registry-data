@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: data-sharing-method
+phase: discovery
+register: ''
+text: The agreed methods of sharing data under a data sharing agreement.

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: text
+field: purpose
+phase: discovery
+register: ''
+text: A description of the purpose of an entity in a register.

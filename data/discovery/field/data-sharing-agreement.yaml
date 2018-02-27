@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: text
+field: data-sharing-agreement
+phase: discovery
+register: 'data-sharing-agreement'
+text: An agreement between parties in the UK government to share data

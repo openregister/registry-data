@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: recipient-organisation
+phase: discovery
+register: ''
+text: Recipients of data under a data sharing agreement.

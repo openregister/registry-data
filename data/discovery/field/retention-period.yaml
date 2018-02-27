@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: retention-period
+phase: discovery
+register: ''
+text: The ISO8601 period for which data will be retained under a data sharing agreement.

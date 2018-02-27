@@ -1,0 +1,20 @@
+fields:
+- data-sharing-agreement
+- name
+- purpose
+- area
+- legislation
+- disclosed-information
+- data-sharing-method
+- recipient-name
+- recipient-organisation
+- retention-period
+- data-sharing-benefits
+- contact
+- review-date
+- start-date
+- end-date
+phase: discovery
+register: data-sharing-agreement
+registry: cabinet-office
+text: Agreements between parties in the UK government to share data

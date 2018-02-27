@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: text
+field: disclosed-information
+phase: discovery
+register: ''
+text: A description of the data disclosed under a data sharing agreement.
