@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: text
+datatype: string
 field: data-sharing-agreement
 phase: discovery
 register: 'data-sharing-agreement'
