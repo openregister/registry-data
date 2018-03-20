@@ -1,0 +1,9 @@
+fields:
+- fire-service-eng
+- name
+- start-date
+- end-date
+phase: discovery
+register: fire-service-eng
+registry: home-office
+text: A register of fire services in England

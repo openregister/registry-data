@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: fire-service-eng
+phase: discovery
+register: fire-service-eng
+text: A fire service in England

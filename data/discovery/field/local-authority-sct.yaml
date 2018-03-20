@@ -2,5 +2,5 @@ text: "A local authority in Scotland."
 field: "local-authority-sct"
 phase: "discovery"
 datatype: "string"
-register: "local-authority-sct"
-cardinality: "1"
+register: 
+cardinality: "1" 

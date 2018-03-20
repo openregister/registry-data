@@ -1,9 +1,0 @@
-fields:
-- fire-authority
-- name
-- start-date
-- end-date
-phase: discovery
-register: fire-authority
-registry: home-office
-text: A register of fire authorities in England
