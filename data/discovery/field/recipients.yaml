@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: recipients
+phase: discovery
+register: ''
+text: Bodies receiving the data (including bodies outside the public sector).

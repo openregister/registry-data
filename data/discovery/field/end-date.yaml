@@ -3,4 +3,4 @@ datatype: datetime
 field: end-date
 phase: discovery
 register: ''
-text: The date a record stopped being applicable. 
+text: When the data sharing agreement will end.

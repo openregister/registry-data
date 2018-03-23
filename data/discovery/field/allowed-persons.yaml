@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: allowed-persons
+phase: discovery
+register: ''
+text: Persons able to use the objective.

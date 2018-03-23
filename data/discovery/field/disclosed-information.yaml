@@ -3,4 +3,4 @@ datatype: text
 field: disclosed-information
 phase: discovery
 register: ''
-text: A description of the data disclosed under a data sharing agreement.
+text: Description of the information being disclosed.

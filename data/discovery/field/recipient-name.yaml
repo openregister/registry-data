@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: recipient-name
-phase: discovery
-register: ''
-text: The names of recipients of data under a data sharing agreement.

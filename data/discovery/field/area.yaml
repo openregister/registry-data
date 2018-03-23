@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: area
-phase: discovery
-register: ''
-text: The relevant areas of an entity in a register.

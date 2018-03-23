@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: areas
+phase: discovery
+register: ''
+text: Geographical coverage of a data sharing agreement.

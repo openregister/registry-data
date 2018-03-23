@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: supplier-name
-phase: discovery
-register: ''
-text: The names of suppliers of data under a data sharing agreement.

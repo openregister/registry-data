@@ -1,0 +1,21 @@
+fields:
+- data-sharing-agreement-0001
+- name
+- purpose
+- areas
+- area-names
+- objective
+- disclosed-information
+- suppliers
+- data-sharing-method
+- recipients
+- retention-period
+- start-date
+- end-date
+- review-date
+- contact
+- data-sharing-benefits
+phase: discovery
+register: data-sharing-agreement-0001
+registry: department-for-digital-culture-media-and-sport
+text: Data Sharing Agreements under the Public Service Delivery, Debt, Fraud and Civil Registration provisions within the Digital Economy Act 2017

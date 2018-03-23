@@ -3,4 +3,4 @@ datatype: string
 field: contact
 phase: discovery
 register: ''
-text: Contact details
+text: Contact details for any subject access requests (for Public Service Delivery and debt).

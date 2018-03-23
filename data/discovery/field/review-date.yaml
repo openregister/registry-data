@@ -3,4 +3,4 @@ datatype: datetime
 field: review-date
 phase: discovery
 register: ''
-text: The date on which an entity in a register will be reviewed.
+text: When the data sharing agreement will be reviewed.

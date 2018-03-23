@@ -1,0 +1,9 @@
+fields:
+- data-sharing-agreement-person-0001
+- name
+- start-date
+- end-date
+phase: discovery
+register: data-sharing-agreement-person-0001
+registry: department-for-digital-culture-media-and-sport
+text: Persons for the data sharing agreements under chthe Public Service Delivery, Debt, Fraud and Civil Registration provisions within the Digital Economy Act 2017

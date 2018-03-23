@@ -1,6 +1,6 @@
 cardinality: '1'
-datatype: text
+datatype: string
 field: data-sharing-benefits
 phase: discovery
 register: ''
-text: A description of the benefits of a data sharing agreement.
+text: Anticipated benefits of a data sharing arrangement.

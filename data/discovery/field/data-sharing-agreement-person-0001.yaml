@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: data-sharing-agreement-person-0001
+phase: discovery
+register: 'data-sharing-agreement-person-0001'
+text: The unique identifier for the Data Sharing Agreement Person.
