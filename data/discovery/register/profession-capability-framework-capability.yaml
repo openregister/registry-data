@@ -1,0 +1,10 @@
+fields:
+- profession-capability-framework-capability
+- name
+- description
+- start-date
+- end-date 
+phase: discovery
+register: profession-capability-framework-capability
+registry: government-digital-service
+text: 'Description TBD'

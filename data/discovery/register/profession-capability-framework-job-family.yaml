@@ -1,0 +1,11 @@
+fields:
+- profession-capability-framework-capability-mastery-level
+- profession-capability-framework-capability
+- profession-capability-framework-mastery-level
+- description
+- start-date
+- end-date
+phase: discovery
+register: profession-capability-framework-capability-mastery-level
+registry: government-digital-service
+text: 'Description TBD'
