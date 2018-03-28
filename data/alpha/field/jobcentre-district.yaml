@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: jobcentre-district
-phase: alpha
-register: 'jobcentre-district'
-text: 'A jobcentre office district'

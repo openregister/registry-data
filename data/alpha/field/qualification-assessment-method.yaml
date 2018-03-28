@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: qualification-assessment-method
-phase: alpha
-register: qualification-assessment-method
-text: A method of assessment used by a qualification regulated by Ofqual
