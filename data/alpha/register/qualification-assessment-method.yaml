@@ -1,9 +1,0 @@
-fields:
-- "qualification-assessment-method"
-- "name"
-- "start-date"
-- "end-date"
-phase: "alpha"
-register: "qualification-assessment-method"
-registry: "ofqual"
-text: "Assessment methods of qualifications regulated by Ofqual"
