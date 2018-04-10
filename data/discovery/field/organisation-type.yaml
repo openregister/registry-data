@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: organisation-type
+phase: discovery
+register: assessment-organisation
+text: a type of assessment organisation.

@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: ukprn
+phase: discovery
+register: assessment-organisation
+text: A UK Provider Reference Number.

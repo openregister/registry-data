@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: datatype
+field: assessment-organisation
+phase: discovery
+register: assessment-organisation-standard-code
+text: tbd.

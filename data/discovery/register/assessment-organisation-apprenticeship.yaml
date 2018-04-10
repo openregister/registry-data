@@ -1,0 +1,11 @@
+fields:
+- assessment-organisation-apprenticeship
+- assessment-organisation
+- assessment-organisation-standard-code
+- assessment-organisation-delivery-area
+- start-date
+- end-date
+phase: discovery
+register: assessment-apprenticeship
+registry: department-for-education
+text: 'A register of apprenticeships offered per assessment organisation'

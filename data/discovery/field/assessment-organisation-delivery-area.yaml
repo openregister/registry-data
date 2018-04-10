@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: assessment-organisation-delivery-area
+phase: discovery
+register: assessment-organisation-delivery-area
+text: A reference to an area where an assessment organisation provides an apprenticeship.

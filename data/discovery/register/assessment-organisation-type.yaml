@@ -1,0 +1,9 @@
+fields:
+- assessment-organisation-type
+- organisation-type
+- start-date
+- end-date
+phase: discovery
+register: assessment-organisation-type
+registry: department-for-education
+text: 'A register of type of assessment organisations'

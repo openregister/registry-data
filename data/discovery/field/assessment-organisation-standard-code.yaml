@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: assessment-organisation-standard-code
+phase: discovery
+register: assessment-organisation-standard-code
+text: A unique reference for the framework of an apprenticeship..

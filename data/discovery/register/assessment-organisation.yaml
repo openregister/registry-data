@@ -1,0 +1,12 @@
+fields:
+- assessment-organisation
+- ukprn
+- organisation-name
+- organisation-type
+- address
+- start-date
+- end-date
+phase: discovery
+register: assessment-organisation
+registry: department-for-education
+text: 'A register of assessment organisations'
