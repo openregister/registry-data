@@ -2,7 +2,7 @@ fields:
 - assessment-organisation
 - ukprn
 - organisation-name
-- organisation-type
+- assessment-organisation-type
 - address
 - start-date
 - end-date

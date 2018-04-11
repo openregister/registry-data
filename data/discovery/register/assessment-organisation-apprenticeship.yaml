@@ -6,6 +6,6 @@ fields:
 - start-date
 - end-date
 phase: discovery
-register: assessment-apprenticeship
+register: assessment-organisation-apprenticeship
 registry: department-for-education
 text: 'A register of apprenticeships offered per assessment organisation'

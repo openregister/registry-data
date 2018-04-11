@@ -4,6 +4,6 @@ fields:
 - start-date
 - end-date
 phase: discovery
-register: assessment-organisation-deliery-area
+register: assessment-organisation-delivery-area
 registry: department-for-education
 text: 'A register of delivery areas where assessment organisations deliver apprenticships'

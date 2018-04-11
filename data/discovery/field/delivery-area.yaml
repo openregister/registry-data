@@ -2,5 +2,5 @@ cardinality: 'n'
 datatype: string
 field: delivery-area
 phase: discovery
-register: assessment-organisation-delivery-area
+register: '' 
 text: The name of a delivery area.

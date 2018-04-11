@@ -3,4 +3,4 @@ datatype: string
 field: assessment-organisation
 phase: discovery
 register: assessment-organisation
-text: A reference to an  assessment organisation.
+text: A reference to an assessment organisation.

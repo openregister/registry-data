@@ -2,5 +2,5 @@ cardinality: 'n'
 datatype: string
 field: organisation-type
 phase: discovery
-register: assessment-organisation
+register: ''
 text: a type of assessment organisation.

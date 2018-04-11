@@ -2,5 +2,5 @@ cardinality: 'n'
 datatype: string
 field: standard-name
 phase: discovery
-register: assessment-organisation-standard-code
+register: ''
 text: The name of a standard.
