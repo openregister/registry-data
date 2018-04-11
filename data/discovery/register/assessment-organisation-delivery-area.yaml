@@ -1,9 +1,0 @@
-fields:
-- assessment-organisation-delivery-area
-- delivery-area
-- start-date
-- end-date
-phase: discovery
-register: assessment-organisation-delivery-area
-registry: department-for-education
-text: 'A register of delivery areas where assessment organisations deliver apprenticships'

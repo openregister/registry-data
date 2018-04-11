@@ -1,0 +1,9 @@
+fields:
+- apprenticeship-assessment-organisation-type
+- name
+- start-date
+- end-date
+phase: discovery
+register: apprenticeship-assessment-organisation-type
+registry: department-for-education
+text: 'A register of apprenticeship-assessment-organisation types'

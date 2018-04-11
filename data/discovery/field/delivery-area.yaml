@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: delivery-area
-phase: discovery
-register: '' 
-text: The name of a delivery area.
