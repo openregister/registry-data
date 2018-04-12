@@ -1,0 +1,12 @@
+fields:
+- apprenticeship-assessment-organisation
+- ukprn
+- name
+- apprenticeship-assessment-organisation-type
+- address
+- start-date
+- end-date
+phase: discovery
+register: apprenticeship-assessment-organisation
+registry: department-for-education
+text: 'A register of endpoint-apprenticeship-assessment-organisations'
