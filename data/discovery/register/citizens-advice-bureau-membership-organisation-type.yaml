@@ -1,9 +1,0 @@
-fields:
-- citizens-advice-bureau-membership-organisation-type
-- name
-- start-date
-- end-date
-phase: discovery
-register: citizens-advice-bureau-membership-organisation-type
-registry: cabinet-office
-text: Organisation types of Citizens Advice Bureaux in England and Wales
