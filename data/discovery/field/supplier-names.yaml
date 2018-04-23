@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: supplier-names
+phase: discovery
+register: ''
+text: Suppliers of data under a data sharing agreement, that are not in a register.

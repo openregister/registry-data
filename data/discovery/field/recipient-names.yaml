@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: recipient-names
+phase: discovery
+register: ''
+text: Recipients of data under a data sharing agreement, that are not in a register.

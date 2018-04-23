@@ -5,10 +5,13 @@ fields:
 - areas
 - area-names
 - objective
+- legal-basis
 - disclosed-information
 - suppliers
+- supplier-names
 - data-sharing-method
 - recipients
+- recipient-names
 - retention-period
 - start-date
 - end-date
