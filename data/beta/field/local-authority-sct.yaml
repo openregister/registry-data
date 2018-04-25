@@ -1,4 +1,4 @@
-text: "A local authority in Scotland."
+text: "The unique code for a local authority in Scotland."
 field: "local-authority-sct"
 phase: "beta"
 datatype: "string"

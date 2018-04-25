@@ -3,4 +3,4 @@ datatype: string
 field: government-domain
 phase: beta
 register: government-domain
-text: A government domain.
+text: The unique code for a GOV.UK government domain.

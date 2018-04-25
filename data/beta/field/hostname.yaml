@@ -3,4 +3,4 @@ datatype: string
 field: hostname
 phase: beta
 register: ''
-text: The section of government service domain that identifies a service.
+text: The section of a GOV.UK URL that identifies a service. For example, student-finance.service.gov.uk.

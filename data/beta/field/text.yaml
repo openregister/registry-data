@@ -3,4 +3,4 @@ datatype: text
 field: text
 phase: beta
 register: ''
-text: Any additional information about a record in a register. 
+text: More information about a record in a register. 

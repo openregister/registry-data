@@ -1,4 +1,4 @@
-text: "A local authority in Northern Ireland."
+text: "The unique code for a local authority in Northern Ireland."
 field: "local-authority-nir"
 phase: "beta"
 datatype: "string"

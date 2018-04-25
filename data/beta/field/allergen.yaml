@@ -3,4 +3,4 @@ datatype: string
 field: allergen
 phase: beta
 register: allergen
-text: 'An allergen referenced in Food Standards Agency food safety alerts.'
+text: 'The unique code for a food allergen as recognised by the Food Standards Agency.'

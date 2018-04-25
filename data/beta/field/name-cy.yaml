@@ -3,4 +3,4 @@ datatype: string
 field: name-cy
 phase: beta
 register: ''
-text: Welsh name for an entry.
+text: The commonly-used Welsh name of a record.

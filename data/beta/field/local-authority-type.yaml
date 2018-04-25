@@ -3,4 +3,4 @@ datatype: string
 field: local-authority-type
 phase: beta
 register: local-authority-type
-text: The type of local government organisation in the United Kingdom.
+text: The unique code for the type of local government organisation. For example, county council.

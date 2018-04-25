@@ -3,4 +3,4 @@ datatype: string
 field: government-organisation
 phase: beta
 register: government-organisation
-text: The unique code representing a government organisation.
+text: The unique code for a government organisation.

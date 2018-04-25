@@ -3,4 +3,4 @@ datatype: string
 field: qualification-sector-subject-area
 phase: beta
 register: qualification-sector-subject-area
-text: A subject of a qualification regulated by Ofqual
+text: The unique code for a subject of a qualification regulated by Ofqual.

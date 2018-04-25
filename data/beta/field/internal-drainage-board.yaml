@@ -3,4 +3,4 @@ datatype: string
 field: internal-drainage-board
 phase: beta
 register: internal-drainage-board
-text: Internal drainage board code.
+text: The unique code for an internal drainage board.

@@ -3,4 +3,4 @@ datatype: url
 field: website
 phase: beta
 register: ''
-text: The website for a register entry.
+text: The website for a record.

@@ -3,4 +3,4 @@ datatype: string
 field: jobcentre-group
 phase: beta
 register: 'jobcentre-group'
-text: 'A grouping of jobcentre offices'
+text: 'The unique code for a grouping of jobcentre offices.'

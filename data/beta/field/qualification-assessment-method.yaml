@@ -3,4 +3,4 @@ datatype: string
 field: qualification-assessment-method
 phase: beta
 register: qualification-assessment-method
-text: A method of assessment used by a qualification regulated by Ofqual
+text: The unique code for a method of assessment used by a qualification regulated by Ofqual. For example, a written examination or coursework.

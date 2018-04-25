@@ -3,4 +3,4 @@ datatype: string
 field: statistical-geography
 phase: beta
 register: statistical-geography
-text: The entity (record) for geographies that are used in official statistics.
+text: The unique code for a geography used in official statistics. A geography is a way to divide a larger area into smaller areas.

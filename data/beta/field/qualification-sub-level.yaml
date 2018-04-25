@@ -3,4 +3,4 @@ datatype: string
 field: qualification-sub-level
 phase: beta
 register:
-text: A sub-level of a qualification regulated by Ofqual
+text: The unique code for a sub-level of a qualification regulated by Ofqual.

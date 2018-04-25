@@ -3,4 +3,4 @@ datatype: string
 field: legislation
 phase: beta
 register: ''
-text: The identifier for the Statutory Instrument establishing the board's powers and duties (where known).
+text: The unique code for the legislation that defines the board's powers and duties.

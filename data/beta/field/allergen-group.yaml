@@ -3,4 +3,4 @@ datatype: string
 field: allergen-group
 phase: beta
 register: allergen
-text: 'A parent allergen referenced in Food Standards Agency food safety alerts, for example almond is a type of nut.'
+text: 'The unique code for a group of allegens as recognised by the Food Standards Agency. For example, almond and cashew are part of the nuts allergen group.'

@@ -3,4 +3,4 @@ datatype: string
 field: european-qualification-framework-level
 phase: beta
 register:
-text: A level of a qualification under the European Qualifications Framework
+text: The level of qualification under the European Qualifications Framework.
