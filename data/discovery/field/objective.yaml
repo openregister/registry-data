@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: objective
-phase: discovery
-register:
-text: Reference to the objective record in the data-sharing-agreement-objective-0001 register.

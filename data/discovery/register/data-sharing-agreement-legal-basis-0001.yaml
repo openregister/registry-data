@@ -1,6 +1,7 @@
 fields:
 - data-sharing-agreement-legal-basis-0001
 - name
+- allowed-persons
 - start-date
 - end-date
 phase: discovery
