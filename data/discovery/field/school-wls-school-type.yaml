@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school-wls-school-type
+phase: discovery
+register: school-wls
+text: A school type in Wales.
