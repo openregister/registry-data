@@ -1,9 +1,0 @@
-fields:
-- apprenticeship-assessment-organisation-standard-code
-- name
-- start-date
-- end-date
-phase: discovery
-register: apprenticeship-assessment-organisation-standard-code
-registry: department-for-education
-text: 'A register of standard codes, of which the framework of an apprenticehip is based upon'
