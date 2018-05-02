@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: school-wls
+phase: discovery
+register: school-wls
+text: A school in Wales.

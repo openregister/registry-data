@@ -1,0 +1,12 @@
+fields:
+- school-wls
+- name
+- school-wls-school-type
+- principal-local-authority
+- address
+- start-date
+- end-date
+phase: discovery
+register: school-wls
+registry: welsh-government
+text: A register of schools in Wales
