@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: text
-field: data-sharing-method
+field: information-sharing-method
 phase: discovery
 register: ''
 text: Method by which data will be disclosed.

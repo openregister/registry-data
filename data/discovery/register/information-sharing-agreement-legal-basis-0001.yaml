@@ -1,0 +1,10 @@
+fields:
+- information-sharing-agreement-legal-basis-0001
+- name
+- allowed-persons
+- start-date
+- end-date
+phase: discovery
+register: information-sharing-agreement-legal-basis-0001
+registry: department-for-digital-culture-media-sport
+text: Legal basis for disclosure for the Information sharing agreements under the Public Service Delivery, Debt, Fraud and Civil Registration provisions within the Digital Economy Act 2017

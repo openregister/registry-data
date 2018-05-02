@@ -3,4 +3,4 @@ datatype: curie
 field: suppliers
 phase: discovery
 register: ''
-text: Suppliers of data under a data sharing agreement.
+text: Suppliers of data under a information sharing agreement.

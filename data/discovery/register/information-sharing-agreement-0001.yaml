@@ -1,0 +1,23 @@
+fields:
+- information-sharing-agreement-0001
+- name
+- purpose
+- areas
+- area-names
+- legal-basis
+- disclosed-information
+- suppliers
+- supplier-names
+- information-sharing-method
+- recipients
+- recipient-names
+- retention-period
+- start-date
+- end-date
+- review-date
+- contact
+- information-sharing-benefits
+phase: discovery
+register: information-sharing-agreement-0001
+registry: department-for-digital-culture-media-sport
+text: Information Sharing Agreements under the Public Service Delivery, Debt, Fraud and Civil Registration provisions within the Digital Economy Act 2017

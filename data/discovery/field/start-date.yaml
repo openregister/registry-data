@@ -3,4 +3,4 @@ datatype: datetime
 field: start-date
 phase: discovery
 register: ''
-text: When the data sharing agreement will come into effect.
+text: When the information sharing agreement will come into effect.
