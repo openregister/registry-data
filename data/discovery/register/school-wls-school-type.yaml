@@ -6,5 +6,5 @@ fields:
 - end-date
 phase: discovery
 register: school-wls-school-type
-registry: welsh government
+registry: welsh-government
 text: A register of types of schools in Wales
