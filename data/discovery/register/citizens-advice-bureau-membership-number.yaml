@@ -1,9 +1,0 @@
-fields:
-- citizens-advice-bureau-membership-number
-- membership-number
-- start-date
-- end-date
-phase: discovery
-register: citizens-advice-bureau-membership-number
-registry: cabinet-office
-text: Membership numbers of Citizen Advice Bureaux in England and Wales
