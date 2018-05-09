@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: short-name
+phase: alpha
+register: ''
+text: The short name of a record.

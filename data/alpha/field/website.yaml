@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: url
+field: website
+phase: alpha
+register: ''
+text: The website for a record.
