@@ -6,8 +6,8 @@ fields:
 - area-names
 - legal-basis
 - disclosed-information
-- suppliers
-- supplier-names
+- data-controllers
+- data-controller-names
 - information-sharing-method
 - recipients
 - recipient-names

@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: data-controllers
+phase: discovery
+register: ''
+text: Controllers of data under a information sharing agreement.
