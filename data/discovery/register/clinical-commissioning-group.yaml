@@ -1,10 +1,10 @@
 fields:
-- "clinical-commissioning-group"
-- "name"
-- "website"
-- "start-date"
-- "end-date"
-phase: "discovery"
-register: "clinical-commissioning-group"
-registry: nhs-commissioning-board
-text: "Clinically-led statutory National Health Service bodies responsible for the planning and commissioning of health care services for their local area"
+- clinical-commissioning-group
+- name
+- address
+- start-date
+- end-date
+phase: discovery
+register: clinical-commissioning-group
+registry: nhs-digital
+text: Placeholder Text

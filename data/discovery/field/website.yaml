@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: url
-field: website
-phase: discovery
-text: Website for register entry.
-register:
