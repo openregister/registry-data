@@ -3,4 +3,4 @@ datatype: period
 field: retention-period
 phase: discovery
 register: ''
-text: How long the information will be held.
+text: How long the information will be held by the recipient.
