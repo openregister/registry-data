@@ -3,4 +3,4 @@ datatype: datetime
 field: end-date
 phase: discovery
 register: ''
-text: When the information sharing agreement will end.
+text: When the legal basis can no longer be used in a information sharing agreement.
