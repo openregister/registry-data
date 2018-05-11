@@ -3,4 +3,4 @@ datatype: string
 field: information-sharing-agreement-person-0001
 phase: discovery
 register: 'information-sharing-agreement-person-0001'
-text: The unique identifier for the Information Sharing Agreement Person.
+text: The unique code for the information sharing agreement persons.
