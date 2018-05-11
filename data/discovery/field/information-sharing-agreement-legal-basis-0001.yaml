@@ -3,4 +3,4 @@ datatype: string
 field: information-sharing-agreement-legal-basis-0001
 phase: discovery
 register: 'information-sharing-agreement-legal-basis-0001'
-text: Legal basis for disclosure for the Information sharing agreements under the Public Service Delivery, Debt, Fraud and Civil Registration provisions within the Digital Economy Act 2017
+text: The unique code for the information sharing agreement legal basis.
