@@ -3,4 +3,4 @@ datatype: text
 field: information-sharing-method
 phase: discovery
 register: ''
-text: Method by which data will be disclosed.
+text: How the information is shared.
