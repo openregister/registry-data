@@ -1,5 +1,6 @@
 fields:
 - apprenticeship-end-point-assessment-organisation-standard-code
+- apprenticeship-standard
 - name
 - start-date
 - end-date
