@@ -1,10 +1,10 @@
 fields:
-- school-wls-school-type
+- school-type-wls
 - name
 - name-cy
 - start-date
 - end-date
 phase: discovery
-register: school-wls-school-type
+register: school-type-wls
 registry: welsh-government
 text: A register of types of schools in Wales

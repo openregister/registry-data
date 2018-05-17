@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
-field: school-wls-school-type
+field: school-type-wls
 phase: discovery
-register: school-wls-school-type
+register: school-type-wls
 text: A school type in Wales.
