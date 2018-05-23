@@ -7,4 +7,4 @@ fields:
 phase: discovery
 register: industrial-classification-correlation
 registry: office-for-national-statistics
-text: 'Correlations between different editions of Standard Industry Codes (SIC)'
+text: 'Correlations between different editions of Standard Industrial Codes (SIC)'
