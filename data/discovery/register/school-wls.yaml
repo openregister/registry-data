@@ -1,6 +1,7 @@
 fields:
 - school-wls
 - name
+- name-cy
 - school-type-wls
 - principal-local-authority
 - address

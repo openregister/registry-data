@@ -6,4 +6,4 @@ fields:
 phase: "beta"
 register: "qualification-type"
 registry: "ofqual"
-text: "Types of qualification regulated by Ofqual"
+text: "Types of qualifications regulated by Ofqual"
