@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: description
+phase: alpha
+register: ''
+text: Descriptive information for an entry.

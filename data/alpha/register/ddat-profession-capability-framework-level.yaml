@@ -1,0 +1,9 @@
+fields:
+- ddat-profession-capability-framework-level
+- name
+- start-date
+- end-date
+phase: alpha
+register: ddat-profession-capability-framework-level
+registry: government-digital-service
+text: 'The Levels of competency for each Digital Data and Technology Capability Framework skill'

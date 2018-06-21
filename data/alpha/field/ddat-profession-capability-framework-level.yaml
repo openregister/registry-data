@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: ddat-profession-capability-framework-level
+phase: alpha
+register: ddat-profession-capability-framework-level
+text: The unique code for a Level of competency for each Digital Data and Technology Capability Framework skill.

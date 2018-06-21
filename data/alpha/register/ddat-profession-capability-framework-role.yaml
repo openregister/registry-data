@@ -1,0 +1,9 @@
+fields:
+- ddat-profession-capability-framework-role
+- name
+- start-date
+- end-date
+phase: alpha
+register: ddat-profession-capability-framework-role
+registry: government-digital-service
+text: 'Roles defined by the Digital Data and Technology profession capability framework'

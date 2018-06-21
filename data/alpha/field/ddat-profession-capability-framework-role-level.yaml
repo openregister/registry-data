@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: ddat-profession-capability-framework-role-level
+phase: alpha
+register: ddat-profession-capability-framework-role-level
+text: The Unique code for the Levels associated with each role within the Digital Data and Technology proffession capability framework.

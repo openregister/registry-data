@@ -1,0 +1,9 @@
+fields:
+- ddat-profession-capability-framework-job-family
+- name 
+- start-date
+- end-date
+phase: alpha
+register: ddat-profession-capability-framework-job-family
+registry: government-digital-service
+text: 'Job Families defined for use in the Digital Data and Technology profession capability framework'
