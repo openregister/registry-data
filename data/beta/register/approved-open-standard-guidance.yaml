@@ -1,0 +1,11 @@
+fields:
+- approved-open-standard-guidance
+- name
+- approved-open-standards
+- website
+- start-date
+- end-date
+phase: beta
+register: approved-open-standard-guidance
+registry: government-digital-service
+text: 'Guidance defining open standards approved for government technology'

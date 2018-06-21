@@ -1,0 +1,6 @@
+text: 'An open standard that has been approved by government technology.'
+field: approved-open-standard
+phase: beta
+datatype: string
+register: approved-open-standard
+cardinality: '1'

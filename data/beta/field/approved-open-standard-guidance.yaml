@@ -1,0 +1,6 @@
+text: Guidance related to an open standard that has been approved for use in government technology.
+field: approved-open-standard-guidance
+phase: beta
+datatype: string
+register: "approved-open-standard-guidance"
+cardinality: "1"

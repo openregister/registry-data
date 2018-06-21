@@ -1,0 +1,11 @@
+fields:
+- approved-open-standard
+- name
+- short-name
+- website
+- start-date
+- end-date
+phase: beta
+register: approved-open-standard
+registry: government-digital-service
+text: 'Open standards approved for use in government technology'
