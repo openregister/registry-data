@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: recipient-names
-phase: discovery
-register: ''
-text: The recipients of the information being shared.

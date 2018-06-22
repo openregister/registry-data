@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: controller-names
+phase: discovery
+register: ''
+text: The controllers of the information being shared.

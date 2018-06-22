@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: processor-names
+phase: discovery
+register: ''
+text: The processors of the information being shared.

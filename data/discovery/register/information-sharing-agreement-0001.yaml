@@ -6,11 +6,11 @@ fields:
 - area-names
 - legal-power-disclosure
 - disclosed-information
-- data-controllers
-- data-controller-names
+- controllers
+- controller-names
 - information-sharing-method
-- recipients
-- recipient-names
+- processors
+- processor-names
 - retention-period
 - start-date
 - end-date

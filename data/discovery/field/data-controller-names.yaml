@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: data-controller-names
-phase: discovery
-register: ''
-text: The data controllers of the information being shared.

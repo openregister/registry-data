@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: data-controllers
-phase: discovery
-register: ''
-text: The unique codes for the data controllers of the information.

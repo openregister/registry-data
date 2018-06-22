@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: processors
+phase: discovery
+register: ''
+text: The unique codes for the processors of the information being shared.

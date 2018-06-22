@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: recipients
-phase: discovery
-register: ''
-text: The unique codes for the recipients of the information being shared.

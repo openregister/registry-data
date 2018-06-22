@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: controllers
+phase: discovery
+register: ''
+text: The unique codes for the controllers of the information.
