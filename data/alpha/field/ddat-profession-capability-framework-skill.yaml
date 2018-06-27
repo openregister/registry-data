@@ -3,4 +3,4 @@ datatype: string
 field: ddat-profession-capability-framework-skill
 phase: alpha
 register: ddat-profession-capability-framework-skill
-text: The Unique code for the skills defined for use within the Digital Data and Technology profession capability framework.
+text: The unique code for the skills used in the Digital, Data and Technology Profession Capability Framework.

@@ -3,4 +3,4 @@ datatype: string
 field: ddat-profession-capability-framework-job-family
 phase: alpha
 register: ddat-profession-capability-framework-job-family
-text: The Unique code for a Job Family defined for use in the Digital Data and Technology profession capability framework.
+text: The unique code for a job family defined for use in the Digital, Data and Technology Profession Capability Framework.
