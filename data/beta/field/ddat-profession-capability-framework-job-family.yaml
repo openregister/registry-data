@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: ddat-profession-capability-framework-job-family
+phase: beta
+register: ddat-profession-capability-framework-job-family
+text: The unique code for a job family defined for use in the Digital, Data and Technology Profession Capability Framework.

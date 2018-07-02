@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: ddat-profession-capability-framework-skill-type
+phase: beta
+register: ddat-profession-capability-framework-skill-type
+text: The unique code for a type of skill for use in the Digital, Data and Technology Profession Capability Framework.

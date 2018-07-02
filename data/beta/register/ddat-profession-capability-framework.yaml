@@ -1,0 +1,14 @@
+fields:
+- ddat-profession-capability-framework
+- ddat-profession-capability-framework-skill-type
+- ddat-profession-capability-framework-job-family
+- ddat-profession-capability-framework-role
+- ddat-profession-capability-framework-role-level
+- ddat-profession-capability-framework-skill
+- ddat-profession-capability-framework-level
+- start-date
+- end-date
+phase: beta
+register: ddat-profession-capability-framework
+registry: government-digital-service
+text: 'The roles in the Digital, Data and Technology Profession Capability Framework and detailed descriptions of the types and level of skills expected for each role'

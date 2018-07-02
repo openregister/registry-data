@@ -1,0 +1,9 @@
+fields:
+- ddat-profession-capability-framework-skill-type
+- name 
+- start-date
+- end-date
+phase: beta
+register: ddat-profession-capability-framework-skill-type
+registry: government-digital-service
+text: 'Types of skill for use in the Digital, Data and Technology Profession Capability Framework'

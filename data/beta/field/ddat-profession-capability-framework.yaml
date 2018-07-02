@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: ddat-profession-capability-framework
+phase: beta
+register: ddat-profession-capability-framework
+text: The Unique Code for a Digital Data and Technology profession capability framework.

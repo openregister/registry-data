@@ -1,0 +1,11 @@
+fields:
+- ddat-profession-capability-framework-skill-level
+- ddat-profession-capability-framework-skill
+- ddat-profession-capability-framework-level
+- description
+- start-date
+- end-date
+phase: beta
+register: ddat-profession-capability-framework-skill-level
+registry: government-digital-service
+text: 'The skills, levels, and appropriate descriptions used in the Digital Data and Technology Profession Capability Framework'

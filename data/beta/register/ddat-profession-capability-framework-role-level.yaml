@@ -1,0 +1,9 @@
+fields:
+- ddat-profession-capability-framework-role-level
+- name
+- start-date
+- end-date
+phase: beta
+register: ddat-profession-capability-framework-role-level
+registry: government-digital-service
+text: 'Levels associated with each role within the Digital, Data and Technology Profession Capability Framework'
