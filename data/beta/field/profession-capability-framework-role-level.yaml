@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: profession-capability-framework-role-level
+phase: beta
+register: ''
+text: The unique code for the levels associated with each role in a profession capability framework.

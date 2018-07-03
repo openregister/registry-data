@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: profession-capability-framework-job-family
+phase: beta
+register: ''
+text: The unique code for a job family defined for use in a profession capability framework.

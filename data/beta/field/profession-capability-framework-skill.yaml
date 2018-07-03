@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: profession-capability-framework-skill
+phase: beta
+register: ''
+text: The unique code for the skills used in a profession capability framework.

@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: profession-capability-framework-level
+phase: beta
+register: ''
+text: The unique code for a level of competency for each profession capability framework skill.
