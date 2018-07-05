@@ -2,8 +2,7 @@ fields:
 - information-sharing-agreement-0001
 - name
 - purpose
-- areas
-- area-names
+- information-sharing-benefits
 - legal-power-disclosure
 - disclosed-information
 - controllers
@@ -16,7 +15,8 @@ fields:
 - end-date
 - review-date
 - contact
-- information-sharing-benefits
+- areas
+- area-names
 phase: discovery
 register: information-sharing-agreement-0001
 registry: department-for-digital-culture-media-sport
