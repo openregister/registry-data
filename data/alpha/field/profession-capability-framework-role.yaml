@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: profession-capability-framework-role
-phase: alpha
-register: ''
-text: The unique code for a role in the profession capability framework.
