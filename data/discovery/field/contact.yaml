@@ -3,4 +3,4 @@ datatype: string
 field: contact
 phase: discovery
 register: ''
-text: The contact details for the information sharing agreement.
+text: The contact details for subject access requests for the information sharing agreement.

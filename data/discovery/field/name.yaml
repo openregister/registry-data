@@ -3,4 +3,4 @@ datatype: string
 field: name
 phase: discovery
 register: ''
-text: Name or title of the information sharing agreement legal basis
+text: Name or title of the information sharing agreement legal basis.
