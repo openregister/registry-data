@@ -3,4 +3,4 @@ datatype: period
 field: retention-period
 phase: discovery
 register: ''
-text: How long the information will be held by the recipient.
+text: How long the information will be held by the recipient, formatted as described by the ISO 8601 time interval standard. 
