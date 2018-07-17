@@ -7,4 +7,4 @@ fields:
 phase: discovery
 register: clinical-commissioning-group
 registry: nhs-digital
-text: Placeholder Text
+text: "Clinical Commissioning Groups in England"
