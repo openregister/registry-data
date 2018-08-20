@@ -1,0 +1,10 @@
+fields:
+- clinical-commissioning-group
+- name
+- address
+- start-date
+- end-date
+phase: alpha
+register: clinical-commissioning-group
+registry: nhs-digital
+text: "Clinical Commissioning Groups in England"
