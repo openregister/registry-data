@@ -3,4 +3,4 @@ datatype: text
 field: disclosed-information
 phase: discovery
 register: ''
-text: The type of information being shared between the data controller and the recipient.
+text: A description of the information disclosed by the controller under the agreement 
