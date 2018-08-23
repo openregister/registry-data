@@ -1,7 +1,7 @@
 fields:
 - information-sharing-agreement-person-0001
 - name
-- information-sharing-agreement-relevant-power-0001
+- relevant-powers 
 - start-date
 - end-date
 phase: discovery
