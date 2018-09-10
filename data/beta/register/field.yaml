@@ -8,4 +8,4 @@ fields:
 phase: beta
 register: field
 registry: cabinet-office
-text: 'Field names which may appear in a register'
+text: 'Field names that may appear in a register'

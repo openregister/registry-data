@@ -6,4 +6,4 @@ fields:
 phase: beta
 register: jobcentre-group
 registry: department-for-work-pensions
-text: 'Groups of jobcentre offices in England, Scotland and Wales'
+text: 'Jobcentre groups in England, Scotland and Wales'

@@ -5,4 +5,4 @@ fields:
 phase: beta
 register: datatype
 registry: cabinet-office
-text: 'Forms that the data in a register field can take'
+text: 'Datatypes that may appear in a register'

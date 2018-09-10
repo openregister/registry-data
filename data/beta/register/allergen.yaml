@@ -7,4 +7,4 @@ fields:
 phase: beta
 register: allergen
 registry: food-standards-agency
-text: 'Food allergens as recognised by the Food Standards Agency'
+text: 'Food allergens recognised by the Food Standards Agency'
