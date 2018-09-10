@@ -10,7 +10,7 @@ def load_items(register):
     d = {}
     dirname = os.path.join("data", REGISTRY_ENV, register)
     for file in os.listdir(dirname):
-        if file.endswith(".yaml"):
+        if file.endswith(".yaml") and file != 'meta.yaml':
             item = Item()
             item.yaml = open(os.path.join(dirname, file)).read()
             d[item[register]] = item

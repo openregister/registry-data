@@ -7,4 +7,4 @@ fields:
 phase: beta
 register: jobcentre-district
 registry: department-for-work-pensions
-text: 'Districts of jobcentre offices in England, Scotland and Wales'
+text: 'Jobcentre districts in England, Scotland and Wales'

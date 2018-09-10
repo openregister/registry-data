@@ -7,4 +7,4 @@ fields:
 phase: beta
 register: government-organisation
 registry: government-digital-service
-text: 'Government departments, agencies or teams that exist on GOV.UK'
+text: 'Government departments, agencies or teams that are on the GOV.UK website'
