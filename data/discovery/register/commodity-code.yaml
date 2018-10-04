@@ -1,0 +1,11 @@
+fields:
+- commodity-code 
+- name
+- parent
+- start-date
+- end-date
+- change-date 
+phase: discovery
+register: commodity-code 
+registry: department-for-international-trade 
+text: A register of commodity codes
