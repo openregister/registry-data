@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: allowed-persons
-phase: discovery
-register: ''
-text: The persons able to use the legal basis for the information sharing agreement — this is referring to the information sharing agreement person record in the Persons for the information sharing agreements under chapters 1, 2, 3 and 4 of part 5 of the Digital Economy Act 2017 register.

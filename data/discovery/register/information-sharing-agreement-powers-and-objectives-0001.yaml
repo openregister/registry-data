@@ -1,7 +1,6 @@
 fields:
 - information-sharing-agreement-powers-and-objectives-0001
 - name
-- allowed-persons
 - start-date
 - end-date
 phase: discovery
