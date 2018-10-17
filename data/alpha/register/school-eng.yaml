@@ -1,12 +1,10 @@
 fields:
 - school-eng
 - name
-- address
 - school-type-eng
 - minimum-age
 - maximum-age
 - school-capacity
-- headteacher
 - start-date
 - end-date
 phase: alpha

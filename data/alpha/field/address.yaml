@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: address
-phase: alpha
-register: ''
-text: 'The unique property reference number (UPRN) for an address in the UK.'

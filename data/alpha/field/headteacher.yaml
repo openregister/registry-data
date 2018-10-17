@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: headteacher
-phase: alpha
-register: ''
-text: The name of the headteacher or principal for a school or educational establishment.

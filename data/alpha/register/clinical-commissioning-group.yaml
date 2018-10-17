@@ -1,7 +1,6 @@
 fields:
 - clinical-commissioning-group
 - name
-- address
 - start-date
 - end-date
 phase: alpha
