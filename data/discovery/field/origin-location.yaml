@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: origin-location
+phase: discovery
+register: 
+text: 'placeholder field description'

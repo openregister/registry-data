@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: geographical-indicator-classification
+phase: discovery
+register: geographical-indicator-classification
+text: 'placeholder field description'

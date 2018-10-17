@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: product-class
+phase: discovery
+register:
+text: 'placeholder field description'

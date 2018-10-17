@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: datetime
+field: submission-date
+phase: discovery
+register: ''
+text: 'placeholder text' 
