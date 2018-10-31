@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: area-names
+phase: beta 
+register: ''
+text: The names of the geographical areas the information sharing agreement applies to.

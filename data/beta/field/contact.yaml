@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: contact
+phase: beta 
+register: ''
+text: The contact details for subject access requests for the information sharing agreement.
