@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: controller-names
+phase: beta 
+register: ''
+text: The names for the disclosers of the information being shared.
