@@ -1,4 +1,4 @@
-cardinality: 'n'
+cardinality: '1'
 datatype: curie
 field: region
 phase: discovery
