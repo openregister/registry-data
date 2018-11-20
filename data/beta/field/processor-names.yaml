@@ -3,4 +3,4 @@ datatype: string
 field: processor-names
 phase: beta 
 register: ''
-text: The names for the receivers of the information being shared.
+text: Names of the processors or controllers in receipt of the information 
