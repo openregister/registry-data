@@ -3,4 +3,4 @@ datatype: curie
 field: region
 phase: alpha 
 register: ''
-text: tbc
+text: The region in the UK where the further education college is located.  
