@@ -3,4 +3,4 @@ datatype: string
 field: further-education-college-uk
 phase: alpha 
 register: further-education-college-uk
-text: tbc 
+text: The unique code of a further education college. 

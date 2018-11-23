@@ -3,4 +3,4 @@ datatype: string
 field: further-education-college-region-uk
 phase: alpha 
 register: further-education-college-region-uk
-text: tbc 
+text: The unique code of a region where a further education college in the UK is located. 
