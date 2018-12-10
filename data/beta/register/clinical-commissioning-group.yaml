@@ -3,7 +3,7 @@ fields:
 - name
 - start-date
 - end-date
-phase: discovery
+phase: beta
 register: clinical-commissioning-group
 registry: nhs-digital
 text: "Clinical Commissioning Groups in England"

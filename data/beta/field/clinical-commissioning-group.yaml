@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: clinical-commissioning-group
-phase: alpha
+phase: beta
 register: clinical-commissioning-group
 text: The unique code assigned to the Clinical Commissioning Group.

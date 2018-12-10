@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: clinical-commissioning-group
-phase: discovery
-register: clinical-commissioning-group
-text: The unique code assigned to the Clinical Commissioning Group.
