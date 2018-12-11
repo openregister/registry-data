@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: region
-phase: alpha 
-register: ''
-text: The region in the UK where the further education college is located.  
