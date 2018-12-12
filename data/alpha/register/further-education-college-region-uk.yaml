@@ -1,9 +1,0 @@
-fields:
-- further-education-college-region-uk
-- name
-- start-date                  
-- end-date 
-phase: alpha 
-register: further-education-college-region-uk
-registry: department-for-international-trade 
-text: A register of the regions in the United Kingdom, where a further education college is situated
