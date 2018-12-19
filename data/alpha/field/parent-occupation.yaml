@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: parent-occupation
-phase: alpha
-register: occupation
-text: Parent SOC occupation Code.

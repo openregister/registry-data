@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: company
-phase: discovery
-register: 
-text: A UK registered company.

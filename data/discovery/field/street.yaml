@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: street
-phase: discovery
-register: street
-text: 'A street in the UK'

@@ -1,7 +1,0 @@
-text: "Local land and property gazetteer custodian"
-phase: "discovery"
-fields:
-- "street-custodian"
-- "organisation"
-register: "street-custodian"
-registry: "government-digital-service"

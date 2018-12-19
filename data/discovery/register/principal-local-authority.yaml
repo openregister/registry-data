@@ -1,6 +1,0 @@
-fields:
-- principal-local-authority
-phase: discovery
-register: principal-local-authority
-registry: welsh-government
-text: Principal local authorities in Wales

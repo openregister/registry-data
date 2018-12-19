@@ -1,9 +1,0 @@
-fields:
-- profession-capability-framework-mastery-level
-- name
-- start-date
-- end-date
-phase: discovery
-register: profession-capability-framework-mastery-level
-registry: government-digital-service
-text: 'Description TBD'

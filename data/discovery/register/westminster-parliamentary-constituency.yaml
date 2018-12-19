@@ -1,9 +1,0 @@
-fields:
-- "westminster-parliamentary-constituency"
-- "name"
-- "start-date"
-- "end-date"
-phase: "discovery"
-register: "westminster-parliamentary-constituency"
-registry: "the-electoral-commission"
-text: "Constituency in the Westminster parliament"

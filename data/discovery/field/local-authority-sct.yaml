@@ -1,6 +1,0 @@
-text: "A local authority in Scotland."
-field: "local-authority-sct"
-phase: "discovery"
-datatype: "string"
-register: 
-cardinality: "1" 

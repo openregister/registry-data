@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: contact
-phase: discovery
-register: ''
-text: The contact details for subject access requests for the information sharing agreement.

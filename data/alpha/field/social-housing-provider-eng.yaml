@@ -1,6 +1,0 @@
-field: social-housing-provider-eng
-phase: alpha
-datatype: string
-register: social-housing-provider-eng
-cardinality: "1"
-text: The Registered Provider code of a social housing provider in England.

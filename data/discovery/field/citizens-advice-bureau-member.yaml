@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: citizens-advice-bureau-member
-phase: discovery
-register: citizens-advice-bureau-member
-text: Member organisation of Citizens Advice in England or Wales.

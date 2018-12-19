@@ -1,9 +1,0 @@
-fields:
-- apprenticeship-end-point-assessment-organisation-type
-- name
-- start-date
-- end-date
-phase: discovery
-register: apprenticeship-end-point-assessment-organisation-type
-registry: department-for-education
-text: A register of apprenticeship end-point assessment organisation types

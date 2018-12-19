@@ -1,9 +1,0 @@
-fields:
-- citizens-advice-bureau-location-type
-- name
-- start-date
-- end-date
-phase: discovery
-register: citizens-advice-bureau-location-type
-registry: cabinet-office
-text: Types of Citizens Advice Bureaux location in England and Wales

@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: processor-names
-phase: discovery
-register: ''
-text: The names for the receivers of the information being shared.

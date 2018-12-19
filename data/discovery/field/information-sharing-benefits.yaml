@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: information-sharing-benefits
-phase: discovery
-register: ''
-text: The intended benefits of the information sharing agreement.

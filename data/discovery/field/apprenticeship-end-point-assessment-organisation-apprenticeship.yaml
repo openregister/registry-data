@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: apprenticeship-end-point-assessment-organisation-apprenticeship
-phase: discovery
-register: apprenticeship-end-point-assessment-organisation-apprenticeship
-text: An apprenticeship offered by an apprenticeship-end-point-assessment-organisation.

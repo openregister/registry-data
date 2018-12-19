@@ -1,6 +1,0 @@
-field: social-housing-provider-legal-entity-eng
-phase: alpha
-datatype: string
-register: social-housing-provider-legal-entity-eng
-cardinality: "1"
-text: The possible legal classifications for social housing providers in England.

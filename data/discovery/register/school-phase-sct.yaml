@@ -1,9 +1,0 @@
-fields:
-- school-phase-sct
-- name
-- start-date
-- end-date
-phase: discovery
-register: school-phase-sct
-registry: cabinet-office
-text: tbd

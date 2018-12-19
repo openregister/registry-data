@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: public-body-account-classifications
-phase: alpha
-register: public-body-account-classification
-text: National accounting classifications that a public body can have.

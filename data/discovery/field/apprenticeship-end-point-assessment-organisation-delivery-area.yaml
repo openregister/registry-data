@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: apprenticeship-end-point-assessment-organisation-delivery-area
-phase: discovery
-register: apprenticeship-end-point-assessment-organisation-delivery-area
-text: The area where an assessment organisation provides an apprenticeship.

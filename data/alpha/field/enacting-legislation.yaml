@@ -1,6 +1,0 @@
-text: The legislation that led to the creation of a council area in Scotland.
-field: enacting-legislation
-phase: alpha
-datatype: string
-register: ""
-cardinality: "1"

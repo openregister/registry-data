@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: text
-field: information-sharing-method
-phase: discovery
-register: ''
-text: How the information is shared.

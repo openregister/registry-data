@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: name-cy
-phase: discovery
-register: ''
-text: Welsh name for an entry.

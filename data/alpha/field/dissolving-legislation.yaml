@@ -1,6 +1,0 @@
-text: The legislation that led to the dissolution of a council area in Scotland.
-field: dissolving-legislation
-phase: alpha
-datatype: string
-register: ""
-cardinality: "1"

@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: school-sct
-phase: discovery
-register: school-sct
-text: A school in Scotland.

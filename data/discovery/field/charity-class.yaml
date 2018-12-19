@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: charity-class
-phase: discovery
-register: charity-class
-text: The class of a charity registered in England or Wales as defined by the Charity Commission.

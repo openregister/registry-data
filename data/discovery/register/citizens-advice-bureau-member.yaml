@@ -1,8 +1,0 @@
-fields:
-- citizens-advice-bureau-member
-- start-date
-- end-date
-phase: discovery
-register: citizens-advice-bureau-member
-registry: cabinet-office
-text: Members organisation of Citizen Advice in England and Wales

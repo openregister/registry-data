@@ -1,6 +1,0 @@
-datatype: period
-phase: discovery
-text: "A time interval as described in [ISO 8601](http://https://en.wikipedia.org/wiki/ISO_8601). The intervening 
-    time between two points can be described in four ways: start date and end date, start date and duration, duration 
-    and end date or duration only. A start date and end date must follow the [datetime datatype](https://datatype.cloudapps.digital/record/datetime) 
-    and a duration must be formatted as described by ISO 8601."

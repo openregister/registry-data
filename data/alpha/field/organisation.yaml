@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: organisation
-phase: alpha
-register: ''
-text: The entity's organisation.

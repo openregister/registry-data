@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: industrial-classification-2003
-phase: discovery
-register: industrial-classification-2003
-text: 'A Standard Industrial Code (SIC) used to classify business establishments and other standard units by the type of economic activity in which they are engaged, as defined in 2003.'

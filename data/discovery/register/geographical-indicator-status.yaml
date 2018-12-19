@@ -1,9 +1,0 @@
-fields:
-- geographical-indicator-status
-- name
-- start-date
-- end-date
-phase: discovery
-register: geographical-indicator-status
-registry: 'department-for-environment-food-rural-affairs'
-text: 'Placeholder Text'

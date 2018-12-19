@@ -1,9 +1,0 @@
-fields:
-- charity-class
-- name
-- start-date
-- end-date
-phase: discovery
-register: charity-class
-registry: charity-commission
-text: The classes a charity can fall into as defined by the Charity Commission

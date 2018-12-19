@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: citizens-advice-bureau-location-type
-phase: discovery
-register: citizens-advice-bureau-location-type
-text: Type of a Citizens Advice Bureau location in England or Wales.

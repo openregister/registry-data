@@ -1,9 +1,0 @@
-fields:
-- school-type-eng
-- name
-- start-date
-- end-date
-phase: alpha
-register: school-type-eng
-registry: department-for-education
-text: Types of schools in England

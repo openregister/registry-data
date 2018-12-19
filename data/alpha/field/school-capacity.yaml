@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: integer
-field: school-capacity
-phase: alpha
-register: ''
-text: A school’s capacity of pupil places.

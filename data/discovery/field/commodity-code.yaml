@@ -3,4 +3,4 @@ datatype: string
 field: commodity-code 
 phase: discovery
 register: commodity-code
-text: tbc 
+text: tbc

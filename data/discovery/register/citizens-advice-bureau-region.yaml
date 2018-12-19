@@ -1,9 +1,0 @@
-fields:
-- citizens-advice-bureau-region
-- name
-- start-date
-- end-date
-phase: discovery
-register: citizens-advice-bureau-region
-registry: cabinet-office
-text: Contact regions of Citizens Advice Bureaux in England and Wales

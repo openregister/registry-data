@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: classification
-phase: discovery
-register:
-text: 'placeholder field description'

@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: integer
-field: maximum-age
-phase: alpha
-register: ''
-text: Maximum age.

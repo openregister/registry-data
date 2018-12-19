@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: datetime
-field: review-date
-phase: discovery
-register: ''
-text: When the information sharing agreement will be reviewed.

@@ -3,4 +3,5 @@ datatype: string
 field: register
 phase: discovery
 register: register
-text: The name of a register.
+text: Registers maintained by the UK government
+

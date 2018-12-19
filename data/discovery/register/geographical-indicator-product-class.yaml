@@ -1,9 +1,0 @@
-fields:
-- geographical-indicator-product-class
-- name
-- start-date
-- end-date
-phase: discovery
-register: geographical-indicator-product-class
-registry: 'department-for-environment-food-rural-affairs'
-text: 'Placeholder Text'

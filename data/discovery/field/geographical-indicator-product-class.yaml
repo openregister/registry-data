@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: geographical-indicator-product-class
-phase: discovery
-register: geographical-indicator-product-class
-text: 'placeholder field description'

@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: curie
-field: areas
-phase: discovery
-register: ''
-text: The unique codes for the geographical areas the information sharing agreement applies to.

@@ -1,9 +1,0 @@
-fields:
-- public-body-account-classification
-- name
-- start-date
-- end-date
-phase: alpha
-register: public-body-account-classification
-registry: office-for-national-statistics
-text: 'A register of the national accounting classifications that current and former public bodies can have'

@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: place
-phase: discovery
-register: place
-text: 'A named place in the UK'

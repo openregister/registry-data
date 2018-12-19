@@ -1,9 +1,0 @@
-fields:
-- profession-capability-framework-job-title
-- name
-- start-date
-- end-date
-phase: discovery
-register: profession-capability-framework-job-title
-registry: government-digital-service
-text: 'Description TBD'

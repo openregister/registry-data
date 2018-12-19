@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: citizens-advice-bureau-region
-phase: discovery
-register: citizens-advice-bureau-region
-text: Contact region of a Citizens Advice Bureau in England or Wales.

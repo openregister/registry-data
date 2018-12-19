@@ -1,9 +1,0 @@
-fields:
-- social-housing-provider-designation-eng
-- name
-- start-date
-- end-date
-phase: alpha
-register: social-housing-provider-designation-eng
-registry: homes-and-communities-agency
-text: The designation of a social housing provider in England

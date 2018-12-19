@@ -1,6 +1,0 @@
-text: "Local land and property gazetteer custodian"
-field: "street-custodian"
-phase: "discovery"
-datatype: "string"
-register: "street-custodian"
-cardinality: "1"

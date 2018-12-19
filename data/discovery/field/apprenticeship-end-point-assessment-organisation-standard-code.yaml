@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: apprenticeship-end-point-assessment-organisation-standard-code
-phase: discovery
-register: apprenticeship-end-point-assessment-organisation-standard-code
-text: A unique reference for the apprenticeship standard 

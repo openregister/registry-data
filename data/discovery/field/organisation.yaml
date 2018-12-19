@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: curie
-field: organisation
-phase: discovery
-register: ''
-text: A legal entity.

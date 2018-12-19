@@ -1,9 +1,0 @@
-fields:
-- apprenticeship-end-point-assessment-organisation-delivery-area
-- name
-- start-date
-- end-date
-phase: discovery
-register: apprenticeship-end-point-assessment-organisation-delivery-area
-registry: department-for-education
-text: Delivery areas where apprenticeship end-point assessment organisations can deliver apprenticeship end-point assessment

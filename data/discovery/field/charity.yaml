@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: charity
-phase: discovery
-register: charity
-text: A charity registered in England or Wales.

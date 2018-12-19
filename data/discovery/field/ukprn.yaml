@@ -1,6 +1,0 @@
-cardinality: 'n'
-datatype: string
-field: ukprn
-phase: discovery
-register: ''
-text: A UK Provider Reference Number.
