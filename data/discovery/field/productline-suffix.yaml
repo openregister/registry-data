@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: productline-suffix 
+phase: discovery
+register: 
+text: tbc

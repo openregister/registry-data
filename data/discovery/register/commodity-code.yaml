@@ -1,7 +1,9 @@
 fields:
 - commodity-code 
 - name
-- parent
+- goods-nomenclature-item-id
+- productline-suffix
+- number-indents 
 - start-date
 - end-date
 - change-date 

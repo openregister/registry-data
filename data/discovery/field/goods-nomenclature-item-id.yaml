@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: string
+field: goods-nomenclature-item-id 
+phase: discovery
+register: 
+text: tbc
