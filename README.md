@@ -1,26 +1,20 @@
-# Registry register data
+# Registers Registry
 
-The data for the
-[registry register](http://registry.openregister.org),
-[register register](http://register.openregister.org),
-[field register](http://field.openregister.org) and
-[datatype register](http://datatype.openregister.org) in each
-environment is currently maintained as individual yaml files in the
-[data](data/) directory.
+This repository contains the master copies of all registers currently managed
+by GDS in the Registers Serialisation Format.
 
-# Testing
+To extract information from them you can use the [Registers
+CLI](https://github.com/openregister/registers-cli).
+
+
+## Testing
 
 [![Build Status](https://travis-ci.org/openregister/registry-data.svg?branch=master)](https://travis-ci.org/openregister/registry-data)
 
-The shape of the registers and links between the data can be tested by running `make`
-— we recommend using a [Python virtual environment](http://virtualenvwrapper.readthedocs.org/en/latest/):
+To run the tests, make sure you have
+[Pipenv](https://pipenv.readthedocs.io/en/latest/) installed and run:
 
-    $ mkvirtualenv -p python3 registry-data
-    $ workon registry-data
-    $ make init
-
-    $ make
-
-A dump of each register for each environment as `JSON-L` is generated
-in the [prod](prod) directory.  You can make a single environment
-using `make alpha`, `make beta` or `make test`.
+```sh
+$ pipenv install
+$ pipenv run make
+```
