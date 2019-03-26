@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: point
-field: point
-phase: discovery
-register: ''
-text: 'A geographical location'

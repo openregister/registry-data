@@ -16,5 +16,5 @@ To run the tests, make sure you have
 
 ```sh
 $ pipenv install
-$ pipenv run make
+$ make
 ```

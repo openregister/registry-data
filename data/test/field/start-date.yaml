@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: datetime
-field: start-date
-phase: beta
-register: ''
-text: Start datetime for the applicability of a register entry.

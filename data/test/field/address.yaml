@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: address
-phase: discovery
-register: 
-text: A place in the UK with a postal address.

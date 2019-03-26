@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: primary-address
-phase: discovery
-register: address
-text: 'An address which is the primary address for an address'
