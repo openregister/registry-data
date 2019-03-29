@@ -1,6 +1,6 @@
 # Registers Registry
 
-This repository contains the master copies of all registers currently managed
+This repository contains the master copies of all registers currently hosted
 by GDS in the Registers Serialisation Format.
 
 To extract information from them you can use the [Registers
