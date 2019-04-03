@@ -1,9 +1,0 @@
-datatype: point
-phase: discovery
-text: A longitude and latitude pair of coordinates, encoded as a string
-    representation of the GeoJSON point coordinates format. The values are
-    [Decimal Degrees](http://en.wikipedia.org/wiki/Decimal_degrees) in the
-    [ETRS89](https://en.wikipedia.org/wiki/European_Terrestrial_Reference_System_1989)
-    coordinate system for European locations and the largely compatible
-    [WGS84](http://spatialreference.org/ref/epsg/wgs-84/) coordinate system for
-    worldwide locations.

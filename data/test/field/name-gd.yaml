@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: name-gd
-phase: discovery
-register: ''
-text: Gaelic name for an entry
