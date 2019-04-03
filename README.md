@@ -9,8 +9,6 @@ CLI](https://github.com/openregister/registers-cli).
 
 ## Testing
 
-[![Build Status](https://travis-ci.org/openregister/registry-data.svg?branch=master)](https://travis-ci.org/openregister/registry-data)
-
 To run the tests, make sure you have
 [Pipenv](https://pipenv.readthedocs.io/en/latest/) installed and run:
 
@@ -18,3 +16,13 @@ To run the tests, make sure you have
 $ pipenv install
 $ make
 ```
+
+## Licence
+
+Unless stated otherwise, the codebase is released under [the MIT licence](./LICENSE).
+
+The data is [© Crown
+copyright](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/)
+and available under the terms of the [Open Government
+3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+licence.
