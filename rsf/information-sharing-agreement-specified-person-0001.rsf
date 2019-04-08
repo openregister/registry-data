@@ -226,3 +226,9 @@ append-entry	user	91	2019-01-24T13:20:01Z	sha-256:92c99e75ba338302f7c3c06f245b46
 append-entry	user	92	2019-01-24T13:22:16Z	sha-256:fe3a5c788f2dba5ebfeef19f442f99ebeee19dd8c082114a485e0f95d7eee44a
 append-entry	user	93	2019-01-24T13:23:34Z	sha-256:4bbb6d101e173f0893ad269654c527562c8b680e10fa7368e87b16218f523626
 assert-root-hash	sha-256:1c8a08f7e6ba03b2a863de3a88cfae91c155267881e636c98623281b69ad3d45
+add-item	{"information-sharing-agreement-specified-person-0001":"94","name":"A licensed gas and/or electricity supplier","relevant-powers":["information-sharing-agreement-powers-and-objectives-0001:2"]}
+append-entry	user	94	2019-04-08T16:35:47Z	sha-256:33ea1ba5f08528e183018e936cd0f7f2e801cc694454c07263ed916fe1f310a1
+add-item	{"information-sharing-agreement-specified-person-0001":"95","name":"A water or sewerage undertaker for an area which is wholly or mainly in England","relevant-powers":["information-sharing-agreement-powers-and-objectives-0001:3"]}
+append-entry	user	95	2019-04-08T16:35:47Z	sha-256:9f282a08394ede7ac87d730c5e06f749cc07bdd521c92291cc81ce62c7350eca
+add-item	{"information-sharing-agreement-specified-person-0001":"96","name":"A water or sewerage undertaker for an area which is wholly or mainly in Wales.","relevant-powers":["information-sharing-agreement-powers-and-objectives-0001:3"]}
+append-entry	user	96	2019-04-08T16:35:47Z	sha-256:ad7d5392012a538d028bace1065d113c48325bf096b96568a1f71d5ec3a137b6
