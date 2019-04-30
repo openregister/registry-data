@@ -514,3 +514,7 @@ append-entry	user	99N	2019-02-07T15:28:40Z	sha-256:254d68c4a8d4b23a967083abbaf15
 append-entry	user	99P	2019-02-07T15:28:40Z	sha-256:380ae60e2ab7116ca2cd193f457da3e3b0ebf2f24a4f3063fb2c69f0948f6727
 append-entry	user	99Q	2019-02-07T15:28:40Z	sha-256:7697e7ed0b39c7438b15baa30a6ccef95f7a299cfa8f31827e75b68b20b79aa0
 assert-root-hash	sha-256:cedc2d34da13df5b40086476d41f14c705fb64b84a1bca20c2afa00eb6629e58
+add-item	{"clinical-commissioning-group":"15M","name":"NHS DERBY AND DERBYSHIRE CLINICAL COMMISSIONING GROUP","start-date":"2019-04-01"}
+append-entry	user	15M	2019-04-30T21:15:08Z	sha-256:1b6f3183598f530ae3f3b0572b100603370e4628533cc77e47debe23721ced4f
+add-item	{"clinical-commissioning-group":"15N","name":"NHS DEVON CLINICAL COMMISSIONING GROUP","start-date":"2019-04-01"}
+append-entry	user	15N	2019-04-30T21:15:08Z	sha-256:2f37e09fcff898809c2a63fbeaaf8483dfa31931c76b5ce0a9d82e86eb8780b1
