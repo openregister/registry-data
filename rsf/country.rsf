@@ -452,3 +452,5 @@ append-entry	user	CI	2017-10-25T09:52:52Z	sha-256:b3ca21b3b3a795ab9cd1d10f3d4479
 append-entry	user	SZ	2018-06-13T13:54:40Z	sha-256:f89f36ed8b2a1417237a8e95b810e8ab4ead844277ad7bc7794cb5f83732c976
 append-entry	user	MK	2019-02-25T16:59:09Z	sha-256:6e0211da3f460192d8d94bdc76736e2e5762bd24563f63cce94566ff8228c189
 assert-root-hash	sha-256:3bacea769627d20ed9a2cfde54173da3c9d630b3fc9ed80431a1cee2196c8a4a
+add-item	{"citizen-names":"Citizen of Myanmar","country":"MM","name":"Myanmar (Burma)","official-name":"The Republic of the Union of Myanmar"}
+append-entry	user	MM	2019-06-14T14:27:30Z	sha-256:3ec085376ed62e73e1bf777cee193a32cd1115f7f20e20675e04da5214ecfe78
