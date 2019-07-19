@@ -518,3 +518,19 @@ add-item	{"clinical-commissioning-group":"15M","name":"NHS DERBY AND DERBYSHIRE 
 append-entry	user	15M	2019-05-01T11:15:22Z	sha-256:1b6f3183598f530ae3f3b0572b100603370e4628533cc77e47debe23721ced4f
 add-item	{"clinical-commissioning-group":"15N","name":"NHS DEVON CLINICAL COMMISSIONING GROUP","start-date":"2019-04-01"}
 append-entry	user	15N	2019-05-01T11:15:22Z	sha-256:2f37e09fcff898809c2a63fbeaaf8483dfa31931c76b5ce0a9d82e86eb8780b1
+add-item	{"clinical-commissioning-group":"15N","name":"NHS DEVON CCG","start-date":"2019-04-01"}
+append-entry	user	15N	2019-07-19T13:30:54Z	sha-256:70bf8ace9fc1f4b264e6158e54aa95a7b213e54556d434e8715233c41331824b
+add-item	{"clinical-commissioning-group":"15M","name":"NHS DERBY AND DERBYSHIRE CCG","start-date":"2019-04-01"}
+append-entry	user	15M	2019-07-19T13:30:54Z	sha-256:b031a415a8ea0054c5c13f6a51278ddb7e8f95ebbe4b6a4414bf6d760baf8a2a
+add-item	{"clinical-commissioning-group":"99Q","end-date":"2019-03-31","name":"NHS SOUTH DEVON AND TORBAY CCG","start-date":"2013-04-01"}
+append-entry	user	99Q	2019-07-19T13:30:54Z	sha-256:34ce755eb2a93aae0ff5dcce9560a09f55eb368de1e77fa5bc738350b0292421
+add-item	{"clinical-commissioning-group":"99P","end-date":"2019-03-31","name":"NHS NORTHERN, EASTERN AND WESTERN DEVON CCG","start-date":"2013-04-01"}
+append-entry	user	99P	2019-07-19T13:30:54Z	sha-256:226f8ed5fe16e9d742e131c1170e6d5d11f75d870b6b41c049a8b24a1544881f
+add-item	{"clinical-commissioning-group":"04R","end-date":"2019-03-31","name":"NHS SOUTHERN DERBYSHIRE CCG","start-date":"2013-04-01"}
+append-entry	user	04R	2019-07-19T13:30:54Z	sha-256:9f3897df8fa348adb7ebce37c2e3f0479e6c97bba175f482f3e8179b6c042451
+add-item	{"clinical-commissioning-group":"04J","end-date":"2019-03-31","name":"NHS NORTH DERBYSHIRE CCG","start-date":"2013-04-01"}
+append-entry	user	04J	2019-07-19T13:30:54Z	sha-256:d28fb5fd44e8f26aff8c4f8d3ceed989b9c76e1715944dc7d5e67a801530de09
+add-item	{"clinical-commissioning-group":"03Y","end-date":"2019-03-31","name":"NHS HARDWICK CCG","start-date":"2013-04-01"}
+append-entry	user	03Y	2019-07-19T13:30:54Z	sha-256:0d9463753d8d69326d707b0784b0957644705adaab240704c89079c03058048d
+add-item	{"clinical-commissioning-group":"03X","end-date":"2019-03-31","name":"NHS EREWASH CCG","start-date":"2013-04-01"}
+append-entry	user	03X	2019-07-19T13:30:54Z	sha-256:34f57db42314779fa4c3d34f63b17de9be21af1f8fb924fef936a0abef028040
