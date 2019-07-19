@@ -1776,3 +1776,21 @@ append-entry	user	2756	2018-10-15T15:58:04Z	sha-256:c1481fbeef49381239d8f4bb6a23
 append-entry	user	9822	2018-10-15T15:59:58Z	sha-256:f4153f8e8d35873435174ec7d60ab320770c2182d9fc8b02638e8a83deb0eefe
 append-entry	user	1735	2018-10-15T16:03:58Z	sha-256:5aa736edb1d0a327d51a10f79dcdcf55b50d5d18bd3d0b913690f5fa24320ee9
 assert-root-hash	sha-256:843af3aabeefb009b43dcb97a45a99aa41f2a6100f22bc5527955bb572a7b17b
+add-item	{"address":"10090511700","jobcentre":"1791","jobcentre-district":"137","name":"Bexhill"}
+append-entry	user	1791	2019-07-07T14:24:47Z	sha-256:d3730e6ab407f2afd369b9a0a15fbc1b6988a822cb02d768b07405325d9636da
+add-item	{"address":"100012609264","jobcentre":"7629","jobcentre-district":"105","name":"Blackpool"}
+append-entry	user	7629	2019-07-07T14:24:47Z	sha-256:d4c747cdc3197452e45b5505b3df4406b19e933e1ecba90305c31ff940f828ab
+add-item	{"address":"10090745906","jobcentre":"4720","jobcentre-district":"118","name":"Bromsgrove"}
+append-entry	user	4720	2019-07-07T14:24:47Z	sha-256:b31a10991c82c6ed590087df7669d56bba694ec1c142c61654f3fe3643111493
+add-item	{"address":"10093304529","jobcentre":"1834","jobcentre-district":"117","name":"Maidstone"}
+append-entry	user	1834	2019-07-07T14:24:47Z	sha-256:75b73b234ed967f2abd23aefec8ed8155e85c308a859a17e5e82e3ee64adc1f0
+add-item	{"address":"10003003170","jobcentre":"1541","jobcentre-district":"106","name":"Uxbridge"}
+append-entry	user	1541	2019-07-07T14:24:47Z	sha-256:1d763562280df06e14d79e74d73f9b963759ab531d424dd15263c40d0feb4eb9
+add-item	{"address":"100022978380","jobcentre":"4695","jobcentre-district":"119","name":"Walthamstow Forest Road"}
+append-entry	user	4695	2019-07-07T14:24:47Z	sha-256:ac5774b5a4fcf7afa783311e9542c601e53060e0d5a4b6575c9b633cb6245e7f
+add-item	{"jobcentre":"9612","jobcentre-district":"115","name":"Caernarfon"}
+append-entry	user	9612	2019-07-07T14:24:47Z	sha-256:27d05a14920e23dd40e1c8d64d098994e10cbada7d4d4d935d53485f9f3d5c17
+add-item	{"address":"10091157379","jobcentre":"4578","jobcentre-district":"112","name":"Lichfield","start-date":"2019-03-20"}
+append-entry	user	4578	2019-07-07T14:24:47Z	sha-256:3c94ca07f687c5fa6f86e0f4754269fab04d5be32cb68a10e01ce877b7970e1a
+add-item	{"jobcentre":"7622","jobcentre-district":"110","name":"Ashton-under-Lyne"}
+append-entry	user	7622	2019-07-07T14:24:47Z	sha-256:4d514f46419f0cf09c2bf171db7d5e9807a045f5d0a0c79a2940d4c835c72353
