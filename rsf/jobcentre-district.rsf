@@ -162,3 +162,5 @@ append-entry	user	127	2018-07-05T10:29:49Z	sha-256:d4d489417e5d47d542766b836c443
 append-entry	user	117	2018-07-05T10:30:15Z	sha-256:56a4c8496b9bfc07729278600f2aa6aaeb8d4d17e153bc46dbc7e23c3a10dffe
 append-entry	user	109	2018-07-05T10:30:39Z	sha-256:c019dd937a6a305dd42bc86882aadfc79548f16f70b9524ca4d61b2283aafc4e
 assert-root-hash	sha-256:157bee23312a010efabc3e071f2e993852ec5b7467ed937d34c89ab361c51edc
+add-item	{"jobcentre-district":"112","jobcentre-group":"21","name":"Staffordshire and Derbyshire"}
+append-entry	user	112	2019-11-18T16:29:01Z	sha-256:4997ea89d8adb231f1e99df1a308b8147d7f6ed33bf87d43cee980a09d197670
