@@ -1806,3 +1806,15 @@ add-item	{"address":"452097936.0","jobcentre":"4549","jobcentre-district":"118",
 append-entry	user	4549	2019-11-18T16:27:58Z	sha-256:521c5b53862f95533ad5387f7e77fbc85ec48c781f5e5141a743dd0f16c7f5ba
 add-item	{"address":"100072000000.0","jobcentre":"4554","jobcentre-district":"118","name":"Whitchurch"}
 append-entry	user	4554	2019-11-18T16:27:58Z	sha-256:6994f1c614f1beecff7dd222a18d718686d86b8ed08c04bd7b424961e50e83b2
+add-item	{"address":"100071000000","jobcentre":"4541","jobcentre-district":"118","name":"Bridgnorth"}
+append-entry	user	4541	2019-11-18T16:46:39Z	sha-256:5613e12c56586d3f5ad7957afc0946f5b9784ba0ac013620a31b0e454ad97351
+add-item	{"address":"10014523996","jobcentre":"4507","jobcentre-district":"118","name":"Market Drayton"}
+append-entry	user	4507	2019-11-18T16:46:39Z	sha-256:3b657171b645ffcd2d4292a74274d7800a01e6967695f9c4b0bb45d89a4018c0
+add-item	{"address":"100072000000","jobcentre":"4550","jobcentre-district":"118","name":"Oswestry"}
+append-entry	user	4550	2019-11-18T16:46:39Z	sha-256:05c05cd40c35ec1928fc731842bd85b4ba2380b7066252bf7793ff17732dd1ad
+add-item	{"address":"100072000000","jobcentre":"4551","jobcentre-district":"118","name":"Shrewsbury"}
+append-entry	user	4551	2019-11-18T16:46:39Z	sha-256:e42f11e6a86687c49a27f490d522bb4aac9af4d106208d231fcf8e82ccbbda45
+add-item	{"address":"452097936","jobcentre":"4549","jobcentre-district":"118","name":"Telford"}
+append-entry	user	4549	2019-11-18T16:46:39Z	sha-256:e86531499fd37f0ba8bd1a427988a3ea7ce64f8ef31b3cc644ed4f33bdc31d1a
+add-item	{"address":"100072000000","jobcentre":"4554","jobcentre-district":"118","name":"Whitchurch"}
+append-entry	user	4554	2019-11-18T16:46:39Z	sha-256:a4159b5925d382d798583ab899c5716a91761474931b42485ad3d89d3af6d4da
